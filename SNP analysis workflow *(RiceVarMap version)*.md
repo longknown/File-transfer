@@ -27,7 +27,9 @@
 		* Non-reference pattern: all loci are possessed by allele different from the on in reference genome
 * **trinary pattern**
 	* This is a newly coined term, in which reference allele is replaced by 0, non-reference allele is replaced by 1 and 'N' is replaced by 2(Note that because the sequencing of rice genome got a miss-calling at the specific SNP position, an 'N' will occur)
-	* e.g. reference pattern of osa-MIR443: CGGA <===> 0000; while AATT <===> 1111
+	* e.g. reference pattern of osa-MIR443: 
+		* CGGA <===> 0000;
+		* while AATT <===> 1111
 
 **Steps of analysis:**
 
