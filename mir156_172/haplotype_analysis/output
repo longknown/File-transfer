@@ -1,0 +1,36 @@
+osa-miR156b-5p, Number of SNPs:2
+10104666393, Relative Position:11
+Mutated allele: C
+UGACAGAAGAGAGUGAGCAC
+||||||||||*|||||||||
+UGACAGAAGACAGUGAGCAC
+10104666395, Relative Position:13
+Mutated allele: A
+UGACAGAAGAGAGUGAGCAC
+||||||||||||*|||||||
+UGACAGAAGAAAGUGAGCAC
+
+osa-miR156l-5p, Number of SNPs:1
+10505230623, Relative Position:5
+Mutated allele: G
+CGACAGAAGAGAGUGAGCAUA
+||||*||||||||||||||||
+CGACGGAAGAGAGUGAGCAUA
+
+osa-miR172c, Number of SNPs:3
+10713111497, Relative Position:19
+Mutated allele: A
+UGAAUCUUGAUGAUGCUGCAC
+||||||||||||||||||*||
+UGAAUCUUGAUGAUGCUGUAC
+10713111498, Relative Position:18
+Mutated allele: T
+UGAAUCUUGAUGAUGCUGCAC
+|||||||||||||||||*|||
+UGAAUCUUGAUGAUGCUGAAC
+10713111510, Relative Position:6
+Mutated allele: A
+UGAAUCUUGAUGAUGCUGCAC
+|||||*|||||||||||||||
+UGAAUCUUGAUGAUGCUGUAC
+
