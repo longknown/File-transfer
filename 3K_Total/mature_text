@@ -1,4789 +1,4789 @@
 osa-miR1319a, Number of SNPs:2
-11100702154, Relative Position:14
-Mutated allele: C
+>11100702154, Relative Position:14, Ref allele:T
+>>Mutated allele: C
 AACCGGCAUCUGUAAUAUAUUAUA
 |||||||||||||*||||||||||
 AACCGGCAUCUGUGAUAUAUUAUA
-11100702158, Relative Position:10
-Mutated allele: T
+>11100702158, Relative Position:10, Ref allele:G
+>>Mutated allele: T
 AACCGGCAUCUGUAAUAUAUUAUA
 |||||||||*||||||||||||||
-AACCGGCAUCUGUAAUAUAUUAUA
+AACCGGCAUAUGUAAUAUAUUAUA
 
 osa-miR1319b, Number of SNPs:2
-10323399930, Relative Position:7
-Mutated allele: C
+>10323399930, Relative Position:7, Ref allele:A
+>>Mutated allele: C
 CCUUUAAUAUAUUAUAGGUGUCGG
 ||||||*|||||||||||||||||
 CCUUUACUAUAUUAUAGGUGUCGG
-Mutated allele: G
+>>Mutated allele: G
 CCUUUAAUAUAUUAUAGGUGUCGG
 ||||||*|||||||||||||||||
 CCUUUAGUAUAUUAUAGGUGUCGG
-10323399945, Relative Position:22
-Mutated allele: T
+>10323399945, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 CCUUUAAUAUAUUAUAGGUGUCGG
 |||||||||||||||||||||*||
-CCUUUAUUAUAUUAUAGGUGUCGG
+CCUUUAAUAUAUUAUAGGUGUUGG
 
 osa-miR1423-3p, Number of SNPs:1
-10419715218, Relative Position:8
-Mutated allele: G
+>10419715218, Relative Position:8, Ref allele:A
+>>Mutated allele: G
 AGCGCCCAAGCGGUAGUUGUC
 |||||||*|||||||||||||
 AGCGCCCGAGCGGUAGUUGUC
 
 osa-miR1428b, Number of SNPs:1
-10125390454, Relative Position:21
-Mutated allele: A
+>10125390454, Relative Position:21, Ref allele:G
+>>Mutated allele: A
 UAAGAUAAUGCCAUGAAUUCG
 ||||||||||||||||||||*
 UAAGAUAAUGCCAUGAAUUCA
 
 osa-miR1428d, Number of SNPs:2
-10323077374, Relative Position:19
-Mutated allele: C
+>10323077374, Relative Position:19, Ref allele:T
+>>Mutated allele: C
 UAAGAUAAUGCCAUGAAUUCG
 ||||||||||||||||||*||
 UAAGAUAAUGCCAUGAAUCCG
-10323077376, Relative Position:21
-Mutated allele: A
+>10323077376, Relative Position:21, Ref allele:G
+>>Mutated allele: A
 UAAGAUAAUGCCAUGAAUUCG
 ||||||||||||||||||||*
-UAAGAUAAUGCCAUGAAUACG
+UAAGAUAAUGCCAUGAAUUCA
 
 osa-miR1428e-5p, Number of SNPs:1
-10323076890, Relative Position:11
-Mutated allele: T
+>10323076890, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 AAUUCACAGGCCCUAUCUUGUG
 ||||||||||*|||||||||||
 AAUUCACAGGUCCUAUCUUGUG
 
 osa-miR1428f-5p, Number of SNPs:2
-10705451412, Relative Position:17
-Mutated allele: T
+>10705451412, Relative Position:17, Ref allele:G
+>>Mutated allele: T
 AAUUCACAGGCCCUAUCUUGUG
 ||||||||||||||||*|||||
 AAUUCACAGGCCCUAUAUUGUG
-10705451420, Relative Position:9
-Mutated allele: T
+>10705451420, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 AAUUCACAGGCCCUAUCUUGUG
 ||||||||*|||||||||||||
-AAUUCACAGGCCCUAUAUUGUG
+AAUUCACAAGCCCUAUCUUGUG
 
 osa-miR1428g-5p, Number of SNPs:1
-11003961385, Relative Position:7
-Mutated allele: T
+>11003961385, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 AAUUCACAGGCCCUAUCUUGUG
 ||||||*|||||||||||||||
 AAUUCAUAGGCCCUAUCUUGUG
 
 osa-miR1429-3p, Number of SNPs:3
-10802036961, Relative Position:14
-Mutated allele: T
+>10802036961, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 GUUGCACGGGUUUGUAUGUUG
 |||||||||||||*|||||||
 GUUGCACGGGUUUAUAUGUUG
-10802036965, Relative Position:10
-Mutated allele: T
+>10802036965, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 GUUGCACGGGUUUGUAUGUUG
 |||||||||*|||||||||||
-GUUGCACGGGUUUAUAUGUUG
-10802036970, Relative Position:5
-Mutated allele: A
+GUUGCACGGAUUUGUAUGUUG
+>10802036970, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 GUUGCACGGGUUUGUAUGUUG
 ||||*||||||||||||||||
-GUUGCACGGGUUUUUAUGUUG
+GUUGUACGGGUUUGUAUGUUG
 
 osa-miR1429-5p, Number of SNPs:1
-10802037064, Relative Position:9
-Mutated allele: A
+>10802037064, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 GUAAUAUACUAAUCCGUGCAU
 ||||||||*||||||||||||
 GUAAUAUAUUAAUCCGUGCAU
-Mutated allele: T
+>>Mutated allele: T
 GUAAUAUACUAAUCCGUGCAU
 ||||||||*||||||||||||
 GUAAUAUAAUAAUCCGUGCAU
 
 osa-miR1430, Number of SNPs:2
-11206825028, Relative Position:18
-Mutated allele: G
+>11206825028, Relative Position:18, Ref allele:A
+>>Mutated allele: G
 UGGUGAGCCUUCCUGGCUAAG
 |||||||||||||||||*|||
 UGGUGAGCCUUCCUGGCCAAG
-11206825033, Relative Position:13
-Mutated allele: T
+>11206825033, Relative Position:13, Ref allele:G
+>>Mutated allele: T
 UGGUGAGCCUUCCUGGCUAAG
 ||||||||||||*||||||||
-UGGUGAGCCUUCCUGGCAAAG
-Mutated allele: A
+UGGUGAGCCUUCAUGGCUAAG
+>>Mutated allele: A
 UGGUGAGCCUUCCUGGCUAAG
 ||||||||||||*||||||||
-UGGUGAGCCUUCCUGGCUAAG
+UGGUGAGCCUUCUUGGCUAAG
 
 osa-miR1436, Number of SNPs:4
-10120316613, Relative Position:14
-Mutated allele: A
+>10120316613, Relative Position:14, Ref allele:C
+>>Mutated allele: A
 ACAUUAUGGGACGGAGGGAGU
 |||||||||||||*|||||||
 ACAUUAUGGGACGUAGGGAGU
-10120316614, Relative Position:13
-Mutated allele: T
+>10120316614, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 ACAUUAUGGGACGGAGGGAGU
 ||||||||||||*||||||||
-ACAUUAUGGGACGAAGGGAGU
-10120316615, Relative Position:12
-Mutated allele: A
+ACAUUAUGGGACAGAGGGAGU
+>10120316615, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 ACAUUAUGGGACGGAGGGAGU
 |||||||||||*|||||||||
-ACAUUAUGGGACGUAGGGAGU
-10120316625, Relative Position:2
-Mutated allele: A
+ACAUUAUGGGAUGGAGGGAGU
+>10120316625, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 ACAUUAUGGGACGGAGGGAGU
 |*|||||||||||||||||||
-ACAUUAUGGGACGUAGGGAGU
+AUAUUAUGGGACGGAGGGAGU
 
 osa-miR1437a, Number of SNPs:2
-10803956060, Relative Position:13
-Mutated allele: A
+>10803956060, Relative Position:13, Ref allele:C
+>>Mutated allele: A
 UCCGGCGCCGCACUAGGCACUG
 ||||||||||||*|||||||||
 UCCGGCGCCGCAAUAGGCACUG
-10803956068, Relative Position:21
-Mutated allele: C
+>10803956068, Relative Position:21, Ref allele:T
+>>Mutated allele: C
 UCCGGCGCCGCACUAGGCACUG
 ||||||||||||||||||||*|
-UCCGGCGCCGCACUAGGCACUG
+UCCGGCGCCGCACUAGGCACCG
 
 osa-miR1437b-5p, Number of SNPs:2
-10803956060, Relative Position:19
-Mutated allele: A
+>10803956060, Relative Position:19, Ref allele:C
+>>Mutated allele: A
 GGGAGGAAACAGUGCCUAGUG
 ||||||||||||||||||*||
 GGGAGGAAACAGUGCCUAUUG
-10803956068, Relative Position:11
-Mutated allele: C
+>10803956068, Relative Position:11, Ref allele:T
+>>Mutated allele: C
 GGGAGGAAACAGUGCCUAGUG
 ||||||||||*||||||||||
-GGGAGGAAACAGUGCCUAGUG
+GGGAGGAAACGGUGCCUAGUG
 
 osa-miR1439, Number of SNPs:3
-11210074246, Relative Position:7
-Mutated allele: G
+>11210074246, Relative Position:7, Ref allele:A
+>>Mutated allele: G
 UUUUGGAACGGAGUGAGUAUU
 ||||||*||||||||||||||
 UUUUGGGACGGAGUGAGUAUU
-11210074257, Relative Position:18
-Mutated allele: G
+>11210074257, Relative Position:18, Ref allele:T
+>>Mutated allele: G
 UUUUGGAACGGAGUGAGUAUU
 |||||||||||||||||*|||
-UUUUGGGACGGAGUGAGUAUU
-11210074258, Relative Position:19
-Mutated allele: T
+UUUUGGAACGGAGUGAGGAUU
+>11210074258, Relative Position:19, Ref allele:A
+>>Mutated allele: T
 UUUUGGAACGGAGUGAGUAUU
 ||||||||||||||||||*||
-UUUUGGUACGGAGUGAGUAUU
+UUUUGGAACGGAGUGAGUUUU
 
 osa-miR1440a, Number of SNPs:1
-10905980666, Relative Position:20
-Mutated allele: G
+>10905980666, Relative Position:20, Ref allele:A
+>>Mutated allele: G
 UGCUCAAAUACCACUCUCCU
 |||||||||||||||||||*
 UGCUCAAAUACCACUCUCCC
 
 osa-miR1440b, Number of SNPs:1
-10905980666, Relative Position:4
-Mutated allele: G
+>10905980666, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 UUUAGGAGAGUGGUAUUUGAG
 |||*|||||||||||||||||
 UUUGGGAGAGUGGUAUUUGAG
 
 osa-miR1441, Number of SNPs:5
-11219485767, Relative Position:15
-Mutated allele: C
+>11219485767, Relative Position:15, Ref allele:T
+>>Mutated allele: C
 ACCGGAUGUCGGAAAAGGUUU
 ||||||||||||||*||||||
 ACCGGAUGUCGGAAGAGGUUU
-Mutated allele: G
+>>Mutated allele: G
 ACCGGAUGUCGGAAAAGGUUU
 ||||||||||||||*||||||
 ACCGGAUGUCGGAACAGGUUU
-11219485768, Relative Position:14
-Mutated allele: A
+>11219485768, Relative Position:14, Ref allele:T
+>>Mutated allele: A
 ACCGGAUGUCGGAAAAGGUUU
 |||||||||||||*|||||||
-ACCGGAUGUCGGAAUAGGUUU
-11219485771, Relative Position:11
-Mutated allele: T
+ACCGGAUGUCGGAUAAGGUUU
+>11219485771, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 ACCGGAUGUCGGAAAAGGUUU
 ||||||||||*||||||||||
-ACCGGAUGUCGGAAAAGGUUU
-11219485777, Relative Position:5
-Mutated allele: T
+ACCGGAUGUCAGAAAAGGUUU
+>11219485777, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 ACCGGAUGUCGGAAAAGGUUU
 ||||*||||||||||||||||
-ACCGGAUGUCGGAAAAGGUUU
-11219485779, Relative Position:3
-Mutated allele: A
+ACCGAAUGUCGGAAAAGGUUU
+>11219485779, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 ACCGGAUGUCGGAAAAGGUUU
 ||*||||||||||||||||||
-ACCGGAUGUCGGAAUAGGUUU
+ACUGGAUGUCGGAAAAGGUUU
 
 osa-miR156b-5p, Number of SNPs:2
-10104666393, Relative Position:11
-Mutated allele: C
+>10104666393, Relative Position:11, Ref allele:G
+>>Mutated allele: C
 UGACAGAAGAGAGUGAGCAC
 ||||||||||*|||||||||
 UGACAGAAGACAGUGAGCAC
-10104666395, Relative Position:13
-Mutated allele: A
+>10104666395, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 UGACAGAAGAGAGUGAGCAC
 ||||||||||||*|||||||
-UGACAGAAGAAAGUGAGCAC
+UGACAGAAGAGAAUGAGCAC
 
 osa-miR156l-5p, Number of SNPs:1
-10505230623, Relative Position:5
-Mutated allele: G
+>10505230623, Relative Position:5, Ref allele:A
+>>Mutated allele: G
 CGACAGAAGAGAGUGAGCAUA
 ||||*||||||||||||||||
 CGACGGAAGAGAGUGAGCAUA
 
 osa-miR159f, Number of SNPs:2
-10106693283, Relative Position:15
-Mutated allele: C
+>10106693283, Relative Position:15, Ref allele:A
+>>Mutated allele: C
 CUUGGAUUGAAGGGAGCUCUA
 ||||||||||||||*||||||
 CUUGGAUUGAAGGGCGCUCUA
-10106693289, Relative Position:21
-Mutated allele: C
+>10106693289, Relative Position:21, Ref allele:A
+>>Mutated allele: C
 CUUGGAUUGAAGGGAGCUCUA
 ||||||||||||||||||||*
-CUUGGAUUGAAGGGCGCUCUA
+CUUGGAUUGAAGGGAGCUCUC
 
 osa-miR160f-3p, Number of SNPs:1
-10824396973, Relative Position:21
-Mutated allele: T
+>10824396973, Relative Position:21, Ref allele:G
+>>Mutated allele: T
 GCAUUGAGGGAGUCAUGCAGG
 ||||||||||||||||||||*
 GCAUUGAGGGAGUCAUGCAGU
 
 osa-miR162b, Number of SNPs:1
-10424406022, Relative Position:21
-Mutated allele: T
+>10424406022, Relative Position:21, Ref allele:G
+>>Mutated allele: T
 UCGAUAAGCCUCUGCAUCCAG
 ||||||||||||||||||||*
 UCGAUAAGCCUCUGCAUCCAU
 
 osa-miR164f, Number of SNPs:1
-10523343944, Relative Position:14
-Mutated allele: T
+>10523343944, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 UGGAGAAGCAGGGCACGUGCA
 |||||||||||||*|||||||
 UGGAGAAGCAGGGUACGUGCA
 
 osa-miR166e-3p, Number of SNPs:1
-10300765834, Relative Position:4
-Mutated allele: G
+>10300765834, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 UCGAACCAGGCUUCAUUCCCC
 |||*|||||||||||||||||
 UCGGACCAGGCUUCAUUCCCC
 
 osa-miR166e-5p, Number of SNPs:1
-10300765744, Relative Position:10
-Mutated allele: C
+>10300765744, Relative Position:10, Ref allele:T
+>>Mutated allele: C
 GGAAUGUUGUCUGGUUCAAGG
 |||||||||*|||||||||||
 GGAAUGUUGCCUGGUUCAAGG
 
 osa-miR166i-3p, Number of SNPs:1
-10325295068, Relative Position:2
-Mutated allele: T
+>10325295068, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 UCGGAUCAGGCUUCAUUCCUC
 |*|||||||||||||||||||
 UUGGAUCAGGCUUCAUUCCUC
 
 osa-miR166m, Number of SNPs:1
-10823045518, Relative Position:17
-Mutated allele: C
+>10823045518, Relative Position:17, Ref allele:T
+>>Mutated allele: C
 UCGGACCAGGCUUCAUUCCCU
 ||||||||||||||||*||||
 UCGGACCAGGCUUCAUCCCCU
 
 osa-miR167e-5p, Number of SNPs:1
-10203742499, Relative Position:5
-Mutated allele: T
+>10203742499, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 UGAAGCUGCCAGCAUGAUCUG
 ||||*||||||||||||||||
 UGAAACUGCCAGCAUGAUCUG
 
 osa-miR169f.1, Number of SNPs:1
-10218558462, Relative Position:20
-Mutated allele: G
+>10218558462, Relative Position:20, Ref allele:A
+>>Mutated allele: G
 UAGCCAAGGAUGACUUGCCUA
 |||||||||||||||||||*|
 UAGCCAAGGAUGACUUGCCCA
 
 osa-miR171f-3p, Number of SNPs:1
-10330027879, Relative Position:10
-Mutated allele: T
+>10330027879, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 UGAUUGAGCCGUGCCAAUAUC
 |||||||||*|||||||||||
 UGAUUGAGCUGUGCCAAUAUC
 
 osa-miR171g, Number of SNPs:1
-10715636765, Relative Position:10
-Mutated allele: C
+>10715636765, Relative Position:10, Ref allele:G
+>>Mutated allele: C
 GAGGUGAGCCGAGCCAAUAUC
 |||||||||*|||||||||||
 GAGGUGAGCGGAGCCAAUAUC
 
 osa-miR171i-5p, Number of SNPs:1
-10321191620, Relative Position:11
-Mutated allele: T
+>10321191620, Relative Position:11, Ref allele:G
+>>Mutated allele: T
 AGGUAUUGGCGUGCCUCAAUC
 ||||||||||*||||||||||
 AGGUAUUGGCUUGCCUCAAUC
 
 osa-miR172c, Number of SNPs:3
-10713111497, Relative Position:19
-Mutated allele: A
+>10713111497, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 UGAAUCUUGAUGAUGCUGCAC
 ||||||||||||||||||*||
 UGAAUCUUGAUGAUGCUGUAC
-10713111498, Relative Position:18
-Mutated allele: T
+>10713111498, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 UGAAUCUUGAUGAUGCUGCAC
 |||||||||||||||||*|||
-UGAAUCUUGAUGAUGCUGAAC
-10713111510, Relative Position:6
-Mutated allele: A
+UGAAUCUUGAUGAUGCUACAC
+>10713111510, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 UGAAUCUUGAUGAUGCUGCAC
 |||||*|||||||||||||||
-UGAAUCUUGAUGAUGCUGUAC
+UGAAUUUUGAUGAUGCUGCAC
 
 osa-miR1846a-3p, Number of SNPs:1
-11000529353, Relative Position:19
-Mutated allele: T
+>11000529353, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 UGACCCCGUUCUCCUCGCCGG
 ||||||||||||||||||*||
 UGACCCCGUUCUCCUCGCUGG
 
 osa-miR1846a-5p, Number of SNPs:4
-11000529317, Relative Position:12
-Mutated allele: T
+>11000529317, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 AGUGAGGAGGCCGGGGCCGCU
 |||||||||||*|||||||||
 AGUGAGGAGGCUGGGGCCGCU
-11000529318, Relative Position:13
-Mutated allele: T
+>11000529318, Relative Position:13, Ref allele:G
+>>Mutated allele: T
 AGUGAGGAGGCCGGGGCCGCU
 ||||||||||||*||||||||
-AGUGAGGAGGCUGGGGCCGCU
-11000529319, Relative Position:14
-Mutated allele: T
+AGUGAGGAGGCCUGGGCCGCU
+>11000529319, Relative Position:14, Ref allele:G
+>>Mutated allele: T
 AGUGAGGAGGCCGGGGCCGCU
 |||||||||||||*|||||||
-AGUGAGGAGGCUGGGGCCGCU
-11000529326, Relative Position:21
-Mutated allele: C
+AGUGAGGAGGCCGUGGCCGCU
+>11000529326, Relative Position:21, Ref allele:T
+>>Mutated allele: C
 AGUGAGGAGGCCGGGGCCGCU
 ||||||||||||||||||||*
-AGUGAGGAGGCCGGGGCCGCU
+AGUGAGGAGGCCGGGGCCGCC
 
 osa-miR1846b-3p, Number of SNPs:1
-11127715854, Relative Position:19
-Mutated allele: A
+>11127715854, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 UGACCCCGUUCUCCUCGCCGG
 ||||||||||||||||||*||
 UGACCCCGUUCUCCUCGCUGG
 
 osa-miR1846b-5p, Number of SNPs:1
-11127715894, Relative Position:8
-Mutated allele: A
+>11127715894, Relative Position:8, Ref allele:T
+>>Mutated allele: A
 AGUGAGGAGGCCGGGGCCGCU
 |||||||*|||||||||||||
 AGUGAGGUGGCCGGGGCCGCU
 
 osa-miR1846c-3p, Number of SNPs:2
-11200270840, Relative Position:13
-Mutated allele: C
+>11200270840, Relative Position:13, Ref allele:G
+>>Mutated allele: C
 UGACCCCGGUCUGCUCGCUGG
 ||||||||||||*||||||||
 UGACCCCGGUCUCCUCGCUGG
-11200270846, Relative Position:19
-Mutated allele: C
+>11200270846, Relative Position:19, Ref allele:T
+>>Mutated allele: C
 UGACCCCGGUCUGCUCGCUGG
 ||||||||||||||||||*||
-UGACCCCGGUCUCCUCGCUGG
+UGACCCCGGUCUGCUCGCCGG
 
 osa-miR1846c-5p, Number of SNPs:4
-11200270799, Relative Position:1
-Mutated allele: T
+>11200270799, Relative Position:1, Ref allele:A
+>>Mutated allele: T
 AGUGAGGAGGCCGGGGCCGCU
 *||||||||||||||||||||
 UGUGAGGAGGCCGGGGCCGCU
-11200270800, Relative Position:2
-Mutated allele: A
+>11200270800, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 AGUGAGGAGGCCGGGGCCGCU
 |*|||||||||||||||||||
-AGUGAGGAGGCCGGGGCCGCU
-11200270809, Relative Position:11
-Mutated allele: T
+AAUGAGGAGGCCGGGGCCGCU
+>11200270809, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 AGUGAGGAGGCCGGGGCCGCU
 ||||||||||*||||||||||
-UGUGAGGAGGCCGGGGCCGCU
-11200270812, Relative Position:14
-Mutated allele: A
+AGUGAGGAGGUCGGGGCCGCU
+>11200270812, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 AGUGAGGAGGCCGGGGCCGCU
 |||||||||||||*|||||||
-AGUGAGGAGGCCGGGGCCGCU
+AGUGAGGAGGCCGAGGCCGCU
 
 osa-miR1847.2, Number of SNPs:2
-10120332947, Relative Position:11
-Mutated allele: A
+>10120332947, Relative Position:11, Ref allele:G
+>>Mutated allele: A
 UGGCCCACAUGUUAGUGCCACAAC
 ||||||||||*|||||||||||||
 UGGCCCACAUAUUAGUGCCACAAC
-10120332948, Relative Position:12
-Mutated allele: G
+>10120332948, Relative Position:12, Ref allele:T
+>>Mutated allele: G
 UGGCCCACAUGUUAGUGCCACAAC
 |||||||||||*||||||||||||
-UGGCCCACAUGUUAGUGCCACAAC
+UGGCCCACAUGGUAGUGCCACAAC
 
 osa-miR1848, Number of SNPs:3
-10418131824, Relative Position:8
-Mutated allele: A
+>10418131824, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 CCUCGCCGGCGCGCGCGUGCA
 |||||||*|||||||||||||
 CCUCGCCAGCGCGCGCGUGCA
-10418131828, Relative Position:12
-Mutated allele: T
+>10418131828, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 CCUCGCCGGCGCGCGCGUGCA
 |||||||||||*|||||||||
-CCUCGCCUGCGCGCGCGUGCA
-10418131837, Relative Position:21
-Mutated allele: G
+CCUCGCCGGCGUGCGCGUGCA
+>10418131837, Relative Position:21, Ref allele:A
+>>Mutated allele: G
 CCUCGCCGGCGCGCGCGUGCA
 ||||||||||||||||||||*
-CCUCGCCGGCGCGCGCGUGCA
+CCUCGCCGGCGCGCGCGUGCG
 
 osa-miR1849, Number of SNPs:1
-10422224882, Relative Position:5
-Mutated allele: A
+>10422224882, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UAUCGUAUCCUAGGUUGGUUU
 ||||*||||||||||||||||
 UAUCAUAUCCUAGGUUGGUUU
 
 osa-miR1850.2, Number of SNPs:4
-10526275280, Relative Position:18
-Mutated allele: T
+>10526275280, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 UUGUGUGUGAACUAAACGUGG
 |||||||||||||||||*|||
 UUGUGUGUGAACUAAACAUGG
-10526275282, Relative Position:16
-Mutated allele: A
+>10526275282, Relative Position:16, Ref allele:T
+>>Mutated allele: A
 UUGUGUGUGAACUAAACGUGG
 |||||||||||||||*|||||
-UUGUGUGUGAACUAAACUUGG
-Mutated allele: G
+UUGUGUGUGAACUAAUCGUGG
+>>Mutated allele: G
 UUGUGUGUGAACUAAACGUGG
 |||||||||||||||*|||||
-UUGUGUGUGAACUAAACCUGG
-10526275294, Relative Position:4
-Mutated allele: C
+UUGUGUGUGAACUAACCGUGG
+>10526275294, Relative Position:4, Ref allele:A
+>>Mutated allele: C
 UUGUGUGUGAACUAAACGUGG
 |||*|||||||||||||||||
-UUGUGUGUGAACUAAACGUGG
-10526275295, Relative Position:3
-Mutated allele: A
+UUGGGUGUGAACUAAACGUGG
+>10526275295, Relative Position:3, Ref allele:C
+>>Mutated allele: A
 UUGUGUGUGAACUAAACGUGG
 ||*||||||||||||||||||
-UUGUGUGUGAACUAAACUUGG
+UUUUGUGUGAACUAAACGUGG
 
 osa-miR1850.3, Number of SNPs:1
-10526275264, Relative Position:4
-Mutated allele: T
+>10526275264, Relative Position:4, Ref allele:A
+>>Mutated allele: T
 CUGUUUAGUUCACAUCAAUCUU
 |||*||||||||||||||||||
 CUGAUUAGUUCACAUCAAUCUU
 
 osa-miR1851, Number of SNPs:2
-10526049754, Relative Position:2
-Mutated allele: A
+>10526049754, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 CGUCUGGGAUGGCAUUUUGGC
 |*|||||||||||||||||||
 CAUCUGGGAUGGCAUUUUGGC
-10526049758, Relative Position:6
-Mutated allele: C
+>10526049758, Relative Position:6, Ref allele:G
+>>Mutated allele: C
 CGUCUGGGAUGGCAUUUUGGC
 |||||*|||||||||||||||
-CCUCUGGGAUGGCAUUUUGGC
+CGUCUCGGAUGGCAUUUUGGC
 
 osa-miR1854-3p, Number of SNPs:1
-10807858390, Relative Position:6
-Mutated allele: G
+>10807858390, Relative Position:6, Ref allele:A
+>>Mutated allele: G
 UCCAAUUUGGGGAUUUGCUGAU
 |||||*||||||||||||||||
 UCCAACUUGGGGAUUUGCUGAU
 
 osa-miR1855, Number of SNPs:2
-11121709053, Relative Position:4
-Mutated allele: G
+>11121709053, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 AGCACUGGAGUAGCCAAGAGA
 |||*|||||||||||||||||
 AGCGCUGGAGUAGCCAAGAGA
-11121709054, Relative Position:5
-Mutated allele: T
+>11121709054, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AGCACUGGAGUAGCCAAGAGA
 ||||*||||||||||||||||
-AGCUCUGGAGUAGCCAAGAGA
+AGCAUUGGAGUAGCCAAGAGA
 
 osa-miR1856, Number of SNPs:5
-11110376268, Relative Position:19
-Mutated allele: T
+>11110376268, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 UAUGCGUAAGACGGAUUCGUA
 ||||||||||||||||||*||
 UAUGCGUAAGACGGAUUCAUA
-Mutated allele: A
+>>Mutated allele: A
 UAUGCGUAAGACGGAUUCGUA
 ||||||||||||||||||*||
 UAUGCGUAAGACGGAUUCUUA
-11110376271, Relative Position:16
-Mutated allele: T
+>11110376271, Relative Position:16, Ref allele:A
+>>Mutated allele: T
 UAUGCGUAAGACGGAUUCGUA
 |||||||||||||||*|||||
-UAUGCGUAAGACGGAUUCAUA
-Mutated allele: C
+UAUGCGUAAGACGGAAUCGUA
+>>Mutated allele: C
 UAUGCGUAAGACGGAUUCGUA
 |||||||||||||||*|||||
-UAUGCGUAAGACGGAUUCGUA
-11110376275, Relative Position:12
-Mutated allele: A
+UAUGCGUAAGACGGAGUCGUA
+>11110376275, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 UAUGCGUAAGACGGAUUCGUA
 |||||||||||*|||||||||
-UAUGCGUAAGACGGAUUCUUA
-11110376282, Relative Position:5
-Mutated allele: A
+UAUGCGUAAGAUGGAUUCGUA
+>11110376282, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UAUGCGUAAGACGGAUUCGUA
 ||||*||||||||||||||||
-UAUGCGUAAGACGGAUUCUUA
-11110376283, Relative Position:4
-Mutated allele: T
+UAUGUGUAAGACGGAUUCGUA
+>11110376283, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 UAUGCGUAAGACGGAUUCGUA
 |||*|||||||||||||||||
-UAUGCGUAAGACGGAUUCAUA
+UAUACGUAAGACGGAUUCGUA
 
 osa-miR1858b, Number of SNPs:1
-10913194086, Relative Position:5
-Mutated allele: A
+>10913194086, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 GAGAGGAGGACGGAGUGGGGC
 ||||*||||||||||||||||
 GAGAAGAGGACGGAGUGGGGC
 
 osa-miR1860-5p, Number of SNPs:4
-10100934513, Relative Position:18
-Mutated allele: C
+>10100934513, Relative Position:18, Ref allele:T
+>>Mutated allele: C
 AGAAAACCAGCUUCCAGAUCU
 |||||||||||||||||*|||
 AGAAAACCAGCUUCCAGGUCU
-Mutated allele: G
+>>Mutated allele: G
 AGAAAACCAGCUUCCAGAUCU
 |||||||||||||||||*|||
 AGAAAACCAGCUUCCAGCUCU
-10100934514, Relative Position:17
-Mutated allele: A
+>10100934514, Relative Position:17, Ref allele:C
+>>Mutated allele: A
 AGAAAACCAGCUUCCAGAUCU
 ||||||||||||||||*||||
-AGAAAACCAGCUUCCAGUUCU
-10100934517, Relative Position:14
-Mutated allele: A
+AGAAAACCAGCUUCCAUAUCU
+>10100934517, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 AGAAAACCAGCUUCCAGAUCU
 |||||||||||||*|||||||
-AGAAAACCAGCUUCCAGUUCU
-10100934524, Relative Position:7
-Mutated allele: A
+AGAAAACCAGCUUUCAGAUCU
+>10100934524, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 AGAAAACCAGCUUCCAGAUCU
 ||||||*||||||||||||||
-AGAAAACCAGCUUCCAGUUCU
+AGAAAAUCAGCUUCCAGAUCU
 
 osa-miR1861a, Number of SNPs:2
-10115049794, Relative Position:1
-Mutated allele: C
+>10115049794, Relative Position:1, Ref allele:T
+>>Mutated allele: C
 UGAUCUUGAGGCAGAAACUGAG
 *|||||||||||||||||||||
 CGAUCUUGAGGCAGAAACUGAG
-10115049795, Relative Position:2
-Mutated allele: A
+>10115049795, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 UGAUCUUGAGGCAGAAACUGAG
 |*||||||||||||||||||||
-AGAUCUUGAGGCAGAAACUGAG
+UAAUCUUGAGGCAGAAACUGAG
 
 osa-miR1861b, Number of SNPs:3
-10220715980, Relative Position:2
-Mutated allele: A
+>10220715980, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |*||||||||||||||||||||
 CAAUCUUGAGGCAGGAACUGAG
-10220715988, Relative Position:10
-Mutated allele: C
+>10220715988, Relative Position:10, Ref allele:G
+>>Mutated allele: C
 CGAUCUUGAGGCAGGAACUGAG
 |||||||||*||||||||||||
-CCAUCUUGAGGCAGGAACUGAG
-10220715992, Relative Position:14
-Mutated allele: A
+CGAUCUUGACGCAGGAACUGAG
+>10220715992, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |||||||||||||*||||||||
-CAAUCUUGAGGCAGGAACUGAG
+CGAUCUUGAGGCAAGAACUGAG
 
 osa-miR1861c, Number of SNPs:6
-10220716197, Relative Position:2
-Mutated allele: A
+>10220716197, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGUAGCAAGAACUGAG
 |*||||||||||||||||||||
 CAAUCUUGUAGCAAGAACUGAG
-10220716198, Relative Position:3
-Mutated allele: T
+>10220716198, Relative Position:3, Ref allele:A
+>>Mutated allele: T
 CGAUCUUGUAGCAAGAACUGAG
 ||*|||||||||||||||||||
-CUAUCUUGUAGCAAGAACUGAG
-10220716205, Relative Position:10
-Mutated allele: G
+CGUUCUUGUAGCAAGAACUGAG
+>10220716205, Relative Position:10, Ref allele:A
+>>Mutated allele: G
 CGAUCUUGUAGCAAGAACUGAG
 |||||||||*||||||||||||
-CGAUCUUGUAGCAAGAACUGAG
-10220716207, Relative Position:12
-Mutated allele: G
+CGAUCUUGUGGCAAGAACUGAG
+>10220716207, Relative Position:12, Ref allele:C
+>>Mutated allele: G
 CGAUCUUGUAGCAAGAACUGAG
 |||||||||||*||||||||||
-CGAUCUUGUAGCAAGAACUGAG
-10220716210, Relative Position:15
-Mutated allele: A
+CGAUCUUGUAGGAAGAACUGAG
+>10220716210, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGUAGCAAGAACUGAG
 ||||||||||||||*|||||||
-CAAUCUUGUAGCAAGAACUGAG
-10220716213, Relative Position:18
-Mutated allele: T
+CGAUCUUGUAGCAAAAACUGAG
+>10220716213, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGUAGCAAGAACUGAG
 |||||||||||||||||*||||
-CUAUCUUGUAGCAAGAACUGAG
+CGAUCUUGUAGCAAGAAUUGAG
 
 osa-miR1861d, Number of SNPs:7
-10406536354, Relative Position:1
-Mutated allele: C
+>10406536354, Relative Position:1, Ref allele:T
+>>Mutated allele: C
 UGGUCUUGAGGCAGGAACUGAG
 *|||||||||||||||||||||
 CGGUCUUGAGGCAGGAACUGAG
-10406536355, Relative Position:2
-Mutated allele: A
+>10406536355, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 UGGUCUUGAGGCAGGAACUGAG
 |*||||||||||||||||||||
-AGGUCUUGAGGCAGGAACUGAG
-10406536356, Relative Position:3
-Mutated allele: T
+UAGUCUUGAGGCAGGAACUGAG
+>10406536356, Relative Position:3, Ref allele:G
+>>Mutated allele: T
 UGGUCUUGAGGCAGGAACUGAG
 ||*|||||||||||||||||||
-UGGUCUUGAGGCAGGAACUGAG
-10406536360, Relative Position:7
-Mutated allele: A
+UGUUCUUGAGGCAGGAACUGAG
+>10406536360, Relative Position:7, Ref allele:T
+>>Mutated allele: A
 UGGUCUUGAGGCAGGAACUGAG
 ||||||*|||||||||||||||
-AGGUCUUGAGGCAGGAACUGAG
-10406536365, Relative Position:12
-Mutated allele: T
+UGGUCUAGAGGCAGGAACUGAG
+>10406536365, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 UGGUCUUGAGGCAGGAACUGAG
 |||||||||||*||||||||||
-UGGUCUUGAGGCAGGAACUGAG
-10406536371, Relative Position:18
-Mutated allele: T
+UGGUCUUGAGGUAGGAACUGAG
+>10406536371, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 UGGUCUUGAGGCAGGAACUGAG
 |||||||||||||||||*||||
-UGGUCUUGAGGCAGGAACUGAG
-10406536375, Relative Position:22
-Mutated allele: A
+UGGUCUUGAGGCAGGAAUUGAG
+>10406536375, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 UGGUCUUGAGGCAGGAACUGAG
 |||||||||||||||||||||*
-AGGUCUUGAGGCAGGAACUGAG
+UGGUCUUGAGGCAGGAACUGAA
 
 osa-miR1861e, Number of SNPs:2
-10406536571, Relative Position:1
-Mutated allele: T
+>10406536571, Relative Position:1, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGUGGCAAGAACUGAG
 *|||||||||||||||||||||
 UGGUCUUGUGGCAAGAACUGAG
-10406536584, Relative Position:14
-Mutated allele: G
+>10406536584, Relative Position:14, Ref allele:A
+>>Mutated allele: G
 CGGUCUUGUGGCAAGAACUGAG
 |||||||||||||*||||||||
-GGGUCUUGUGGCAAGAACUGAG
+CGGUCUUGUGGCAGGAACUGAG
 
 osa-miR1861f, Number of SNPs:2
-10518668420, Relative Position:7
-Mutated allele: A
+>10518668420, Relative Position:7, Ref allele:T
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 ||||||*|||||||||||||||
 CGAUCUAGAGGCAGGAACUGAG
-10518668425, Relative Position:12
-Mutated allele: T
+>10518668425, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGAGGCAGGAACUGAG
 |||||||||||*||||||||||
-CGAUCUUGAGGCAGGAACUGAG
+CGAUCUUGAGGUAGGAACUGAG
 
 osa-miR1861g, Number of SNPs:2
-10518668633, Relative Position:1
-Mutated allele: T
+>10518668633, Relative Position:1, Ref allele:C
+>>Mutated allele: T
 CAGUCUUGUGGCAAGAACUGAG
 *|||||||||||||||||||||
 UAGUCUUGUGGCAAGAACUGAG
-10518668652, Relative Position:20
-Mutated allele: A
+>10518668652, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 CAGUCUUGUGGCAAGAACUGAG
 |||||||||||||||||||*||
-AAGUCUUGUGGCAAGAACUGAG
+CAGUCUUGUGGCAAGAACUAAG
 
 osa-miR1861h, Number of SNPs:5
-10627238264, Relative Position:20
-Mutated allele: T
+>10627238264, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |||||||||||||||||||*||
 CGGUCUUGAGGCAGGAACUAAG
-10627238270, Relative Position:14
-Mutated allele: T
+>10627238270, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |||||||||||||*||||||||
-CGGUCUUGAGGCAGGAACUAAG
-Mutated allele: G
+CGGUCUUGAGGCAAGAACUGAG
+>>Mutated allele: G
 CGGUCUUGAGGCAGGAACUGAG
 |||||||||||||*||||||||
-CGGUCUUGAGGCAGGAACUCAG
-10627238279, Relative Position:5
-Mutated allele: A
+CGGUCUUGAGGCACGAACUGAG
+>10627238279, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 CGGUCUUGAGGCAGGAACUGAG
 ||||*|||||||||||||||||
-CGGUCUUGAGGCAGGAACUUAG
-10627238281, Relative Position:3
-Mutated allele: T
+CGGUUUUGAGGCAGGAACUGAG
+>10627238281, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 ||*|||||||||||||||||||
-CGGUCUUGAGGCAGGAACUAAG
-Mutated allele: A
+CGAUCUUGAGGCAGGAACUGAG
+>>Mutated allele: A
 CGGUCUUGAGGCAGGAACUGAG
 ||*|||||||||||||||||||
-CGGUCUUGAGGCAGGAACUUAG
-10627238282, Relative Position:2
-Mutated allele: T
+CGUUCUUGAGGCAGGAACUGAG
+>10627238282, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |*||||||||||||||||||||
-CGGUCUUGAGGCAGGAACUAAG
+CAGUCUUGAGGCAGGAACUGAG
 
 osa-miR1861i, Number of SNPs:5
-10614949514, Relative Position:2
-Mutated allele: A
+>10614949514, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |*||||||||||||||||||||
 CAAUCUUGAGGCAGGAACUGAG
-10614949520, Relative Position:8
-Mutated allele: A
+>10614949520, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |||||||*||||||||||||||
-CAAUCUUGAGGCAGGAACUGAG
-10614949521, Relative Position:9
-Mutated allele: T
+CGAUCUUAAGGCAGGAACUGAG
+>10614949521, Relative Position:9, Ref allele:A
+>>Mutated allele: T
 CGAUCUUGAGGCAGGAACUGAG
 ||||||||*|||||||||||||
-CUAUCUUGAGGCAGGAACUGAG
-10614949526, Relative Position:14
-Mutated allele: A
+CGAUCUUGUGGCAGGAACUGAG
+>10614949526, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |||||||||||||*||||||||
-CAAUCUUGAGGCAGGAACUGAG
-10614949530, Relative Position:18
-Mutated allele: T
+CGAUCUUGAGGCAAGAACUGAG
+>10614949530, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGAGGCAGGAACUGAG
 |||||||||||||||||*||||
-CUAUCUUGAGGCAGGAACUGAG
+CGAUCUUGAGGCAGGAAUUGAG
 
 osa-miR1861j, Number of SNPs:6
-10815132802, Relative Position:22
-Mutated allele: T
+>10815132802, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |||||||||||||||||||||*
 CGGUCUUGAGGCAGGAACUGAA
-10815132804, Relative Position:20
-Mutated allele: T
+>10815132804, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |||||||||||||||||||*||
-CGGUCUUGAGGCAGGAACUGAA
-10815132809, Relative Position:15
-Mutated allele: T
+CGGUCUUGAGGCAGGAACUAAG
+>10815132809, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 ||||||||||||||*|||||||
-CGGUCUUGAGGCAGGAACUGAA
-10815132814, Relative Position:10
-Mutated allele: T
+CGGUCUUGAGGCAGAAACUGAG
+>10815132814, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |||||||||*||||||||||||
-CGGUCUUGAGGCAGGAACUGAA
-10815132821, Relative Position:3
-Mutated allele: A
+CGGUCUUGAAGCAGGAACUGAG
+>10815132821, Relative Position:3, Ref allele:C
+>>Mutated allele: A
 CGGUCUUGAGGCAGGAACUGAG
 ||*|||||||||||||||||||
-CGGUCUUGAGGCAGGAACUGAU
-10815132822, Relative Position:2
-Mutated allele: T
+CGUUCUUGAGGCAGGAACUGAG
+>10815132822, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGAGGCAGGAACUGAG
 |*||||||||||||||||||||
-CGGUCUUGAGGCAGGAACUGAA
+CAGUCUUGAGGCAGGAACUGAG
 
 osa-miR1861k, Number of SNPs:1
-10815132586, Relative Position:20
-Mutated allele: T
+>10815132586, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CGGUCUUGUGGCAAGAACUGAG
 |||||||||||||||||||*||
 CGGUCUUGUGGCAAGAACUAAG
 
 osa-miR1861l, Number of SNPs:4
-10913532449, Relative Position:2
-Mutated allele: A
+>10913532449, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |*||||||||||||||||||||
 CAAUCUUGAGGCAGGAACUGAG
-10913532455, Relative Position:8
-Mutated allele: A
+>10913532455, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGAGGCAGGAACUGAG
 |||||||*||||||||||||||
-CAAUCUUGAGGCAGGAACUGAG
-10913532456, Relative Position:9
-Mutated allele: T
+CGAUCUUAAGGCAGGAACUGAG
+>10913532456, Relative Position:9, Ref allele:A
+>>Mutated allele: T
 CGAUCUUGAGGCAGGAACUGAG
 ||||||||*|||||||||||||
-CUAUCUUGAGGCAGGAACUGAG
-10913532465, Relative Position:18
-Mutated allele: T
+CGAUCUUGUGGCAGGAACUGAG
+>10913532465, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGAGGCAGGAACUGAG
 |||||||||||||||||*||||
-CUAUCUUGAGGCAGGAACUGAG
+CGAUCUUGAGGCAGGAAUUGAG
 
 osa-miR1861n, Number of SNPs:5
-11216586634, Relative Position:17
-Mutated allele: T
+>11216586634, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGUGGCAGGAGCUGAG
 ||||||||||||||||*|||||
 CGAUCUUGUGGCAGGAACUGAG
-11216586643, Relative Position:8
-Mutated allele: T
+>11216586643, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGUGGCAGGAGCUGAG
 |||||||*||||||||||||||
-CGAUCUUGUGGCAGGAACUGAG
-11216586644, Relative Position:7
-Mutated allele: G
+CGAUCUUAUGGCAGGAGCUGAG
+>11216586644, Relative Position:7, Ref allele:A
+>>Mutated allele: G
 CGAUCUUGUGGCAGGAGCUGAG
 ||||||*|||||||||||||||
-CGAUCUUGUGGCAGGACCUGAG
-11216586649, Relative Position:2
-Mutated allele: T
+CGAUCUCGUGGCAGGAGCUGAG
+>11216586649, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 CGAUCUUGUGGCAGGAGCUGAG
 |*||||||||||||||||||||
-CGAUCUUGUGGCAGGAACUGAG
-11216586650, Relative Position:1
-Mutated allele: A
+CAAUCUUGUGGCAGGAGCUGAG
+>11216586650, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 CGAUCUUGUGGCAGGAGCUGAG
 *|||||||||||||||||||||
-CGAUCUUGUGGCAGGAUCUGAG
+UGAUCUUGUGGCAGGAGCUGAG
 
 osa-miR1862b, Number of SNPs:2
-10808341248, Relative Position:20
-Mutated allele: T
+>10808341248, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 ACGAGGUUGGUUUAUUUUGGGACG
 |||||||||||||||||||*||||
 ACGAGGUUGGUUUAUUUUGAGACG
-10808341249, Relative Position:19
-Mutated allele: T
+>10808341249, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 ACGAGGUUGGUUUAUUUUGGGACG
 ||||||||||||||||||*|||||
-ACGAGGUUGGUUUAUUUUGAGACG
+ACGAGGUUGGUUUAUUUUAGGACG
 
 osa-miR1862c, Number of SNPs:3
-11016093940, Relative Position:2
-Mutated allele: T
+>11016093940, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 ACGAGGUUGGUUUAUUUUGGGACG
 |*||||||||||||||||||||||
 AUGAGGUUGGUUUAUUUUGGGACG
-11016093947, Relative Position:9
-Mutated allele: A
+>11016093947, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 ACGAGGUUGGUUUAUUUUGGGACG
 ||||||||*|||||||||||||||
-AAGAGGUUGGUUUAUUUUGGGACG
-11016093962, Relative Position:24
-Mutated allele: A
+ACGAGGUUAGUUUAUUUUGGGACG
+>11016093962, Relative Position:24, Ref allele:G
+>>Mutated allele: A
 ACGAGGUUGGUUUAUUUUGGGACG
 |||||||||||||||||||||||*
-AAGAGGUUGGUUUAUUUUGGGACG
+ACGAGGUUGGUUUAUUUUGGGACA
 
 osa-miR1862e, Number of SNPs:1
-11102523295, Relative Position:5
-Mutated allele: T
+>11102523295, Relative Position:5, Ref allele:A
+>>Mutated allele: T
 CUAGAUUUGUUUAUUUUGGGACGG
 ||||*|||||||||||||||||||
 CUAGUUUUGUUUAUUUUGGGACGG
 
 osa-miR1862g, Number of SNPs:3
-10420340401, Relative Position:20
-Mutated allele: T
+>10420340401, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 AUGAGGUUGGUUUAUUUUGG
 |||||||||||||||||||*
 AUGAGGUUGGUUUAUUUUGA
-10420340402, Relative Position:19
-Mutated allele: T
+>10420340402, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 AUGAGGUUGGUUUAUUUUGG
 ||||||||||||||||||*|
-AUGAGGUUGGUUUAUUUUGA
-10420340416, Relative Position:5
-Mutated allele: T
+AUGAGGUUGGUUUAUUUUAG
+>10420340416, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AUGAGGUUGGUUUAUUUUGG
 ||||*|||||||||||||||
-AUGAGGUUGGUUUAUUUUGA
+AUGAAGUUGGUUUAUUUUGG
 
 osa-miR1863a, Number of SNPs:2
-10208522105, Relative Position:20
-Mutated allele: G
+>10208522105, Relative Position:20, Ref allele:A
+>>Mutated allele: G
 AGCUCUGAUACCAUGUUAGAUUAG
 |||||||||||||||||||*||||
 AGCUCUGAUACCAUGUUAGGUUAG
-10208522109, Relative Position:24
-Mutated allele: A
+>10208522109, Relative Position:24, Ref allele:G
+>>Mutated allele: A
 AGCUCUGAUACCAUGUUAGAUUAG
 |||||||||||||||||||||||*
-AGCUCUGAUACCAUGUUAGAUUAG
+AGCUCUGAUACCAUGUUAGAUUAA
 
 osa-miR1863c, Number of SNPs:1
-11204869470, Relative Position:6
-Mutated allele: C
+>11204869470, Relative Position:6, Ref allele:A
+>>Mutated allele: C
 UAGAAACUUGGCUGAUGCAUUACU
 |||||*||||||||||||||||||
 UAGAACCUUGGCUGAUGCAUUACU
 
 osa-miR1865-3p, Number of SNPs:1
-10334000726, Relative Position:23
-Mutated allele: A
+>10334000726, Relative Position:23, Ref allele:G
+>>Mutated allele: A
 CGAAGAAUCGCAGUCACUAGUUGU
 ||||||||||||||||||||||*|
 CGAAGAAUCGCAGUCACUAGUUAU
 
 osa-miR1865-5p, Number of SNPs:3
-10334000607, Relative Position:4
-Mutated allele: C
+>10334000607, Relative Position:4, Ref allele:T
+>>Mutated allele: C
 UGCUAGUGAUGGUGAUUCUUCGAC
 |||*||||||||||||||||||||
 UGCCAGUGAUGGUGAUUCUUCGAC
-10334000615, Relative Position:12
-Mutated allele: A
+>10334000615, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 UGCUAGUGAUGGUGAUUCUUCGAC
 |||||||||||*||||||||||||
-UGCAAGUGAUGGUGAUUCUUCGAC
-10334000627, Relative Position:24
-Mutated allele: T
+UGCUAGUGAUGAUGAUUCUUCGAC
+>10334000627, Relative Position:24, Ref allele:C
+>>Mutated allele: T
 UGCUAGUGAUGGUGAUUCUUCGAC
 |||||||||||||||||||||||*
-UGCUAGUGAUGGUGAUUCUUCGAC
+UGCUAGUGAUGGUGAUUCUUCGAU
 
 osa-miR1866-3p, Number of SNPs:2
-10306510929, Relative Position:9
-Mutated allele: T
+>10306510929, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 UGAAAUUCCUGUAAAAUUCUUG
 ||||||||*|||||||||||||
 UGAAAUUCUUGUAAAAUUCUUG
-10306510940, Relative Position:20
-Mutated allele: C
+>10306510940, Relative Position:20, Ref allele:T
+>>Mutated allele: C
 UGAAAUUCCUGUAAAAUUCUUG
 |||||||||||||||||||*||
-UGAAAUUCCUGUAAAAUUCUUG
+UGAAAUUCCUGUAAAAUUCCUG
 
 osa-miR1870-3p, Number of SNPs:1
-10621164900, Relative Position:7
-Mutated allele: C
+>10621164900, Relative Position:7, Ref allele:G
+>>Mutated allele: C
 UUUAGGGCUAAUUCAGCAUGAACA
 ||||||*|||||||||||||||||
 UUUAGGCCUAAUUCAGCAUGAACA
 
 osa-miR1871, Number of SNPs:1
-10613330557, Relative Position:13
-Mutated allele: C
+>10613330557, Relative Position:13, Ref allele:T
+>>Mutated allele: C
 AUGGCUCUGAUAUCAUGUUGGUUU
 ||||||||||||*|||||||||||
 AUGGCUCUGAUACCAUGUUGGUUU
 
 osa-miR1872, Number of SNPs:4
-10604923878, Relative Position:22
-Mutated allele: T
+>10604923878, Relative Position:22, Ref allele:A
+>>Mutated allele: T
 GAACUGUAAGUCUGUGACGGGUAA
 |||||||||||||||||||||*||
 GAACUGUAAGUCUGUGACGGGAAA
-10604923880, Relative Position:20
-Mutated allele: T
+>10604923880, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 GAACUGUAAGUCUGUGACGGGUAA
 |||||||||||||||||||*||||
-GAACUGUAAGUCUGUGACGGGAAA
-10604923881, Relative Position:19
-Mutated allele: T
+GAACUGUAAGUCUGUGACGAGUAA
+>10604923881, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 GAACUGUAAGUCUGUGACGGGUAA
 ||||||||||||||||||*|||||
-GAACUGUAAGUCUGUGACGGGAAA
-10604923882, Relative Position:18
-Mutated allele: A
+GAACUGUAAGUCUGUGACAGGUAA
+>10604923882, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 GAACUGUAAGUCUGUGACGGGUAA
 |||||||||||||||||*||||||
-GAACUGUAAGUCUGUGACGGGUAA
+GAACUGUAAGUCUGUGAUGGGUAA
 
 osa-miR1873, Number of SNPs:1
-10712755942, Relative Position:17
-Mutated allele: A
+>10712755942, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 UCAACAUGGUAUCAGAGCUGGAAG
 ||||||||||||||||*|||||||
 UCAACAUGGUAUCAGAACUGGAAG
 
 osa-miR1875, Number of SNPs:1
-10917567957, Relative Position:23
-Mutated allele: A
+>10917567957, Relative Position:23, Ref allele:T
+>>Mutated allele: A
 ACAAUGGAGUGAAGUGCAACAGAA
 ||||||||||||||||||||||*|
 ACAAUGGAGUGAAGUGCAACAGUA
 
 osa-miR1876, Number of SNPs:1
-11004833492, Relative Position:23
-Mutated allele: T
+>11004833492, Relative Position:23, Ref allele:C
+>>Mutated allele: T
 AUAAGUGGGUUUGUGGGCUGGCCC
 ||||||||||||||||||||||*|
 AUAAGUGGGUUUGUGGGCUGGCUC
 
 osa-miR1880, Number of SNPs:2
-11113959907, Relative Position:8
-Mutated allele: T
+>11113959907, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 UUCCAAGCGGGCCACUUAAGCAUU
 |||||||*||||||||||||||||
 UUCCAAGUGGGCCACUUAAGCAUU
-11113959912, Relative Position:13
-Mutated allele: T
+>11113959912, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 UUCCAAGCGGGCCACUUAAGCAUU
 ||||||||||||*|||||||||||
-UUCCAAGUGGGCCACUUAAGCAUU
-Mutated allele: G
+UUCCAAGCGGGCUACUUAAGCAUU
+>>Mutated allele: G
 UUCCAAGCGGGCCACUUAAGCAUU
 ||||||||||||*|||||||||||
-UUCCAAGGGGGCCACUUAAGCAUU
+UUCCAAGCGGGCGACUUAAGCAUU
 
 osa-miR1881, Number of SNPs:2
-11205725963, Relative Position:5
-Mutated allele: G
+>11205725963, Relative Position:5, Ref allele:T
+>>Mutated allele: G
 AAUGUUAUUGUAGCGUGGUGGUGU
 ||||*|||||||||||||||||||
 AAUGGUAUUGUAGCGUGGUGGUGU
-11205725973, Relative Position:15
-Mutated allele: A
+>11205725973, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 AAUGUUAUUGUAGCGUGGUGGUGU
 ||||||||||||||*|||||||||
-AAUGAUAUUGUAGCGUGGUGGUGU
+AAUGUUAUUGUAGCAUGGUGGUGU
 
 osa-miR1882a, Number of SNPs:2
-10318923980, Relative Position:14
-Mutated allele: A
+>10318923980, Relative Position:14, Ref allele:C
+>>Mutated allele: A
 AGAUUGCUUUCAAGGUCAUUUCUU
 |||||||||||||*||||||||||
 AGAUUGCUUUCAAUGUCAUUUCUU
-10318923987, Relative Position:7
-Mutated allele: A
+>10318923987, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 AGAUUGCUUUCAAGGUCAUUUCUU
 ||||||*|||||||||||||||||
-AGAUUGCUUUCAAUGUCAUUUCUU
+AGAUUGUUUUCAAGGUCAUUUCUU
 
 osa-miR1882c, Number of SNPs:4
-10709122428, Relative Position:12
-Mutated allele: G
+>10709122428, Relative Position:12, Ref allele:A
+>>Mutated allele: G
 AGAUUGCUUUCAAGGUCAUUUCUU
 |||||||||||*||||||||||||
 AGAUUGCUUUCGAGGUCAUUUCUU
-10709122429, Relative Position:13
-Mutated allele: T
+>10709122429, Relative Position:13, Ref allele:A
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 ||||||||||||*|||||||||||
-AGAUUGCUUUCUAGGUCAUUUCUU
-10709122433, Relative Position:17
-Mutated allele: T
+AGAUUGCUUUCAUGGUCAUUUCUU
+>10709122433, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 ||||||||||||||||*|||||||
-AGAUUGCUUUCUAGGUCAUUUCUU
-Mutated allele: A
+AGAUUGCUUUCAAGGUUAUUUCUU
+>>Mutated allele: A
 AGAUUGCUUUCAAGGUCAUUUCUU
 ||||||||||||||||*|||||||
-AGAUUGCUUUCAAGGUCAUUUCUU
-10709122436, Relative Position:20
-Mutated allele: A
+AGAUUGCUUUCAAGGUAAUUUCUU
+>10709122436, Relative Position:20, Ref allele:T
+>>Mutated allele: A
 AGAUUGCUUUCAAGGUCAUUUCUU
 |||||||||||||||||||*||||
-AGAUUGCUUUCAAGGUCAUUUCUU
+AGAUUGCUUUCAAGGUCAUAUCUU
 
 osa-miR1882d, Number of SNPs:2
-10818739447, Relative Position:11
-Mutated allele: A
+>10818739447, Relative Position:11, Ref allele:G
+>>Mutated allele: A
 AGAUUGCUUUCAAGGUCAUUUCUU
 ||||||||||*|||||||||||||
 AGAUUGCUUUUAAGGUCAUUUCUU
-10818739457, Relative Position:1
-Mutated allele: C
+>10818739457, Relative Position:1, Ref allele:T
+>>Mutated allele: C
 AGAUUGCUUUCAAGGUCAUUUCUU
 *|||||||||||||||||||||||
-AGAUUGCUUUGAAGGUCAUUUCUU
+GGAUUGCUUUCAAGGUCAUUUCUU
 
 osa-miR1882e-3p, Number of SNPs:4
-11010320921, Relative Position:17
-Mutated allele: G
+>11010320921, Relative Position:17, Ref allele:A
+>>Mutated allele: G
 GAAAUGAUCUUGGACGUAAUCUAG
 ||||||||||||||||*|||||||
 GAAAUGAUCUUGGACGCAAUCUAG
-11010320923, Relative Position:15
-Mutated allele: A
+>11010320923, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 GAAAUGAUCUUGGACGUAAUCUAG
 ||||||||||||||*|||||||||
-GAAAUGAUCUUGGACGUAAUCUAG
-11010320934, Relative Position:4
-Mutated allele: A
+GAAAUGAUCUUGGAUGUAAUCUAG
+>11010320934, Relative Position:4, Ref allele:T
+>>Mutated allele: A
 GAAAUGAUCUUGGACGUAAUCUAG
 |||*||||||||||||||||||||
-GAAAUGAUCUUGGACGUAAUCUAG
-11010320937, Relative Position:1
-Mutated allele: T
+GAAUUGAUCUUGGACGUAAUCUAG
+>11010320937, Relative Position:1, Ref allele:C
+>>Mutated allele: T
 GAAAUGAUCUUGGACGUAAUCUAG
 *|||||||||||||||||||||||
-GAAAUGAUCUUGGACGAAAUCUAG
+AAAAUGAUCUUGGACGUAAUCUAG
 
 osa-miR1882e-5p, Number of SNPs:1
-11010321033, Relative Position:2
-Mutated allele: T
+>11010321033, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 |*||||||||||||||||||||||
 AAAUUGCUUUCAAGGUCAUUUCUU
 
 osa-miR1882f, Number of SNPs:2
-11111073514, Relative Position:12
-Mutated allele: T
+>11111073514, Relative Position:12, Ref allele:A
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 |||||||||||*||||||||||||
 AGAUUGCUUUCUAGGUCAUUUCUU
-11111073524, Relative Position:22
-Mutated allele: T
+>11111073524, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 |||||||||||||||||||||*||
-AGAUUGCUUUCUAGGUCAUUUCUU
+AGAUUGCUUUCAAGGUCAUUUUUU
 
 osa-miR1882h, Number of SNPs:2
-11221511555, Relative Position:2
-Mutated allele: T
+>11221511555, Relative Position:2, Ref allele:G
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 |*||||||||||||||||||||||
 AUAUUGCUUUCAAGGUCAUUUCUU
-Mutated allele: A
+>>Mutated allele: A
 AGAUUGCUUUCAAGGUCAUUUCUU
 |*||||||||||||||||||||||
 AAAUUGCUUUCAAGGUCAUUUCUU
-11221511575, Relative Position:22
-Mutated allele: T
+>11221511575, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 AGAUUGCUUUCAAGGUCAUUUCUU
 |||||||||||||||||||||*||
-AUAUUGCUUUCAAGGUCAUUUCUU
+AGAUUGCUUUCAAGGUCAUUUUUU
 
 osa-miR1883a, Number of SNPs:2
-11113523544, Relative Position:4
-Mutated allele: A
+>11113523544, Relative Position:4, Ref allele:T
+>>Mutated allele: A
 ACCUGUGACGGGCCGAGAAUGGAA
 |||*||||||||||||||||||||
 ACCAGUGACGGGCCGAGAAUGGAA
-11113523550, Relative Position:10
-Mutated allele: A
+>11113523550, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 ACCUGUGACGGGCCGAGAAUGGAA
 |||||||||*||||||||||||||
-ACCAGUGACGGGCCGAGAAUGGAA
+ACCUGUGACAGGCCGAGAAUGGAA
 
 osa-miR1883b, Number of SNPs:6
-11109368083, Relative Position:17
-Mutated allele: G
+>11109368083, Relative Position:17, Ref allele:C
+>>Mutated allele: G
 ACCUGUGACGGGCCGAGAAUGGAA
 ||||||||||||||||*|||||||
 ACCUGUGACGGGCCGACAAUGGAA
-11109368085, Relative Position:15
-Mutated allele: T
+>11109368085, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 ACCUGUGACGGGCCGAGAAUGGAA
 ||||||||||||||*|||||||||
-ACCUGUGACGGGCCGAAAAUGGAA
-11109368086, Relative Position:14
-Mutated allele: A
+ACCUGUGACGGGCCAAGAAUGGAA
+>11109368086, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 ACCUGUGACGGGCCGAGAAUGGAA
 |||||||||||||*||||||||||
-ACCUGUGACGGGCCGAUAAUGGAA
-11109368091, Relative Position:9
-Mutated allele: A
+ACCUGUGACGGGCUGAGAAUGGAA
+>11109368091, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 ACCUGUGACGGGCCGAGAAUGGAA
 ||||||||*|||||||||||||||
-ACCUGUGACGGGCCGAUAAUGGAA
-11109368094, Relative Position:6
-Mutated allele: G
+ACCUGUGAUGGGCCGAGAAUGGAA
+>11109368094, Relative Position:6, Ref allele:A
+>>Mutated allele: G
 ACCUGUGACGGGCCGAGAAUGGAA
 |||||*||||||||||||||||||
-ACCUGUGACGGGCCGACAAUGGAA
-11109368095, Relative Position:5
-Mutated allele: T
+ACCUGCGACGGGCCGAGAAUGGAA
+>11109368095, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 ACCUGUGACGGGCCGAGAAUGGAA
 ||||*|||||||||||||||||||
-ACCUGUGACGGGCCGAAAAUGGAA
+ACCUAUGACGGGCCGAGAAUGGAA
 
 osa-miR2055, Number of SNPs:1
-10900431440, Relative Position:19
-Mutated allele: G
+>10900431440, Relative Position:19, Ref allele:A
+>>Mutated allele: G
 UUUCCUUGGGAAGGUGGUUUC
 ||||||||||||||||||*||
 UUUCCUUGGGAAGGUGGUCUC
 
 osa-miR2090, Number of SNPs:3
-10138764373, Relative Position:13
-Mutated allele: C
+>10138764373, Relative Position:13, Ref allele:T
+>>Mutated allele: C
 AACUCUGAUUCUAGAAUUUUUG
 ||||||||||||*|||||||||
 AACUCUGAUUCUGGAAUUUUUG
-10138764375, Relative Position:11
-Mutated allele: T
+>10138764375, Relative Position:11, Ref allele:G
+>>Mutated allele: T
 AACUCUGAUUCUAGAAUUUUUG
 ||||||||||*|||||||||||
-AACUCUGAUUCUAGAAUUUUUG
-10138764380, Relative Position:6
-Mutated allele: G
+AACUCUGAUUAUAGAAUUUUUG
+>10138764380, Relative Position:6, Ref allele:A
+>>Mutated allele: G
 AACUCUGAUUCUAGAAUUUUUG
 |||||*||||||||||||||||
-AACUCUGAUUCUCGAAUUUUUG
+AACUCCGAUUCUAGAAUUUUUG
 
 osa-miR2092-3p, Number of SNPs:4
-11210116412, Relative Position:12
-Mutated allele: T
+>11210116412, Relative Position:12, Ref allele:A
+>>Mutated allele: T
 ACCAGCAUUCCAUUGGCAGAGG
 |||||||||||*||||||||||
 ACCAGCAUUCCUUUGGCAGAGG
-11210116414, Relative Position:14
-Mutated allele: C
+>11210116414, Relative Position:14, Ref allele:T
+>>Mutated allele: C
 ACCAGCAUUCCAUUGGCAGAGG
 |||||||||||||*||||||||
-ACCAGCAUUCCCUUGGCAGAGG
-11210116415, Relative Position:15
-Mutated allele: T
+ACCAGCAUUCCAUCGGCAGAGG
+>11210116415, Relative Position:15, Ref allele:G
+>>Mutated allele: T
 ACCAGCAUUCCAUUGGCAGAGG
 ||||||||||||||*|||||||
-ACCAGCAUUCCUUUGGCAGAGG
-11210116416, Relative Position:16
-Mutated allele: A
+ACCAGCAUUCCAUUUGCAGAGG
+>11210116416, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 ACCAGCAUUCCAUUGGCAGAGG
 |||||||||||||||*||||||
-ACCAGCAUUCCAUUGGCAGAGG
+ACCAGCAUUCCAUUGACAGAGG
 
 osa-miR2092-5p, Number of SNPs:4
-11210116335, Relative Position:4
-Mutated allele: T
+>11210116335, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 CAACUGAAGUCGGUGUUUACU
 |||*|||||||||||||||||
 CAAUUGAAGUCGGUGUUUACU
-11210116337, Relative Position:6
-Mutated allele: A
+>11210116337, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 CAACUGAAGUCGGUGUUUACU
 |||||*|||||||||||||||
-CAAAUGAAGUCGGUGUUUACU
-11210116343, Relative Position:12
-Mutated allele: A
+CAACUAAAGUCGGUGUUUACU
+>11210116343, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 CAACUGAAGUCGGUGUUUACU
 |||||||||||*|||||||||
-CAAAUGAAGUCGGUGUUUACU
-11210116344, Relative Position:13
-Mutated allele: A
+CAACUGAAGUCAGUGUUUACU
+>11210116344, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 CAACUGAAGUCGGUGUUUACU
 ||||||||||||*||||||||
-CAAAUGAAGUCGGUGUUUACU
+CAACUGAAGUCGAUGUUUACU
 
 osa-miR2093-3p, Number of SNPs:2
-10516056037, Relative Position:17
-Mutated allele: A
+>10516056037, Relative Position:17, Ref allele:C
+>>Mutated allele: A
 ACAUCUUCCAAUUAAUGCAU
 ||||||||||||||||*|||
 ACAUCUUCCAAUUAAUUCAU
-10516056048, Relative Position:6
-Mutated allele: T
+>10516056048, Relative Position:6, Ref allele:A
+>>Mutated allele: T
 ACAUCUUCCAAUUAAUGCAU
 |||||*||||||||||||||
-ACAUCUUCCAAUUAAUACAU
+ACAUCAUCCAAUUAAUGCAU
 
 osa-miR2094-3p, Number of SNPs:4
-10229779686, Relative Position:8
-Mutated allele: A
+>10229779686, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 CAGAGCUGUGGCAUCCACGUCG
 |||||||*||||||||||||||
 CAGAGCUAUGGCAUCCACGUCG
-10229779687, Relative Position:9
-Mutated allele: C
+>10229779687, Relative Position:9, Ref allele:T
+>>Mutated allele: C
 CAGAGCUGUGGCAUCCACGUCG
 ||||||||*|||||||||||||
-CAGAGCUCUGGCAUCCACGUCG
-10229779699, Relative Position:21
-Mutated allele: T
+CAGAGCUGCGGCAUCCACGUCG
+>10229779699, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 CAGAGCUGUGGCAUCCACGUCG
 ||||||||||||||||||||*|
-CAGAGCUUUGGCAUCCACGUCG
-10229779700, Relative Position:22
-Mutated allele: A
+CAGAGCUGUGGCAUCCACGUUG
+>10229779700, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 CAGAGCUGUGGCAUCCACGUCG
 |||||||||||||||||||||*
-CAGAGCUAUGGCAUCCACGUCG
+CAGAGCUGUGGCAUCCACGUCA
 
 osa-miR2094-5p, Number of SNPs:1
-10229779665, Relative Position:16
-Mutated allele: C
+>10229779665, Relative Position:16, Ref allele:T
+>>Mutated allele: C
 UGGCUGCUAGGCUCCUGGGUG
 |||||||||||||||*|||||
 UGGCUGCUAGGCUCCCGGGUG
 
 osa-miR2095-5p, Number of SNPs:1
-11005931469, Relative Position:4
-Mutated allele: G
+>11005931469, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 CUGAUAAUUUUACGAUGAAUAG
 |||*||||||||||||||||||
 CUGGUAAUUUUACGAUGAAUAG
 
 osa-miR2096-3p, Number of SNPs:1
-10106443616, Relative Position:21
-Mutated allele: G
+>10106443616, Relative Position:21, Ref allele:A
+>>Mutated allele: G
 CCUGAGGGGAAAUCGGCGGGA
 ||||||||||||||||||||*
 CCUGAGGGGAAAUCGGCGGGG
 
 osa-miR2097-3p, Number of SNPs:3
-10109055750, Relative Position:3
-Mutated allele: T
+>10109055750, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 UUCUCUUCUUCGUGUCGCAUUU
 ||*|||||||||||||||||||
 UUUUCUUCUUCGUGUCGCAUUU
-10109055764, Relative Position:17
-Mutated allele: A
+>10109055764, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 UUCUCUUCUUCGUGUCGCAUUU
 ||||||||||||||||*|||||
-UUAUCUUCUUCGUGUCGCAUUU
-10109055765, Relative Position:18
-Mutated allele: T
+UUCUCUUCUUCGUGUCACAUUU
+>10109055765, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 UUCUCUUCUUCGUGUCGCAUUU
 |||||||||||||||||*||||
-UUUUCUUCUUCGUGUCGCAUUU
+UUCUCUUCUUCGUGUCGUAUUU
 
 osa-miR2097-5p, Number of SNPs:1
-10109055626, Relative Position:17
-Mutated allele: A
+>10109055626, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 AGAGAUGGGACGGGCAGGGAAG
 ||||||||||||||||*|||||
 AGAGAUGGGACGGGCAAGGAAG
 
 osa-miR2098-3p, Number of SNPs:3
-11018080253, Relative Position:19
-Mutated allele: T
+>11018080253, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 CGGUUUGUCAAGCGGAGUGC
 ||||||||||||||||||*|
 CGGUUUGUCAAGCGGAGUAC
-11018080256, Relative Position:16
-Mutated allele: C
+>11018080256, Relative Position:16, Ref allele:T
+>>Mutated allele: C
 CGGUUUGUCAAGCGGAGUGC
 |||||||||||||||*||||
-CGGUUUGUCAAGCGGAGUGC
-11018080257, Relative Position:15
-Mutated allele: T
+CGGUUUGUCAAGCGGGGUGC
+>11018080257, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 CGGUUUGUCAAGCGGAGUGC
 ||||||||||||||*|||||
-CGGUUUGUCAAGCGGAGUAC
+CGGUUUGUCAAGCGAAGUGC
 
 osa-miR2098-5p, Number of SNPs:2
-11018080280, Relative Position:20
-Mutated allele: T
+>11018080280, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 UCCCGUGGAGGCAGCCGAUG
 |||||||||||||||||||*
 UCCCGUGGAGGCAGCCGAUA
-11018080285, Relative Position:15
-Mutated allele: A
+>11018080285, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 UCCCGUGGAGGCAGCCGAUG
 ||||||||||||||*|||||
-UCCCGUGGAGGCAGCCGAUU
+UCCCGUGGAGGCAGUCGAUG
 
 osa-miR2099-3p, Number of SNPs:1
-10142570896, Relative Position:13
-Mutated allele: T
+>10142570896, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 ACAAAGCUGUAGCGUUAUUC
 ||||||||||||*|||||||
 ACAAAGCUGUAGUGUUAUUC
 
 osa-miR2099-5p, Number of SNPs:1
-10142570872, Relative Position:11
-Mutated allele: A
+>10142570872, Relative Position:11, Ref allele:T
+>>Mutated allele: A
 UGAAUAUGUUUGUACAAGCUUU
 ||||||||||*|||||||||||
 UGAAUAUGUUAGUACAAGCUUU
 
 osa-miR2100-3p, Number of SNPs:4
-11116195015, Relative Position:16
-Mutated allele: T
+>11116195015, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 AACCGCUGUUUAGGCGGAGUGG
 |||||||||||||||*||||||
 AACCGCUGUUUAGGCAGAGUGG
-11116195016, Relative Position:15
-Mutated allele: A
+>11116195016, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 AACCGCUGUUUAGGCGGAGUGG
 ||||||||||||||*|||||||
-AACCGCUGUUUAGGCUGAGUGG
-11116195025, Relative Position:6
-Mutated allele: A
+AACCGCUGUUUAGGUGGAGUGG
+>11116195025, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 AACCGCUGUUUAGGCGGAGUGG
 |||||*||||||||||||||||
-AACCGCUGUUUAGGCUGAGUGG
-11116195026, Relative Position:5
-Mutated allele: T
+AACCGUUGUUUAGGCGGAGUGG
+>11116195026, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AACCGCUGUUUAGGCGGAGUGG
 ||||*|||||||||||||||||
-AACCGCUGUUUAGGCAGAGUGG
+AACCACUGUUUAGGCGGAGUGG
 
 osa-miR2100-5p, Number of SNPs:2
-11116195133, Relative Position:14
-Mutated allele: A
+>11116195133, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 UUCUCUCAAGUUGCCAAACAAG
 |||||||||||||*||||||||
 UUCUCUCAAGUUGUCAAACAAG
-11116195138, Relative Position:9
-Mutated allele: A
+>11116195138, Relative Position:9, Ref allele:T
+>>Mutated allele: A
 UUCUCUCAAGUUGCCAAACAAG
 ||||||||*|||||||||||||
-UUCUCUCAAGUUGUCAAACAAG
+UUCUCUCAUGUUGCCAAACAAG
 
 osa-miR2101-5p, Number of SNPs:2
-11217986701, Relative Position:2
-Mutated allele: G
+>11217986701, Relative Position:2, Ref allele:C
+>>Mutated allele: G
 ACAUGUUUACAAGUUAAAAUGU
 |*||||||||||||||||||||
 AGAUGUUUACAAGUUAAAAUGU
-11217986714, Relative Position:15
-Mutated allele: A
+>11217986714, Relative Position:15, Ref allele:T
+>>Mutated allele: A
 ACAUGUUUACAAGUUAAAAUGU
 ||||||||||||||*|||||||
-AAAUGUUUACAAGUUAAAAUGU
+ACAUGUUUACAAGUAAAAAUGU
 
 osa-miR2102-3p, Number of SNPs:2
-10518250577, Relative Position:21
-Mutated allele: T
+>10518250577, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 CAUGGUGCCGGUUCCGGUGGCG
 ||||||||||||||||||||*|
 CAUGGUGCCGGUUCCGGUGGUG
-10518250578, Relative Position:22
-Mutated allele: T
+>10518250578, Relative Position:22, Ref allele:G
+>>Mutated allele: T
 CAUGGUGCCGGUUCCGGUGGCG
 |||||||||||||||||||||*
-CAUGGUGCCGGUUCCGGUGGUG
+CAUGGUGCCGGUUCCGGUGGCU
 
 osa-miR2102-5p, Number of SNPs:1
-10518250510, Relative Position:19
-Mutated allele: G
+>10518250510, Relative Position:19, Ref allele:A
+>>Mutated allele: G
 GGGCAAGCCGCCGCCGCCAC
 ||||||||||||||||||*|
 GGGCAAGCCGCCGCCGCCGC
 
 osa-miR2103, Number of SNPs:1
-11216852614, Relative Position:15
-Mutated allele: A
+>11216852614, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 UUUCCCUCUCCGUGCGCGCUCG
 ||||||||||||||*|||||||
 UUUCCCUCUCCGUGUGCGCUCG
 
 osa-miR2104, Number of SNPs:4
-11113372023, Relative Position:17
-Mutated allele: C
+>11113372023, Relative Position:17, Ref allele:T
+>>Mutated allele: C
 GCGGCGAGGGGAUGCGAGCGUG
 ||||||||||||||||*|||||
 GCGGCGAGGGGAUGCGGGCGUG
-11113372025, Relative Position:15
-Mutated allele: A
+>11113372025, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 GCGGCGAGGGGAUGCGAGCGUG
 ||||||||||||||*|||||||
-GCGGCGAGGGGAUGCGUGCGUG
-11113372037, Relative Position:3
-Mutated allele: T
+GCGGCGAGGGGAUGUGAGCGUG
+>11113372037, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 GCGGCGAGGGGAUGCGAGCGUG
 ||*|||||||||||||||||||
-GCGGCGAGGGGAUGCGAGCGUG
-11113372038, Relative Position:2
-Mutated allele: A
+GCAGCGAGGGGAUGCGAGCGUG
+>11113372038, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 GCGGCGAGGGGAUGCGAGCGUG
 |*||||||||||||||||||||
-GCGGCGAGGGGAUGCGUGCGUG
+GUGGCGAGGGGAUGCGAGCGUG
 
 osa-miR2106, Number of SNPs:1
-10223768638, Relative Position:2
-Mutated allele: C
+>10223768638, Relative Position:2, Ref allele:G
+>>Mutated allele: C
 CCGAGGUUUUCUGGAUACAUU
 |*|||||||||||||||||||
 CGGAGGUUUUCUGGAUACAUU
 
 osa-miR2118a, Number of SNPs:1
-10421642958, Relative Position:14
-Mutated allele: T
+>10421642958, Relative Position:14, Ref allele:G
+>>Mutated allele: T
 UUCUCGAUGCCUCCCAUUCCUA
 |||||||||||||*||||||||
 UUCUCGAUGCCUCACAUUCCUA
 
 osa-miR2118b, Number of SNPs:1
-10421645325, Relative Position:20
-Mutated allele: A
+>10421645325, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 UUCCCGAUGCCUCCCAUUCCUA
 |||||||||||||||||||*||
 UUCCCGAUGCCUCCCAUUCUUA
 
 osa-miR2118e, Number of SNPs:2
-10421647470, Relative Position:15
-Mutated allele: A
+>10421647470, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 UUCCCAAUGCCUCCCAUGCCUA
 ||||||||||||||*|||||||
 UUCCCAAUGCCUCCUAUGCCUA
-10421647480, Relative Position:5
-Mutated allele: T
+>10421647480, Relative Position:5, Ref allele:G
+>>Mutated allele: T
 UUCCCAAUGCCUCCCAUGCCUA
 ||||*|||||||||||||||||
-UUCCCAAUGCCUCCAAUGCCUA
+UUCCAAAUGCCUCCCAUGCCUA
 
 osa-miR2118k, Number of SNPs:1
-10421656988, Relative Position:16
-Mutated allele: A
+>10421656988, Relative Position:16, Ref allele:T
+>>Mutated allele: A
 UUCCUGAUGCCUCUCAUUCCUA
 |||||||||||||||*||||||
 UUCCUGAUGCCUCUCUUUCCUA
 
 osa-miR2118l, Number of SNPs:2
-10421656754, Relative Position:11
-Mutated allele: G
+>10421656754, Relative Position:11, Ref allele:A
+>>Mutated allele: G
 UUCCUAAUGCUUCCCAUUCCUA
 ||||||||||*|||||||||||
 UUCCUAAUGCCUCCCAUUCCUA
-10421656761, Relative Position:4
-Mutated allele: A
+>10421656761, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 UUCCUAAUGCUUCCCAUUCCUA
 |||*||||||||||||||||||
-UUCCUAAUGCUUCCCAUUCCUA
+UUCUUAAUGCUUCCCAUUCCUA
 
 osa-miR2118m, Number of SNPs:1
-10421658901, Relative Position:13
-Mutated allele: A
+>10421658901, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 UUCCUGAUGCCUCCCAUUCCUA
 ||||||||||||*|||||||||
 UUCCUGAUGCCUUCCAUUCCUA
 
 osa-miR2118o, Number of SNPs:1
-10421661320, Relative Position:1
-Mutated allele: A
+>10421661320, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 CUCCUGAUGCCUCCCAAGCCUA
 *|||||||||||||||||||||
 UUCCUGAUGCCUCCCAAGCCUA
 
 osa-miR2121a, Number of SNPs:3
-10116373544, Relative Position:22
-Mutated allele: A
+>10116373544, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 AAAACGGAGCGGUCCAUUAGCGCG
 |||||||||||||||||||||*||
 AAAACGGAGCGGUCCAUUAGCACG
-10116373545, Relative Position:23
-Mutated allele: T
+>10116373545, Relative Position:23, Ref allele:C
+>>Mutated allele: T
 AAAACGGAGCGGUCCAUUAGCGCG
 ||||||||||||||||||||||*|
-AAAACGGAGCGGUCCAUUAGCUCG
-10116373546, Relative Position:24
-Mutated allele: A
+AAAACGGAGCGGUCCAUUAGCGUG
+>10116373546, Relative Position:24, Ref allele:G
+>>Mutated allele: A
 AAAACGGAGCGGUCCAUUAGCGCG
 |||||||||||||||||||||||*
-AAAACGGAGCGGUCCAUUAGCACG
+AAAACGGAGCGGUCCAUUAGCGCA
 
 osa-miR2121b, Number of SNPs:8
-10416882400, Relative Position:5
-Mutated allele: T
+>10416882400, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AAAACGGAGCGGUCCAUUAGCGCG
 ||||*|||||||||||||||||||
 AAAAUGGAGCGGUCCAUUAGCGCG
-10416882401, Relative Position:6
-Mutated allele: A
+>10416882401, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 AAAACGGAGCGGUCCAUUAGCGCG
 |||||*||||||||||||||||||
-AAAAAGGAGCGGUCCAUUAGCGCG
-10416882406, Relative Position:11
-Mutated allele: A
+AAAACAGAGCGGUCCAUUAGCGCG
+>10416882406, Relative Position:11, Ref allele:G
+>>Mutated allele: A
 AAAACGGAGCGGUCCAUUAGCGCG
 ||||||||||*|||||||||||||
-AAAAAGGAGCGGUCCAUUAGCGCG
-10416882410, Relative Position:15
-Mutated allele: T
+AAAACGGAGCAGUCCAUUAGCGCG
+>10416882410, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 AAAACGGAGCGGUCCAUUAGCGCG
 ||||||||||||||*|||||||||
-AAAAUGGAGCGGUCCAUUAGCGCG
-10416882416, Relative Position:21
-Mutated allele: T
+AAAACGGAGCGGUCUAUUAGCGCG
+>10416882416, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 AAAACGGAGCGGUCCAUUAGCGCG
 ||||||||||||||||||||*|||
-AAAAUGGAGCGGUCCAUUAGCGCG
-10416882417, Relative Position:22
-Mutated allele: A
+AAAACGGAGCGGUCCAUUAGUGCG
+>10416882417, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 AAAACGGAGCGGUCCAUUAGCGCG
 |||||||||||||||||||||*||
-AAAAAGGAGCGGUCCAUUAGCGCG
-10416882418, Relative Position:23
-Mutated allele: T
+AAAACGGAGCGGUCCAUUAGCACG
+>10416882418, Relative Position:23, Ref allele:C
+>>Mutated allele: T
 AAAACGGAGCGGUCCAUUAGCGCG
 ||||||||||||||||||||||*|
-AAAAUGGAGCGGUCCAUUAGCGCG
-10416882419, Relative Position:24
-Mutated allele: A
+AAAACGGAGCGGUCCAUUAGCGUG
+>10416882419, Relative Position:24, Ref allele:G
+>>Mutated allele: A
 AAAACGGAGCGGUCCAUUAGCGCG
 |||||||||||||||||||||||*
-AAAAAGGAGCGGUCCAUUAGCGCG
+AAAACGGAGCGGUCCAUUAGCGCA
 
 osa-miR2122, Number of SNPs:3
-10208715225, Relative Position:4
-Mutated allele: T
+>10208715225, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 UUUCAAAAAUAACCUUUUGUUC
 |||*||||||||||||||||||
 UUUUAAAAAUAACCUUUUGUUC
-10208715232, Relative Position:11
-Mutated allele: G
+>10208715232, Relative Position:11, Ref allele:A
+>>Mutated allele: G
 UUUCAAAAAUAACCUUUUGUUC
 ||||||||||*|||||||||||
-UUUGAAAAAUAACCUUUUGUUC
-10208715240, Relative Position:19
-Mutated allele: T
+UUUCAAAAAUGACCUUUUGUUC
+>10208715240, Relative Position:19, Ref allele:G
+>>Mutated allele: T
 UUUCAAAAAUAACCUUUUGUUC
 ||||||||||||||||||*|||
-UUUUAAAAAUAACCUUUUGUUC
+UUUCAAAAAUAACCUUUUUUUC
 
 osa-miR2275a, Number of SNPs:2
-10801205086, Relative Position:16
-Mutated allele: C
+>10801205086, Relative Position:16, Ref allele:T
+>>Mutated allele: C
 UUUGGUUUCCUCCAAUAUCUCA
 |||||||||||||||*||||||
 UUUGGUUUCCUCCAACAUCUCA
-10801205091, Relative Position:21
-Mutated allele: T
+>10801205091, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 UUUGGUUUCCUCCAAUAUCUCA
 ||||||||||||||||||||*|
-UUUGGUUUCCUCCAAUAUCUCA
+UUUGGUUUCCUCCAAUAUCUUA
 
 osa-miR2275b, Number of SNPs:1
-10801202576, Relative Position:22
-Mutated allele: G
+>10801202576, Relative Position:22, Ref allele:A
+>>Mutated allele: G
 UUUGGUUUCCUCCAAUAUCUCA
 |||||||||||||||||||||*
 UUUGGUUUCCUCCAAUAUCUCG
 
 osa-miR2275c, Number of SNPs:2
-10716719863, Relative Position:8
-Mutated allele: T
+>10716719863, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 AGAAUUGGAGGAAAACAAACUGA
 |||||||*|||||||||||||||
 AGAAUUGAAGGAAAACAAACUGA
-10716719869, Relative Position:2
-Mutated allele: G
+>10716719869, Relative Position:2, Ref allele:C
+>>Mutated allele: G
 AGAAUUGGAGGAAAACAAACUGA
 |*|||||||||||||||||||||
-AGAAUUGCAGGAAAACAAACUGA
+ACAAUUGGAGGAAAACAAACUGA
 
 osa-miR2864.2, Number of SNPs:3
-11225664780, Relative Position:21
-Mutated allele: C
+>11225664780, Relative Position:21, Ref allele:T
+>>Mutated allele: C
 UUGUUUUGCAUUGUAUAGGUA
 ||||||||||||||||||||*
 UUGUUUUGCAUUGUAUAGGUG
-11225664782, Relative Position:19
-Mutated allele: G
+>11225664782, Relative Position:19, Ref allele:C
+>>Mutated allele: G
 UUGUUUUGCAUUGUAUAGGUA
 ||||||||||||||||||*||
-UUGUUUUGCAUUGUAUAGGUC
-11225664785, Relative Position:16
-Mutated allele: C
+UUGUUUUGCAUUGUAUAGCUA
+>11225664785, Relative Position:16, Ref allele:A
+>>Mutated allele: C
 UUGUUUUGCAUUGUAUAGGUA
 |||||||||||||||*|||||
-UUGUUUUGCAUUGUAUAGGUG
+UUGUUUUGCAUUGUAGAGGUA
 
 osa-miR2865, Number of SNPs:8
-10908515763, Relative Position:21
-Mutated allele: G
+>10908515763, Relative Position:21, Ref allele:A
+>>Mutated allele: G
 CUCAGCAGUCGACUGUACCGUG
 ||||||||||||||||||||*|
 CUCAGCAGUCGACUGUACCGCG
-10908515764, Relative Position:20
-Mutated allele: T
+>10908515764, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CUCAGCAGUCGACUGUACCGUG
 |||||||||||||||||||*||
-CUCAGCAGUCGACUGUACCGAG
-10908515765, Relative Position:19
-Mutated allele: A
+CUCAGCAGUCGACUGUACCAUG
+>10908515765, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 CUCAGCAGUCGACUGUACCGUG
 ||||||||||||||||||*|||
-CUCAGCAGUCGACUGUACCGUG
-10908515768, Relative Position:16
-Mutated allele: G
+CUCAGCAGUCGACUGUACUGUG
+>10908515768, Relative Position:16, Ref allele:A
+>>Mutated allele: G
 CUCAGCAGUCGACUGUACCGUG
 |||||||||||||||*||||||
-CUCAGCAGUCGACUGUACCGCG
-10908515769, Relative Position:15
-Mutated allele: T
+CUCAGCAGUCGACUGCACCGUG
+>10908515769, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 CUCAGCAGUCGACUGUACCGUG
 ||||||||||||||*|||||||
-CUCAGCAGUCGACUGUACCGAG
-10908515770, Relative Position:14
-Mutated allele: G
+CUCAGCAGUCGACUAUACCGUG
+>10908515770, Relative Position:14, Ref allele:A
+>>Mutated allele: G
 CUCAGCAGUCGACUGUACCGUG
 |||||||||||||*||||||||
-CUCAGCAGUCGACUGUACCGCG
-10908515776, Relative Position:8
-Mutated allele: A
+CUCAGCAGUCGACCGUACCGUG
+>10908515776, Relative Position:8, Ref allele:C
+>>Mutated allele: A
 CUCAGCAGUCGACUGUACCGUG
 |||||||*||||||||||||||
-CUCAGCAGUCGACUGUACCGUG
-10908515780, Relative Position:4
-Mutated allele: A
+CUCAGCAUUCGACUGUACCGUG
+>10908515780, Relative Position:4, Ref allele:T
+>>Mutated allele: A
 CUCAGCAGUCGACUGUACCGUG
 |||*||||||||||||||||||
-CUCAGCAGUCGACUGUACCGUG
+CUCUGCAGUCGACUGUACCGUG
 
 osa-miR2867-3p, Number of SNPs:1
-11116277727, Relative Position:7
-Mutated allele: T
+>11116277727, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 CCAGGACGUGUGGGAUGGCA
 ||||||*|||||||||||||
 CCAGGAUGUGUGGGAUGGCA
 
 osa-miR2867-5p, Number of SNPs:2
-11116277663, Relative Position:2
-Mutated allele: A
+>11116277663, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 UGUGCCAUCCCACACAUCCCGA
 |*||||||||||||||||||||
 UAUGCCAUCCCACACAUCCCGA
-11116277681, Relative Position:20
-Mutated allele: T
+>11116277681, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 UGUGCCAUCCCACACAUCCCGA
 |||||||||||||||||||*||
-UUUGCCAUCCCACACAUCCCGA
+UGUGCCAUCCCACACAUCCUGA
 
 osa-miR2871a-5p, Number of SNPs:1
-10503877022, Relative Position:4
-Mutated allele: T
+>10503877022, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 GACCGUAGAAACUAGCAUAGAAAA
 |||*||||||||||||||||||||
 GACUGUAGAAACUAGCAUAGAAAA
 
 osa-miR2872, Number of SNPs:1
-11102525339, Relative Position:16
-Mutated allele: A
+>11102525339, Relative Position:16, Ref allele:C
+>>Mutated allele: A
 UGGGGUUCUACAAACCGAACU
 |||||||||||||||*|||||
 UGGGGUUCUACAAACAGAACU
-Mutated allele: T
+>>Mutated allele: T
 UGGGGUUCUACAAACCGAACU
 |||||||||||||||*|||||
 UGGGGUUCUACAAACUGAACU
 
 osa-miR2873c, Number of SNPs:2
-10727503533, Relative Position:1
-Mutated allele: T
+>10727503533, Relative Position:1, Ref allele:C
+>>Mutated allele: T
 CAAAUGAAGUUGAGUUUGGAC
 *||||||||||||||||||||
 UAAAUGAAGUUGAGUUUGGAC
-10727503550, Relative Position:18
-Mutated allele: A
+>10727503550, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 CAAAUGAAGUUGAGUUUGGAC
 |||||||||||||||||*|||
-AAAAUGAAGUUGAGUUUGGAC
+CAAAUGAAGUUGAGUUUAGAC
 
 osa-miR2874, Number of SNPs:1
-10815598097, Relative Position:2
-Mutated allele: C
+>10815598097, Relative Position:2, Ref allele:T
+>>Mutated allele: C
 AUGUGAACAGUGUCAAACAGUGUC
 |*||||||||||||||||||||||
 ACGUGAACAGUGUCAAACAGUGUC
 
 osa-miR2875, Number of SNPs:4
-10827092109, Relative Position:10
-Mutated allele: T
+>10827092109, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 AUUUACAGUCAUAUACAGUUUAUA
 |||||||||*||||||||||||||
 AUUUACAGUUAUAUACAGUUUAUA
-10827092115, Relative Position:16
-Mutated allele: T
+>10827092115, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 AUUUACAGUCAUAUACAGUUUAUA
 |||||||||||||||*||||||||
-AUUUACAGUUAUAUACAGUUUAUA
-10827092116, Relative Position:17
-Mutated allele: G
+AUUUACAGUCAUAUAUAGUUUAUA
+>10827092116, Relative Position:17, Ref allele:A
+>>Mutated allele: G
 AUUUACAGUCAUAUACAGUUUAUA
 ||||||||||||||||*|||||||
-AUUUACAGUGAUAUACAGUUUAUA
-10827092120, Relative Position:21
-Mutated allele: C
+AUUUACAGUCAUAUACGGUUUAUA
+>10827092120, Relative Position:21, Ref allele:T
+>>Mutated allele: C
 AUUUACAGUCAUAUACAGUUUAUA
 ||||||||||||||||||||*|||
-AUUUACAGUCAUAUACAGUUUAUA
+AUUUACAGUCAUAUACAGUUCAUA
 
 osa-miR2877, Number of SNPs:1
-10428585262, Relative Position:16
-Mutated allele: T
+>10428585262, Relative Position:16, Ref allele:A
+>>Mutated allele: T
 UUGCAUCCUCUGCACUUUGGGCCU
 |||||||||||||||*||||||||
 UUGCAUCCUCUGCACAUUGGGCCU
 
 osa-miR2878-3p, Number of SNPs:3
-10826181436, Relative Position:2
-Mutated allele: G
+>10826181436, Relative Position:2, Ref allele:A
+>>Mutated allele: G
 CAGGAUUUUAUACAUGUAAAGAAU
 |*||||||||||||||||||||||
 CGGGAUUUUAUACAUGUAAAGAAU
-10826181446, Relative Position:12
-Mutated allele: G
+>10826181446, Relative Position:12, Ref allele:A
+>>Mutated allele: G
 CAGGAUUUUAUACAUGUAAAGAAU
 |||||||||||*||||||||||||
-CGGGAUUUUAUACAUGUAAAGAAU
-10826181458, Relative Position:24
-Mutated allele: C
+CAGGAUUUUAUGCAUGUAAAGAAU
+>10826181458, Relative Position:24, Ref allele:T
+>>Mutated allele: C
 CAGGAUUUUAUACAUGUAAAGAAU
 |||||||||||||||||||||||*
-CCGGAUUUUAUACAUGUAAAGAAU
+CAGGAUUUUAUACAUGUAAAGAAC
 
 osa-miR2879, Number of SNPs:1
-10218895932, Relative Position:9
-Mutated allele: C
+>10218895932, Relative Position:9, Ref allele:A
+>>Mutated allele: C
 GCCAGAUGUGUUAAAAUAAUGACC
 ||||||||*|||||||||||||||
 GCCAGAUGGGUUAAAAUAAUGACC
 
 osa-miR2880, Number of SNPs:4
-10322741629, Relative Position:2
-Mutated allele: T
+>10322741629, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 ACGGUAUCCCGUUCGGACAGGAUG
 |*||||||||||||||||||||||
 AUGGUAUCCCGUUCGGACAGGAUG
-10322741630, Relative Position:3
-Mutated allele: A
+>10322741630, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 ACGGUAUCCCGUUCGGACAGGAUG
 ||*|||||||||||||||||||||
-AAGGUAUCCCGUUCGGACAGGAUG
-10322741637, Relative Position:10
-Mutated allele: T
+ACAGUAUCCCGUUCGGACAGGAUG
+>10322741637, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 ACGGUAUCCCGUUCGGACAGGAUG
 |||||||||*||||||||||||||
-AUGGUAUCCCGUUCGGACAGGAUG
-10322741647, Relative Position:20
-Mutated allele: A
+ACGGUAUCCUGUUCGGACAGGAUG
+>10322741647, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 ACGGUAUCCCGUUCGGACAGGAUG
 |||||||||||||||||||*||||
-AAGGUAUCCCGUUCGGACAGGAUG
+ACGGUAUCCCGUUCGGACAAGAUG
 
 osa-miR2905, Number of SNPs:1
-10313591906, Relative Position:19
-Mutated allele: A
+>10313591906, Relative Position:19, Ref allele:C
+>>Mutated allele: A
 UACAUGUCAGUGACAAAGGCA
 ||||||||||||||||||*||
 UACAUGUCAGUGACAAAGUCA
 
 osa-miR2907a, Number of SNPs:3
-10323598587, Relative Position:2
-Mutated allele: A
+>10323598587, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 GGCAGCCGAGCGAGGGCCUCGG
 |*||||||||||||||||||||
 GACAGCCGAGCGAGGGCCUCGG
-10323598592, Relative Position:7
-Mutated allele: T
+>10323598592, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 GGCAGCCGAGCGAGGGCCUCGG
 ||||||*|||||||||||||||
-GUCAGCCGAGCGAGGGCCUCGG
-10323598600, Relative Position:15
-Mutated allele: A
+GGCAGCUGAGCGAGGGCCUCGG
+>10323598600, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 GGCAGCCGAGCGAGGGCCUCGG
 ||||||||||||||*|||||||
-GACAGCCGAGCGAGGGCCUCGG
+GGCAGCCGAGCGAGAGCCUCGG
 
 osa-miR2907b, Number of SNPs:1
-11107278079, Relative Position:20
-Mutated allele: T
+>11107278079, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 GGCAGCCGAGCGAGGGCCUCGG
 |||||||||||||||||||*||
 GGCAGCCGAGCGAGGGCCUUGG
 
 osa-miR2907c, Number of SNPs:3
-11111906626, Relative Position:9
-Mutated allele: G
+>11111906626, Relative Position:9, Ref allele:A
+>>Mutated allele: G
 GGCAGCCGAGCGAGGGCCUCGG
 ||||||||*|||||||||||||
 GGCAGCCGGGCGAGGGCCUCGG
-11111906629, Relative Position:12
-Mutated allele: A
+>11111906629, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 GGCAGCCGAGCGAGGGCCUCGG
 |||||||||||*||||||||||
-GGCAGCCGAGCGAGGGCCUCGG
-11111906637, Relative Position:20
-Mutated allele: T
+GGCAGCCGAGCAAGGGCCUCGG
+>11111906637, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 GGCAGCCGAGCGAGGGCCUCGG
 |||||||||||||||||||*||
-GGCAGCCGUGCGAGGGCCUCGG
+GGCAGCCGAGCGAGGGCCUUGG
 
 osa-miR2907d, Number of SNPs:1
-11212115145, Relative Position:20
-Mutated allele: T
+>11212115145, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 GGCAGCCGAGCGAGGGCCUCGG
 |||||||||||||||||||*||
 GGCAGCCGAGCGAGGGCCUUGG
 
 osa-miR2921, Number of SNPs:5
-11122213562, Relative Position:6
-Mutated allele: G
+>11122213562, Relative Position:6, Ref allele:C
+>>Mutated allele: G
 AAGAACUUAAUAUAACUUUAAAGC
 |||||*||||||||||||||||||
 AAGAAGUUAAUAUAACUUUAAAGC
-11122213563, Relative Position:7
-Mutated allele: C
+>11122213563, Relative Position:7, Ref allele:T
+>>Mutated allele: C
 AAGAACUUAAUAUAACUUUAAAGC
 ||||||*|||||||||||||||||
-AAGAACUUAAUAUAACUUUAAAGC
-11122213572, Relative Position:16
-Mutated allele: T
+AAGAACCUAAUAUAACUUUAAAGC
+>11122213572, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 AAGAACUUAAUAUAACUUUAAAGC
 |||||||||||||||*||||||||
-AAGAAUUUAAUAUAACUUUAAAGC
-11122213577, Relative Position:21
-Mutated allele: T
+AAGAACUUAAUAUAAUUUUAAAGC
+>11122213577, Relative Position:21, Ref allele:A
+>>Mutated allele: T
 AAGAACUUAAUAUAACUUUAAAGC
 ||||||||||||||||||||*|||
-AAGAAUUUAAUAUAACUUUAAAGC
-11122213578, Relative Position:22
-Mutated allele: T
+AAGAACUUAAUAUAACUUUAUAGC
+>11122213578, Relative Position:22, Ref allele:A
+>>Mutated allele: T
 AAGAACUUAAUAUAACUUUAAAGC
 |||||||||||||||||||||*||
-AAGAAUUUAAUAUAACUUUAAAGC
+AAGAACUUAAUAUAACUUUAAUGC
 
 osa-miR2924, Number of SNPs:1
-10111894416, Relative Position:13
-Mutated allele: A
+>10111894416, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 CUCGCUUGCUCCGGCCGCCAC
 ||||||||||||*||||||||
 CUCGCUUGCUCCAGCCGCCAC
 
 osa-miR2928, Number of SNPs:1
-10206536032, Relative Position:9
-Mutated allele: A
+>10206536032, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 AAGAAGACGACAUUUUGUUG
 ||||||||*|||||||||||
 AAGAAGACAACAUUUUGUUG
 
 osa-miR2930, Number of SNPs:1
-10608376867, Relative Position:5
-Mutated allele: T
+>10608376867, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 UUCUCUUCUCUCGCGCGUGGCC
 ||||*|||||||||||||||||
 UUCUUUUCUCUCGCGCGUGGCC
 
 osa-miR2932, Number of SNPs:1
-11010556721, Relative Position:13
-Mutated allele: G
+>11010556721, Relative Position:13, Ref allele:A
+>>Mutated allele: G
 AGUAUGCCCACUACCUAUC
 ||||||||||||*||||||
 AGUAUGCCCACUGCCUAUC
 
 osa-miR319a-3p, Number of SNPs:1
-10126823355, Relative Position:2
-Mutated allele: A
+>10126823355, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 ACUGGAUGACGCGGGAGCUAA
 |*|||||||||||||||||||
 AUUGGAUGACGCGGGAGCUAA
 
 osa-miR395a, Number of SNPs:3
-10431805514, Relative Position:11
-Mutated allele: G
+>10431805514, Relative Position:11, Ref allele:A
+>>Mutated allele: G
 GUGAAGUGCUUGGGGGAACUC
 ||||||||||*||||||||||
 GUGAAGUGCUCGGGGGAACUC
-10431805517, Relative Position:8
-Mutated allele: G
+>10431805517, Relative Position:8, Ref allele:C
+>>Mutated allele: G
 GUGAAGUGCUUGGGGGAACUC
 |||||||*|||||||||||||
-GUGAAGUGCUCGGGGGAACUC
-10431805522, Relative Position:3
-Mutated allele: T
+GUGAAGUCCUUGGGGGAACUC
+>10431805522, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGCUUGGGGGAACUC
 ||*||||||||||||||||||
-GUGAAGUGCUAGGGGGAACUC
+GUAAAGUGCUUGGGGGAACUC
 
 osa-miR395c, Number of SNPs:4
-10431805205, Relative Position:19
-Mutated allele: A
+>10431805205, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGAGGAACUC
 ||||||||||||||||||*||
 GUGAAGUGUUUGGAGGAAUUC
-10431805208, Relative Position:16
-Mutated allele: T
+>10431805208, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGAGGAACUC
 |||||||||||||||*|||||
-GUGAAGUGUUUGGAGGAAAUC
-10431805212, Relative Position:12
-Mutated allele: T
+GUGAAGUGUUUGGAGAAACUC
+>10431805212, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGAGGAACUC
 |||||||||||*|||||||||
-GUGAAGUGUUUGGAGGAAAUC
-10431805216, Relative Position:8
-Mutated allele: T
+GUGAAGUGUUUAGAGGAACUC
+>10431805216, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGAGGAACUC
 |||||||*|||||||||||||
-GUGAAGUGUUUGGAGGAAAUC
+GUGAAGUAUUUGGAGGAACUC
 
 osa-miR395d, Number of SNPs:3
-10431805073, Relative Position:13
-Mutated allele: T
+>10431805073, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 ||||||||||||*||||||||
 GUGAAGUGUUUGAGGGAACUC
-10431805077, Relative Position:9
-Mutated allele: T
+>10431805077, Relative Position:9, Ref allele:A
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 ||||||||*||||||||||||
-GUGAAGUGUUUGAGGGAACUC
-10431805080, Relative Position:6
-Mutated allele: T
+GUGAAGUGAUUGGGGGAACUC
+>10431805080, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 |||||*|||||||||||||||
-GUGAAGUGUUUGAGGGAACUC
+GUGAAAUGUUUGGGGGAACUC
 
 osa-miR395e, Number of SNPs:3
-10431804930, Relative Position:13
-Mutated allele: T
+>10431804930, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 ||||||||||||*||||||||
 GUGAAGUGUUUGAGGGAACUC
-10431804935, Relative Position:8
-Mutated allele: T
+>10431804935, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 |||||||*|||||||||||||
-GUGAAGUGUUUGAGGGAACUC
-10431804942, Relative Position:1
-Mutated allele: T
+GUGAAGUAUUUGGGGGAACUC
+>10431804942, Relative Position:1, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 *||||||||||||||||||||
-GUGAAGUGUUUGAGGGAACUC
+AUGAAGUGUUUGGGGGAACUC
 
 osa-miR395f, Number of SNPs:4
-10431804786, Relative Position:16
-Mutated allele: T
+>10431804786, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 GUGAAUUGUUUGGGGGAACUC
 |||||||||||||||*|||||
 GUGAAUUGUUUGGGGAAACUC
-10431804787, Relative Position:15
-Mutated allele: T
+>10431804787, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 GUGAAUUGUUUGGGGGAACUC
 ||||||||||||||*||||||
-GUGAAUUGUUUGGGGAAACUC
-10431804796, Relative Position:6
-Mutated allele: C
+GUGAAUUGUUUGGGAGAACUC
+>10431804796, Relative Position:6, Ref allele:A
+>>Mutated allele: C
 GUGAAUUGUUUGGGGGAACUC
 |||||*|||||||||||||||
-GUGAAUUGUUUGGGGGAACUC
-10431804799, Relative Position:3
-Mutated allele: T
-GUGAAUUGUUUGGGGGAACUC
-||*||||||||||||||||||
-GUGAAUUGUUUGGGGAAACUC
-Mutated allele: A
+GUGAAGUGUUUGGGGGAACUC
+>10431804799, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 GUGAAUUGUUUGGGGGAACUC
 ||*||||||||||||||||||
-GUGAAUUGUUUGGGGUAACUC
+GUAAAUUGUUUGGGGGAACUC
+>>Mutated allele: A
+GUGAAUUGUUUGGGGGAACUC
+||*||||||||||||||||||
+GUUAAUUGUUUGGGGGAACUC
 
 osa-miR395g, Number of SNPs:2
-10431804648, Relative Position:16
-Mutated allele: T
+>10431804648, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 |||||||||||||||*|||||
 GUGAAGUGUUUGGGGAAACUC
-10431804652, Relative Position:12
-Mutated allele: A
+>10431804652, Relative Position:12, Ref allele:C
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 |||||||||||*|||||||||
-GUGAAGUGUUUGGGGUAACUC
+GUGAAGUGUUUUGGGGAACUC
 
 osa-miR395h, Number of SNPs:3
-10803299227, Relative Position:3
-Mutated allele: A
+>10803299227, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 ||*||||||||||||||||||
 GUAAAGUGUUUGGGGGAACUC
-10803299238, Relative Position:14
-Mutated allele: T
+>10803299238, Relative Position:14, Ref allele:G
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAACUC
 |||||||||||||*|||||||
-GUUAAGUGUUUGGGGGAACUC
-10803299239, Relative Position:15
-Mutated allele: A
+GUGAAGUGUUUGGUGGAACUC
+>10803299239, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 ||||||||||||||*||||||
-GUAAAGUGUUUGGGGGAACUC
+GUGAAGUGUUUGGGAGAACUC
 
 osa-miR395i, Number of SNPs:1
-10803299396, Relative Position:10
-Mutated allele: A
+>10803299396, Relative Position:10, Ref allele:T
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 |||||||||*|||||||||||
 GUGAAGUGUAUGGGGGAACUC
 
 osa-miR395m, Number of SNPs:2
-10432622105, Relative Position:14
-Mutated allele: A
+>10432622105, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 |||||||||||||*|||||||
 GUGAAGUGUUUGGAGGAACUC
-10432622107, Relative Position:16
-Mutated allele: A
+>10432622107, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 |||||||||||||||*|||||
-GUGAAGUGUUUGGAGGAACUC
+GUGAAGUGUUUGGGGAAACUC
 
 osa-miR395n, Number of SNPs:1
-10432622295, Relative Position:8
-Mutated allele: A
+>10432622295, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 |||||||*|||||||||||||
 GUGAAGUAUUUGGGGGAACUC
 
 osa-miR395o, Number of SNPs:1
-10432622444, Relative Position:16
-Mutated allele: A
+>10432622444, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 AUGAAGUGUUUGGAGGAACUC
 |||||||||||||||*|||||
 AUGAAGUGUUUGGAGAAACUC
 
 osa-miR395p, Number of SNPs:1
-10432622585, Relative Position:14
-Mutated allele: A
+>10432622585, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAACUC
 |||||||||||||*|||||||
 GUGAAGUGUUUGGAGGAACUC
 
 osa-miR395t, Number of SNPs:1
-10906607374, Relative Position:10
-Mutated allele: G
+>10906607374, Relative Position:10, Ref allele:A
+>>Mutated allele: G
 GUGAAGUGUUUGGGGAAACUC
 |||||||||*|||||||||||
 GUGAAGUGUCUGGGGAAACUC
 
 osa-miR395u, Number of SNPs:4
-10906606720, Relative Position:12
-Mutated allele: G
+>10906606720, Relative Position:12, Ref allele:C
+>>Mutated allele: G
 GUGAAGCGUUUGGGGGAAAUC
 |||||||||||*|||||||||
 GUGAAGCGUUUCGGGGAAAUC
-10906606724, Relative Position:8
-Mutated allele: T
+>10906606724, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 GUGAAGCGUUUGGGGGAAAUC
 |||||||*|||||||||||||
-GUGAAGCGUUUAGGGGAAAUC
-10906606725, Relative Position:7
-Mutated allele: A
+GUGAAGCAUUUGGGGGAAAUC
+>10906606725, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 GUGAAGCGUUUGGGGGAAAUC
 ||||||*||||||||||||||
-GUGAAGCGUUUUGGGGAAAUC
-10906606729, Relative Position:3
-Mutated allele: T
+GUGAAGUGUUUGGGGGAAAUC
+>10906606729, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 GUGAAGCGUUUGGGGGAAAUC
 ||*||||||||||||||||||
-GUGAAGCGUUUAGGGGAAAUC
+GUAAAGCGUUUGGGGGAAAUC
 
 osa-miR395v, Number of SNPs:4
-10906606580, Relative Position:16
-Mutated allele: T
+>10906606580, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 GUGAAGUAUUUGGCGGAACUC
 |||||||||||||||*|||||
 GUGAAGUAUUUGGCGAAACUC
-10906606581, Relative Position:15
-Mutated allele: T
+>10906606581, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 GUGAAGUAUUUGGCGGAACUC
 ||||||||||||||*||||||
-GUGAAGUAUUUGGCGAAACUC
-10906606582, Relative Position:14
-Mutated allele: T
+GUGAAGUAUUUGGCAGAACUC
+>10906606582, Relative Position:14, Ref allele:G
+>>Mutated allele: T
 GUGAAGUAUUUGGCGGAACUC
 |||||||||||||*|||||||
-GUGAAGUAUUUGGCGAAACUC
-10906606593, Relative Position:3
-Mutated allele: T
+GUGAAGUAUUUGGAGGAACUC
+>10906606593, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 GUGAAGUAUUUGGCGGAACUC
 ||*||||||||||||||||||
-GUGAAGUAUUUGGCGAAACUC
+GUAAAGUAUUUGGCGGAACUC
 
 osa-miR395w, Number of SNPs:3
-10906606302, Relative Position:11
-Mutated allele: T
+>10906606302, Relative Position:11, Ref allele:A
+>>Mutated allele: T
 GUGAAGUGUUUGGGGGAUUCUC
 ||||||||||*|||||||||||
 GUGAAGUGUUAGGGGGAUUCUC
-10906606308, Relative Position:5
-Mutated allele: A
+>10906606308, Relative Position:5, Ref allele:T
+>>Mutated allele: A
 GUGAAGUGUUUGGGGGAUUCUC
 ||||*|||||||||||||||||
-GUGAAGUGUUUGGGGGAUUCUC
-10906606309, Relative Position:4
-Mutated allele: C
+GUGAUGUGUUUGGGGGAUUCUC
+>10906606309, Relative Position:4, Ref allele:T
+>>Mutated allele: C
 GUGAAGUGUUUGGGGGAUUCUC
 |||*||||||||||||||||||
-GUGAAGUGUUGGGGGGAUUCUC
+GUGGAGUGUUUGGGGGAUUCUC
 
 osa-miR395x, Number of SNPs:1
-10432623142, Relative Position:16
-Mutated allele: C
+>10432623142, Relative Position:16, Ref allele:T
+>>Mutated allele: C
 GUGAAGUGUUUGGAGUAGCUC
 |||||||||||||||*|||||
 GUGAAGUGUUUGGAGCAGCUC
 
 osa-miR396c-5p, Number of SNPs:1
-10234288003, Relative Position:1
-Mutated allele: G
+>10234288003, Relative Position:1, Ref allele:A
+>>Mutated allele: G
 UUCCACAGCUUUCUUGAACUU
 *||||||||||||||||||||
 CUCCACAGCUUUCUUGAACUU
 
 osa-miR3979-3p, Number of SNPs:2
-11119480238, Relative Position:5
-Mutated allele: A
+>11119480238, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 CUUCGGGGGAGGAGAGAAGC
 ||||*|||||||||||||||
 CUUCAGGGGAGGAGAGAAGC
-11119480252, Relative Position:19
-Mutated allele: T
+>11119480252, Relative Position:19, Ref allele:G
+>>Mutated allele: T
 CUUCGGGGGAGGAGAGAAGC
 ||||||||||||||||||*|
-CUUCUGGGGAGGAGAGAAGC
+CUUCGGGGGAGGAGAGAAUC
 
 osa-miR3981-3p, Number of SNPs:4
-10504302901, Relative Position:5
-Mutated allele: C
+>10504302901, Relative Position:5, Ref allele:T
+>>Mutated allele: C
 AGUAUUAGGAUACGUCUCAUC
 ||||*||||||||||||||||
 AGUACUAGGAUACGUCUCAUC
-10504302903, Relative Position:7
-Mutated allele: C
+>10504302903, Relative Position:7, Ref allele:A
+>>Mutated allele: C
 AGUAUUAGGAUACGUCUCAUC
 ||||||*||||||||||||||
-AGUACUAGGAUACGUCUCAUC
-10504302910, Relative Position:14
-Mutated allele: A
+AGUAUUCGGAUACGUCUCAUC
+>10504302910, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 AGUAUUAGGAUACGUCUCAUC
 |||||||||||||*|||||||
-AGUAAUAGGAUACGUCUCAUC
-10504302917, Relative Position:21
-Mutated allele: T
+AGUAUUAGGAUACAUCUCAUC
+>10504302917, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 AGUAUUAGGAUACGUCUCAUC
 ||||||||||||||||||||*
-AGUAUUAGGAUACGUCUCAUC
+AGUAUUAGGAUACGUCUCAUU
 
 osa-miR3981-5p, Number of SNPs:4
-10504302837, Relative Position:2
-Mutated allele: T
+>10504302837, Relative Position:2, Ref allele:G
+>>Mutated allele: T
 UGGGACGUAUCCUAUUACUAU
 |*|||||||||||||||||||
 UUGGACGUAUCCUAUUACUAU
-Mutated allele: A
+>>Mutated allele: A
 UGGGACGUAUCCUAUUACUAU
 |*|||||||||||||||||||
 UAGGACGUAUCCUAUUACUAU
-10504302838, Relative Position:3
-Mutated allele: T
+>10504302838, Relative Position:3, Ref allele:G
+>>Mutated allele: T
 UGGGACGUAUCCUAUUACUAU
 ||*||||||||||||||||||
-UUGGACGUAUCCUAUUACUAU
-Mutated allele: A
+UGUGACGUAUCCUAUUACUAU
+>>Mutated allele: A
 UGGGACGUAUCCUAUUACUAU
 ||*||||||||||||||||||
-UAGGACGUAUCCUAUUACUAU
-10504302841, Relative Position:6
-Mutated allele: T
+UGAGACGUAUCCUAUUACUAU
+>10504302841, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 UGGGACGUAUCCUAUUACUAU
 |||||*|||||||||||||||
-UUGGACGUAUCCUAUUACUAU
-10504302842, Relative Position:7
-Mutated allele: T
+UGGGAUGUAUCCUAUUACUAU
+>10504302842, Relative Position:7, Ref allele:G
+>>Mutated allele: T
 UGGGACGUAUCCUAUUACUAU
 ||||||*||||||||||||||
-UUGGACGUAUCCUAUUACUAU
-Mutated allele: A
+UGGGACUUAUCCUAUUACUAU
+>>Mutated allele: A
 UGGGACGUAUCCUAUUACUAU
 ||||||*||||||||||||||
-UAGGACGUAUCCUAUUACUAU
+UGGGACAUAUCCUAUUACUAU
 
 osa-miR3982-5p, Number of SNPs:3
-11101384936, Relative Position:16
-Mutated allele: C
+>11101384936, Relative Position:16, Ref allele:T
+>>Mutated allele: C
 GCGCUCCACGUAGGCAACAAU
 |||||||||||||||*|||||
 GCGCUCCACGUAGGCGACAAU
-11101384946, Relative Position:6
-Mutated allele: A
+>11101384946, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 GCGCUCCACGUAGGCAACAAU
 |||||*|||||||||||||||
-GCGCUCCACGUAGGCUACAAU
-11101384947, Relative Position:5
-Mutated allele: G
+GCGCUUCACGUAGGCAACAAU
+>11101384947, Relative Position:5, Ref allele:A
+>>Mutated allele: G
 GCGCUCCACGUAGGCAACAAU
 ||||*||||||||||||||||
-GCGCUCCACGUAGGCCACAAU
+GCGCCCCACGUAGGCAACAAU
 
 osa-miR398b, Number of SNPs:1
-10714598637, Relative Position:11
-Mutated allele: T
+>10714598637, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 UGUGUUCUCAGGUCGCCCCUG
 ||||||||||*||||||||||
 UGUGUUCUCAAGUCGCCCCUG
 
 osa-miR399a, Number of SNPs:1
-10130478761, Relative Position:8
-Mutated allele: T
+>10130478761, Relative Position:8, Ref allele:G
+>>Mutated allele: T
 UGCCAAAGGAGAAUUGCCCUG
 |||||||*|||||||||||||
 UGCCAAAUGAGAAUUGCCCUG
 
 osa-miR399d, Number of SNPs:1
-10601562045, Relative Position:2
-Mutated allele: A
+>10601562045, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 UGCCAAAGGAGAGUUGCCCUG
 |*|||||||||||||||||||
 UACCAAAGGAGAGUUGCCCUG
 
 osa-miR399g, Number of SNPs:1
-10207675391, Relative Position:20
-Mutated allele: G
+>10207675391, Relative Position:20, Ref allele:A
+>>Mutated allele: G
 UGCCAAAGGAGAUUUGCCCAG
 |||||||||||||||||||*|
 UGCCAAAGGAGAUUUGCCCGG
 
 osa-miR414, Number of SNPs:2
-11115504904, Relative Position:1
-Mutated allele: C
+>11115504904, Relative Position:1, Ref allele:T
+>>Mutated allele: C
 UCAUCCUCAUCAUCAUCGUCC
 *||||||||||||||||||||
 CCAUCCUCAUCAUCAUCGUCC
-11115504920, Relative Position:17
-Mutated allele: G
+>11115504920, Relative Position:17, Ref allele:C
+>>Mutated allele: G
 UCAUCCUCAUCAUCAUCGUCC
 ||||||||||||||||*||||
-GCAUCCUCAUCAUCAUCGUCC
+UCAUCCUCAUCAUCAUGGUCC
 
 osa-miR417, Number of SNPs:1
-10814939903, Relative Position:8
-Mutated allele: A
+>10814939903, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 GAAUGUAGUGAAUUUGUUCCA
 |||||||*|||||||||||||
 GAAUGUAAUGAAUUUGUUCCA
-Mutated allele: T
+>>Mutated allele: T
 GAAUGUAGUGAAUUUGUUCCA
 |||||||*|||||||||||||
 GAAUGUAUUGAAUUUGUUCCA
 
 osa-miR419, Number of SNPs:6
-11208237586, Relative Position:21
-Mutated allele: T
+>11208237586, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 UGAUGAAUGCUGACGAUGUUG
 ||||||||||||||||||||*
 UGAUGAAUGCUGACGAUGUUA
-11208237588, Relative Position:19
-Mutated allele: G
+>11208237588, Relative Position:19, Ref allele:A
+>>Mutated allele: G
 UGAUGAAUGCUGACGAUGUUG
 ||||||||||||||||||*||
-UGAUGAAUGCUGACGAUGUUC
-11208237592, Relative Position:15
-Mutated allele: T
+UGAUGAAUGCUGACGAUGCUG
+>11208237592, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 UGAUGAAUGCUGACGAUGUUG
 ||||||||||||||*||||||
-UGAUGAAUGCUGACGAUGUUA
-11208237593, Relative Position:14
-Mutated allele: T
+UGAUGAAUGCUGACAAUGUUG
+>11208237593, Relative Position:14, Ref allele:G
+>>Mutated allele: T
 UGAUGAAUGCUGACGAUGUUG
 |||||||||||||*|||||||
-UGAUGAAUGCUGACGAUGUUA
-11208237595, Relative Position:12
-Mutated allele: T
+UGAUGAAUGCUGAAGAUGUUG
+>11208237595, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 UGAUGAAUGCUGACGAUGUUG
 |||||||||||*|||||||||
-UGAUGAAUGCUGACGAUGUUA
-11208237600, Relative Position:7
-Mutated allele: C
+UGAUGAAUGCUAACGAUGUUG
+>11208237600, Relative Position:7, Ref allele:T
+>>Mutated allele: C
 UGAUGAAUGCUGACGAUGUUG
 ||||||*||||||||||||||
-UGAUGAAUGCUGACGAUGUUG
+UGAUGAGUGCUGACGAUGUUG
 
 osa-miR437, Number of SNPs:1
-10217050378, Relative Position:17
-Mutated allele: A
+>10217050378, Relative Position:17, Ref allele:C
+>>Mutated allele: A
 AAAGUUAGAGAAGUUUGACUU
 ||||||||||||||||*||||
 AAAGUUAGAGAAGUUUUACUU
 
 osa-miR438, Number of SNPs:1
-10620745996, Relative Position:9
-Mutated allele: T
+>10620745996, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 UUCCCACGCGUUAUAGUGAAA
 ||||||||*||||||||||||
 UUCCCACGUGUUAUAGUGAAA
 
 osa-miR439b, Number of SNPs:1
-11005572960, Relative Position:4
-Mutated allele: T
+>11005572960, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 |||*|||||||||||||||||
 UGUUGAACCGCGGUUGUUCGA
 
 osa-miR439d, Number of SNPs:5
-10313698385, Relative Position:5
-Mutated allele: A
+>10313698385, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UGUCGAACCGCGGUUGUUCGA
 ||||*||||||||||||||||
 UGUCAAACCGCGGUUGUUCGA
-10313698389, Relative Position:9
-Mutated allele: T
+>10313698389, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 ||||||||*||||||||||||
-UGUCUAACCGCGGUUGUUCGA
-10313698391, Relative Position:11
-Mutated allele: T
+UGUCGAACUGCGGUUGUUCGA
+>10313698391, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 ||||||||||*||||||||||
-UGUCUAACCGCGGUUGUUCGA
-10313698392, Relative Position:12
-Mutated allele: A
+UGUCGAACCGUGGUUGUUCGA
+>10313698392, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 UGUCGAACCGCGGUUGUUCGA
 |||||||||||*|||||||||
-UGUCAAACCGCGGUUGUUCGA
-10313698400, Relative Position:20
-Mutated allele: A
+UGUCGAACCGCAGUUGUUCGA
+>10313698400, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 UGUCGAACCGCGGUUGUUCGA
 |||||||||||||||||||*|
-UGUCAAACCGCGGUUGUUCGA
+UGUCGAACCGCGGUUGUUCAA
 
 osa-miR439g, Number of SNPs:1
-10803664299, Relative Position:9
-Mutated allele: T
+>10803664299, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 ||||||||*||||||||||||
 UGUCGAACUGCGGUUGUUCGA
 
 osa-miR439h, Number of SNPs:6
-10601553127, Relative Position:20
-Mutated allele: T
+>10601553127, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 |||||||||||||||||||*|
 UGUCGAACCGCGGUUGUUCAA
-10601553131, Relative Position:16
-Mutated allele: T
+>10601553131, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 |||||||||||||||*|||||
-UGUCGAACCGCGGUUGUUCAA
-10601553137, Relative Position:10
-Mutated allele: T
-UGUCGAACCGCGGUUGUUCGA
-|||||||||*|||||||||||
-UGUCGAACCGCGGUUGUUCAA
-10601553138, Relative Position:9
-Mutated allele: A
-UGUCGAACCGCGGUUGUUCGA
-||||||||*||||||||||||
-UGUCGAACCGCGGUUGUUCUA
-10601553142, Relative Position:5
-Mutated allele: T
-UGUCGAACCGCGGUUGUUCGA
-||||*||||||||||||||||
-UGUCGAACCGCGGUUGUUCAA
-10601553145, Relative Position:2
-Mutated allele: T
-UGUCGAACCGCGGUUGUUCGA
-|*|||||||||||||||||||
-UGUCGAACCGCGGUUGUUCAA
-
-osa-miR439i, Number of SNPs:3
-11015809274, Relative Position:10
-Mutated allele: T
+UGUCGAACCGCGGUUAUUCGA
+>10601553137, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 UGUCGAACCGCGGUUGUUCGA
 |||||||||*|||||||||||
 UGUCGAACCACGGUUGUUCGA
-11015809275, Relative Position:9
-Mutated allele: A
+>10601553138, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 UGUCGAACCGCGGUUGUUCGA
 ||||||||*||||||||||||
-UGUCGAACCUCGGUUGUUCGA
-11015809280, Relative Position:4
-Mutated allele: A
+UGUCGAACUGCGGUUGUUCGA
+>10601553142, Relative Position:5, Ref allele:C
+>>Mutated allele: T
+UGUCGAACCGCGGUUGUUCGA
+||||*||||||||||||||||
+UGUCAAACCGCGGUUGUUCGA
+>10601553145, Relative Position:2, Ref allele:C
+>>Mutated allele: T
+UGUCGAACCGCGGUUGUUCGA
+|*|||||||||||||||||||
+UAUCGAACCGCGGUUGUUCGA
+
+osa-miR439i, Number of SNPs:3
+>11015809274, Relative Position:10, Ref allele:C
+>>Mutated allele: T
+UGUCGAACCGCGGUUGUUCGA
+|||||||||*|||||||||||
+UGUCGAACCACGGUUGUUCGA
+>11015809275, Relative Position:9, Ref allele:G
+>>Mutated allele: A
+UGUCGAACCGCGGUUGUUCGA
+||||||||*||||||||||||
+UGUCGAACUGCGGUUGUUCGA
+>11015809280, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 UGUCGAACCGCGGUUGUUCGA
 |||*|||||||||||||||||
-UGUCGAACCUCGGUUGUUCGA
+UGUUGAACCGCGGUUGUUCGA
 
 osa-miR440, Number of SNPs:1
-11109164845, Relative Position:6
-Mutated allele: T
+>11109164845, Relative Position:6, Ref allele:G
+>>Mutated allele: T
 AGUGUCUCCUGAUGAUCGGGACAA
 |||||*||||||||||||||||||
 AGUGUAUCCUGAUGAUCGGGACAA
 
 osa-miR443, Number of SNPs:1
-10330021503, Relative Position:18
-Mutated allele: T
+>10330021503, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 AUCACAAUACAAUAAAUCUGGA
 |||||||||||||||||*||||
 AUCACAAUACAAUAAAUUUGGA
 
 osa-miR444b.1, Number of SNPs:1
-10222300431, Relative Position:19
-Mutated allele: T
+>10222300431, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 UGUUGUCUCAAGCUUGCUGCC
 ||||||||||||||||||*||
 UGUUGUCUCAAGCUUGCUACC
 
 osa-miR444f, Number of SNPs:1
-10608941843, Relative Position:6
-Mutated allele: A
+>10608941843, Relative Position:6, Ref allele:T
+>>Mutated allele: A
 UGCAGUUGUUGCCUCAAGCUU
 |||||*|||||||||||||||
 UGCAGAUGUUGCCUCAAGCUU
 
 osa-miR5071, Number of SNPs:1
-10804114076, Relative Position:15
-Mutated allele: T
+>10804114076, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 UCAAGCAUCAUAUCGUGGACA
 ||||||||||||||*||||||
 UCAAGCAUCAUAUCAUGGACA
 
 osa-miR5072, Number of SNPs:8
-10617458739, Relative Position:21
-Mutated allele: T
+>10617458739, Relative Position:21, Ref allele:G
+>>Mutated allele: T
 CGAUUCCCCAGCGGAGUCGCCA
 ||||||||||||||||||||*|
 CGAUUCCCCAGCGGAGUCGCAA
-10617458740, Relative Position:20
-Mutated allele: A
+>10617458740, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 CGAUUCCCCAGCGGAGUCGCCA
 |||||||||||||||||||*||
-CGAUUCCCCAGCGGAGUCGCUA
-10617458744, Relative Position:16
-Mutated allele: T
+CGAUUCCCCAGCGGAGUCGUCA
+>10617458744, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 CGAUUCCCCAGCGGAGUCGCCA
 |||||||||||||||*||||||
-CGAUUCCCCAGCGGAGUCGCAA
-10617458748, Relative Position:12
-Mutated allele: A
+CGAUUCCCCAGCGGAAUCGCCA
+>10617458748, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 CGAUUCCCCAGCGGAGUCGCCA
 |||||||||||*||||||||||
-CGAUUCCCCAGCGGAGUCGCUA
-10617458749, Relative Position:11
-Mutated allele: T
+CGAUUCCCCAGUGGAGUCGCCA
+>10617458749, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 CGAUUCCCCAGCGGAGUCGCCA
 ||||||||||*|||||||||||
-CGAUUCCCCAGCGGAGUCGCAA
-10617458751, Relative Position:9
-Mutated allele: A
+CGAUUCCCCAACGGAGUCGCCA
+>10617458751, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 CGAUUCCCCAGCGGAGUCGCCA
 ||||||||*|||||||||||||
-CGAUUCCCCAGCGGAGUCGCUA
-10617458752, Relative Position:8
-Mutated allele: T
+CGAUUCCCUAGCGGAGUCGCCA
+>10617458752, Relative Position:8, Ref allele:G
+>>Mutated allele: T
 CGAUUCCCCAGCGGAGUCGCCA
 |||||||*||||||||||||||
-CGAUUCCCCAGCGGAGUCGCAA
-10617458753, Relative Position:7
-Mutated allele: A
+CGAUUCCACAGCGGAGUCGCCA
+>10617458753, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 CGAUUCCCCAGCGGAGUCGCCA
 ||||||*|||||||||||||||
-CGAUUCCCCAGCGGAGUCGCUA
+CGAUUCUCCAGCGGAGUCGCCA
 
 osa-miR5073, Number of SNPs:1
-10819020514, Relative Position:10
-Mutated allele: T
+>10819020514, Relative Position:10, Ref allele:A
+>>Mutated allele: T
 GUUUGGUGAAUCGGAAACUAUUU
 |||||||||*|||||||||||||
 GUUUGGUGAUUCGGAAACUAUUU
 
 osa-miR5076, Number of SNPs:1
-10143208635, Relative Position:19
-Mutated allele: T
+>10143208635, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 GAAAUGGGAGCAGAGCAGGUUU
 ||||||||||||||||||*|||
 GAAAUGGGAGCAGAGCAGAUUU
 
 osa-miR5077, Number of SNPs:1
-10314094782, Relative Position:19
-Mutated allele: T
+>10314094782, Relative Position:19, Ref allele:A
+>>Mutated allele: T
 GUUCGCGUCGGGUUCACCA
 ||||||||||||||||||*
 GUUCGCGUCGGGUUCACCU
 
 osa-miR5080, Number of SNPs:2
-11002322034, Relative Position:17
-Mutated allele: T
+>11002322034, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 AAAAGGAUCAUACCGUGACAG
 ||||||||||||||||*||||
 AAAAGGAUCAUACCGUAACAG
-11002322038, Relative Position:13
-Mutated allele: A
+>11002322038, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 AAAAGGAUCAUACCGUGACAG
 ||||||||||||*||||||||
-AAAAGGAUCAUACCGUUACAG
+AAAAGGAUCAUAUCGUGACAG
 
 osa-miR5081, Number of SNPs:2
-10700016905, Relative Position:15
-Mutated allele: G
+>10700016905, Relative Position:15, Ref allele:A
+>>Mutated allele: G
 UAAUUUGUAGCAAAUUGAUAGU
 ||||||||||||||*|||||||
 UAAUUUGUAGCAAACUGAUAGU
-10700016912, Relative Position:8
-Mutated allele: G
+>10700016912, Relative Position:8, Ref allele:A
+>>Mutated allele: G
 UAAUUUGUAGCAAAUUGAUAGU
 |||||||*||||||||||||||
-UAAUUUGUAGCAAACUGAUAGU
+UAAUUUGCAGCAAAUUGAUAGU
 
 osa-miR5145, Number of SNPs:8
-10140622697, Relative Position:20
-Mutated allele: T
+>10140622697, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 ACCUGUUUGGAUUCUUGAGGGCUA
 |||||||||||||||||||*||||
 ACCUGUUUGGAUUCUUGAGAGCUA
-10140622698, Relative Position:19
-Mutated allele: T
+>10140622698, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||||||||||||||||||*|||||
-ACCUGUUUGGAUUCUUGAGAGCUA
-10140622700, Relative Position:17
-Mutated allele: T
+ACCUGUUUGGAUUCUUGAAGGCUA
+>10140622700, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||||||||||||||||*|||||||
-ACCUGUUUGGAUUCUUGAGAGCUA
-10140622701, Relative Position:16
-Mutated allele: G
+ACCUGUUUGGAUUCUUAAGGGCUA
+>10140622701, Relative Position:16, Ref allele:A
+>>Mutated allele: G
 ACCUGUUUGGAUUCUUGAGGGCUA
 |||||||||||||||*||||||||
-ACCUGUUUGGAUUCUUGAGCGCUA
-10140622704, Relative Position:13
-Mutated allele: G
+ACCUGUUUGGAUUCUCGAGGGCUA
+>10140622704, Relative Position:13, Ref allele:A
+>>Mutated allele: G
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||||||||||||*|||||||||||
-ACCUGUUUGGAUUCUUGAGCGCUA
-10140622708, Relative Position:9
-Mutated allele: T
+ACCUGUUUGGAUCCUUGAGGGCUA
+>10140622708, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||||||||*|||||||||||||||
-ACCUGUUUGGAUUCUUGAGAGCUA
-10140622712, Relative Position:5
-Mutated allele: A
+ACCUGUUUAGAUUCUUGAGGGCUA
+>10140622712, Relative Position:5, Ref allele:C
+>>Mutated allele: A
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||||*|||||||||||||||||||
-ACCUGUUUGGAUUCUUGAGUGCUA
-Mutated allele: T
+ACCUUUUUGGAUUCUUGAGGGCUA
+>>Mutated allele: T
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||||*|||||||||||||||||||
-ACCUGUUUGGAUUCUUGAGAGCUA
-10140622714, Relative Position:3
-Mutated allele: A
+ACCUAUUUGGAUUCUUGAGGGCUA
+>10140622714, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 ACCUGUUUGGAUUCUUGAGGGCUA
 ||*|||||||||||||||||||||
-ACCUGUUUGGAUUCUUGAGUGCUA
+ACUUGUUUGGAUUCUUGAGGGCUA
 
 osa-miR5146, Number of SNPs:5
-10122418349, Relative Position:6
-Mutated allele: T
+>10122418349, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 UUUAACUAAUGAACCGGCACCUAU
 |||||*||||||||||||||||||
 UUUAAUUAAUGAACCGGCACCUAU
-10122418354, Relative Position:11
-Mutated allele: T
+>10122418354, Relative Position:11, Ref allele:G
+>>Mutated allele: T
 UUUAACUAAUGAACCGGCACCUAU
 ||||||||||*|||||||||||||
-UUUAAUUAAUGAACCGGCACCUAU
-10122418359, Relative Position:16
-Mutated allele: A
+UUUAACUAAUUAACCGGCACCUAU
+>10122418359, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 UUUAACUAAUGAACCGGCACCUAU
 |||||||||||||||*||||||||
-UUUAAAUAAUGAACCGGCACCUAU
-10122418360, Relative Position:17
-Mutated allele: A
+UUUAACUAAUGAACCAGCACCUAU
+>10122418360, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 UUUAACUAAUGAACCGGCACCUAU
 ||||||||||||||||*|||||||
-UUUAAAUAAUGAACCGGCACCUAU
-10122418361, Relative Position:18
-Mutated allele: T
+UUUAACUAAUGAACCGACACCUAU
+>10122418361, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 UUUAACUAAUGAACCGGCACCUAU
 |||||||||||||||||*||||||
-UUUAAUUAAUGAACCGGCACCUAU
+UUUAACUAAUGAACCGGUACCUAU
 
 osa-miR5148a, Number of SNPs:4
-10309968955, Relative Position:24
-Mutated allele: G
+>10309968955, Relative Position:24, Ref allele:A
+>>Mutated allele: G
 UGAGGGGUAGAAAUGUCAUAUCAU
 |||||||||||||||||||||||*
 UGAGGGGUAGAAAUGUCAUAUCAC
-10309968964, Relative Position:15
-Mutated allele: T
-UGAGGGGUAGAAAUGUCAUAUCAU
-||||||||||||||*|||||||||
-UGAGGGGUAGAAAUGUCAUAUCAA
-10309968973, Relative Position:6
-Mutated allele: T
-UGAGGGGUAGAAAUGUCAUAUCAU
-|||||*||||||||||||||||||
-UGAGGGGUAGAAAUGUCAUAUCAA
-10309968977, Relative Position:2
-Mutated allele: T
-UGAGGGGUAGAAAUGUCAUAUCAU
-|*||||||||||||||||||||||
-UGAGGGGUAGAAAUGUCAUAUCAA
-
-osa-miR5148b, Number of SNPs:3
-10627436701, Relative Position:2
-Mutated allele: C
-UGAGGGGUAGAAAUGUCAUAUCAU
-|*||||||||||||||||||||||
-UCAGGGGUAGAAAUGUCAUAUCAU
-10627436703, Relative Position:4
-Mutated allele: A
-UGAGGGGUAGAAAUGUCAUAUCAU
-|||*||||||||||||||||||||
-UAAGGGGUAGAAAUGUCAUAUCAU
-10627436721, Relative Position:22
-Mutated allele: T
-UGAGGGGUAGAAAUGUCAUAUCAU
-|||||||||||||||||||||*||
-UUAGGGGUAGAAAUGUCAUAUCAU
-
-osa-miR5148c, Number of SNPs:2
-11102813217, Relative Position:15
-Mutated allele: T
+>10309968964, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 UGAGGGGUAGAAAUGUCAUAUCAU
 ||||||||||||||*|||||||||
 UGAGGGGUAGAAAUAUCAUAUCAU
-11102813222, Relative Position:10
-Mutated allele: G
+>10309968973, Relative Position:6, Ref allele:C
+>>Mutated allele: T
+UGAGGGGUAGAAAUGUCAUAUCAU
+|||||*||||||||||||||||||
+UGAGGAGUAGAAAUGUCAUAUCAU
+>10309968977, Relative Position:2, Ref allele:C
+>>Mutated allele: T
+UGAGGGGUAGAAAUGUCAUAUCAU
+|*||||||||||||||||||||||
+UAAGGGGUAGAAAUGUCAUAUCAU
+
+osa-miR5148b, Number of SNPs:3
+>10627436701, Relative Position:2, Ref allele:G
+>>Mutated allele: C
+UGAGGGGUAGAAAUGUCAUAUCAU
+|*||||||||||||||||||||||
+UCAGGGGUAGAAAUGUCAUAUCAU
+>10627436703, Relative Position:4, Ref allele:G
+>>Mutated allele: A
+UGAGGGGUAGAAAUGUCAUAUCAU
+|||*||||||||||||||||||||
+UGAAGGGUAGAAAUGUCAUAUCAU
+>10627436721, Relative Position:22, Ref allele:C
+>>Mutated allele: T
+UGAGGGGUAGAAAUGUCAUAUCAU
+|||||||||||||||||||||*||
+UGAGGGGUAGAAAUGUCAUAUUAU
+
+osa-miR5148c, Number of SNPs:2
+>11102813217, Relative Position:15, Ref allele:C
+>>Mutated allele: T
+UGAGGGGUAGAAAUGUCAUAUCAU
+||||||||||||||*|||||||||
+UGAGGGGUAGAAAUAUCAUAUCAU
+>11102813222, Relative Position:10, Ref allele:C
+>>Mutated allele: G
 UGAGGGGUAGAAAUGUCAUAUCAU
 |||||||||*||||||||||||||
-UGAGGGGUAGAAAUCUCAUAUCAU
+UGAGGGGUACAAAUGUCAUAUCAU
 
 osa-miR5149, Number of SNPs:1
-10329756530, Relative Position:20
-Mutated allele: T
+>10329756530, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 GAGGAGCUGUGACGAUUUGGGA
 |||||||||||||||||||*||
 GAGGAGCUGUGACGAUUUGAGA
 
 osa-miR5152-3p, Number of SNPs:1
-10528910065, Relative Position:6
-Mutated allele: A
+>10528910065, Relative Position:6, Ref allele:T
+>>Mutated allele: A
 AGACCAUGCCUAUACCUACCA
 |||||*|||||||||||||||
 AGACCUUGCCUAUACCUACCA
 
 osa-miR5153, Number of SNPs:1
-10502518536, Relative Position:14
-Mutated allele: T
+>10502518536, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 UGGAUUCCACUGACACGUAGACGU
 |||||||||||||*||||||||||
 UGGAUUCCACUGAUACGUAGACGU
 
 osa-miR5154, Number of SNPs:3
-10605263520, Relative Position:4
-Mutated allele: G
+>10605263520, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 AGCACCAGUUGACGUGACGCUGAG
 |||*||||||||||||||||||||
 AGCGCCAGUUGACGUGACGCUGAG
-10605263527, Relative Position:11
-Mutated allele: A
+>10605263527, Relative Position:11, Ref allele:G
+>>Mutated allele: A
 AGCACCAGUUGACGUGACGCUGAG
 ||||||||||*|||||||||||||
-AGCACCAGUUGACGUGACGCUGAG
-10605263528, Relative Position:12
-Mutated allele: C
+AGCACCAGUUAACGUGACGCUGAG
+>10605263528, Relative Position:12, Ref allele:A
+>>Mutated allele: C
 AGCACCAGUUGACGUGACGCUGAG
 |||||||||||*||||||||||||
-AGCCCCAGUUGACGUGACGCUGAG
+AGCACCAGUUGCCGUGACGCUGAG
 
 osa-miR5155, Number of SNPs:1
-10809179613, Relative Position:8
-Mutated allele: T
+>10809179613, Relative Position:8, Ref allele:A
+>>Mutated allele: T
 ACUUUAAUACCAUUGGAAGAUUGC
 |||||||*||||||||||||||||
 ACUUUAAAACCAUUGGAAGAUUGC
 
 osa-miR5156, Number of SNPs:1
-10816956086, Relative Position:6
-Mutated allele: T
+>10816956086, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 AGCCUGUAAAACUGCAAAAAGGAA
 |||||*||||||||||||||||||
 AGCCUAUAAAACUGCAAAAAGGAA
 
 osa-miR5159, Number of SNPs:2
-11111920778, Relative Position:17
-Mutated allele: T
+>11111920778, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 AACUAGAGUGGGUCAACGGGUACC
 ||||||||||||||||*|||||||
 AACUAGAGUGGGUCAAUGGGUACC
-11111920779, Relative Position:18
-Mutated allele: T
+>11111920779, Relative Position:18, Ref allele:G
+>>Mutated allele: T
 AACUAGAGUGGGUCAACGGGUACC
 |||||||||||||||||*||||||
-AACUAGAGUGGGUCAAUGGGUACC
+AACUAGAGUGGGUCAACUGGUACC
 
 osa-miR531a, Number of SNPs:6
-10801220398, Relative Position:24
-Mutated allele: G
+>10801220398, Relative Position:24, Ref allele:A
+>>Mutated allele: G
 CUCGCCGGGGCUGCGUGCCGCCAU
 |||||||||||||||||||||||*
 CUCGCCGGGGCUGCGUGCCGCCAC
-10801220402, Relative Position:20
-Mutated allele: T
+>10801220402, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCGCCAU
 |||||||||||||||||||*||||
-CUCGCCGGGGCUGCGUGCCGCCAA
-10801220407, Relative Position:15
-Mutated allele: T
+CUCGCCGGGGCUGCGUGCCACCAU
+>10801220407, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||||||||||*|||||||||
-CUCGCCGGGGCUGCGUGCCGCCAA
-10801220408, Relative Position:14
-Mutated allele: A
+CUCGCCGGGGCUGCAUGCCGCCAU
+>10801220408, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 CUCGCCGGGGCUGCGUGCCGCCAU
 |||||||||||||*||||||||||
-CUCGCCGGGGCUGCGUGCCGCCAU
-10801220409, Relative Position:13
-Mutated allele: T
+CUCGCCGGGGCUGUGUGCCGCCAU
+>10801220409, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||||||||*|||||||||||
-CUCGCCGGGGCUGCGUGCCGCCAA
-10801220411, Relative Position:11
-Mutated allele: T
+CUCGCCGGGGCUACGUGCCGCCAU
+>10801220411, Relative Position:11, Ref allele:G
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||||||*|||||||||||||
-CUCGCCGGGGCUGCGUGCCGCCAA
+CUCGCCGGGGAUGCGUGCCGCCAU
 
 osa-miR531b, Number of SNPs:2
-10100833970, Relative Position:20
-Mutated allele: T
+>10100833970, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCG
 |||||||||||||||||||*
 CUCGCCGGGGCUGCGUGCCA
-10100833975, Relative Position:15
-Mutated allele: T
+>10100833975, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCG
 ||||||||||||||*|||||
-CUCGCCGGGGCUGCGUGCCA
+CUCGCCGGGGCUGCAUGCCG
 
 osa-miR531c, Number of SNPs:5
-11126930698, Relative Position:7
-Mutated allele: C
+>11126930698, Relative Position:7, Ref allele:G
+>>Mutated allele: C
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||*|||||||||||||||||
 CUCGCCCGGGCUGCGUGCCGCCAU
-Mutated allele: A
+>>Mutated allele: A
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||*|||||||||||||||||
 CUCGCCAGGGCUGCGUGCCGCCAU
-11126930704, Relative Position:13
-Mutated allele: A
+>11126930704, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||||||||*|||||||||||
-CUCGCCAGGGCUGCGUGCCGCCAU
-11126930705, Relative Position:14
-Mutated allele: T
+CUCGCCGGGGCUACGUGCCGCCAU
+>11126930705, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCGCCAU
 |||||||||||||*||||||||||
-CUCGCCUGGGCUGCGUGCCGCCAU
-11126930706, Relative Position:15
-Mutated allele: A
+CUCGCCGGGGCUGUGUGCCGCCAU
+>11126930706, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||||||||||*|||||||||
-CUCGCCAGGGCUGCGUGCCGCCAU
-11126930710, Relative Position:19
-Mutated allele: T
+CUCGCCGGGGCUGCAUGCCGCCAU
+>11126930710, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 CUCGCCGGGGCUGCGUGCCGCCAU
 ||||||||||||||||||*|||||
-CUCGCCUGGGCUGCGUGCCGCCAU
+CUCGCCGGGGCUGCGUGCUGCCAU
 
 osa-miR5337b, Number of SNPs:1
-10335885505, Relative Position:7
-Mutated allele: A
+>10335885505, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 CUAGAACGGCAAGCAAUUUGA
 ||||||*||||||||||||||
 CUAGAAUGGCAAGCAAUUUGA
 
 osa-miR5338, Number of SNPs:2
-10515185831, Relative Position:11
-Mutated allele: T
+>10515185831, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 UGAAGCUUCAGUUGGUUGUAU
 ||||||||||*||||||||||
 UGAAGCUUCAAUUGGUUGUAU
-10515185833, Relative Position:9
-Mutated allele: A
+>10515185833, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 UGAAGCUUCAGUUGGUUGUAU
 ||||||||*||||||||||||
-UGAAGCUUCAUUUGGUUGUAU
+UGAAGCUUUAGUUGGUUGUAU
 
 osa-miR5339, Number of SNPs:1
-10629362803, Relative Position:1
-Mutated allele: A
+>10629362803, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 CAGAUAGAGAAUCUUCUCAGA
 *||||||||||||||||||||
 UAGAUAGAGAAUCUUCUCAGA
 
 osa-miR5340, Number of SNPs:2
-10205683393, Relative Position:18
-Mutated allele: G
+>10205683393, Relative Position:18, Ref allele:A
+>>Mutated allele: G
 UGAUGACGUGGAUGAAUUUCAAA
 |||||||||||||||||*|||||
 UGAUGACGUGGAUGAAUCUCAAA
-10205683409, Relative Position:2
-Mutated allele: T
+>10205683409, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 UGAUGACGUGGAUGAAUUUCAAA
 |*|||||||||||||||||||||
-UGAUGACGUGGAUGAAUAUCAAA
+UAAUGACGUGGAUGAAUUUCAAA
 
 osa-miR5486, Number of SNPs:1
-10326838909, Relative Position:9
-Mutated allele: A
+>10326838909, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 AGGGGCUUGCAUAUUCUACCA
 ||||||||*||||||||||||
 AGGGGCUUACAUAUUCUACCA
 
 osa-miR5487, Number of SNPs:2
-10417569185, Relative Position:14
-Mutated allele: C
+>10417569185, Relative Position:14, Ref allele:T
+>>Mutated allele: C
 AAAGAUGUGCAUGUAGUUCCG
 |||||||||||||*|||||||
 AAAGAUGUGCAUGCAGUUCCG
-10417569191, Relative Position:20
-Mutated allele: T
+>10417569191, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 AAAGAUGUGCAUGUAGUUCCG
 |||||||||||||||||||*|
-AAAGAUGUGCAUGUAGUUCCG
+AAAGAUGUGCAUGUAGUUCUG
 
 osa-miR5488, Number of SNPs:1
-11218039156, Relative Position:16
-Mutated allele: G
+>11218039156, Relative Position:16, Ref allele:A
+>>Mutated allele: G
 UGAAGGCGACUGAUGAUUUCA
 |||||||||||||||*|||||
 UGAAGGCGACUGAUGGUUUCA
 
 osa-miR5489, Number of SNPs:1
-11123057507, Relative Position:17
-Mutated allele: A
+>11123057507, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 CAGGUGUUCUCGAUGGCUUCC
 ||||||||||||||||*||||
 CAGGUGUUCUCGAUGGUUUCC
 
 osa-miR5490, Number of SNPs:3
-11125091583, Relative Position:6
-Mutated allele: T
+>11125091583, Relative Position:6, Ref allele:A
+>>Mutated allele: T
 UUGGAUUUUUAUUUAGGACGG
 |||||*|||||||||||||||
 UUGGAAUUUUAUUUAGGACGG
-11125091585, Relative Position:4
-Mutated allele: T
+>11125091585, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 UUGGAUUUUUAUUUAGGACGG
 |||*|||||||||||||||||
-UUGGAAUUUUAUUUAGGACGG
-11125091586, Relative Position:3
-Mutated allele: T
+UUGAAUUUUUAUUUAGGACGG
+>11125091586, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 UUGGAUUUUUAUUUAGGACGG
 ||*||||||||||||||||||
-UUGGAAUUUUAUUUAGGACGG
+UUAGAUUUUUAUUUAGGACGG
 
 osa-miR5491, Number of SNPs:1
-10906896437, Relative Position:10
-Mutated allele: A
+>10906896437, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 UGAAAUGGAGGCUCGUUGUAC
 |||||||||*|||||||||||
 UGAAAUGGAAGCUCGUUGUAC
 
 osa-miR5493, Number of SNPs:2
-10222898272, Relative Position:3
-Mutated allele: T
+>10222898272, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 AGCCGGGCUCGGUCGCGCGUG
 ||*||||||||||||||||||
 AGUCGGGCUCGGUCGCGCGUG
-10222898275, Relative Position:6
-Mutated allele: A
+>10222898275, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 AGCCGGGCUCGGUCGCGCGUG
 |||||*|||||||||||||||
-AGACGGGCUCGGUCGCGCGUG
+AGCCGAGCUCGGUCGCGCGUG
 
 osa-miR5495, Number of SNPs:1
-10220298359, Relative Position:18
-Mutated allele: A
+>10220298359, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 AGAGGUCCGGAUCGAACGUAG
 |||||||||||||||||*|||
 AGAGGUCCGGAUCGAACAUAG
 
 osa-miR5496, Number of SNPs:1
-10222859781, Relative Position:19
-Mutated allele: A
+>10222859781, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 CCAGCCGGUGGCAUAGUUCUC
 ||||||||||||||||||*||
 CCAGCCGGUGGCAUAGUUUUC
 
 osa-miR5498, Number of SNPs:2
-10411830824, Relative Position:5
-Mutated allele: A
+>10411830824, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UGAGCUGUAACACUUGAAGAC
 ||||*||||||||||||||||
 UGAGUUGUAACACUUGAAGAC
-10411830827, Relative Position:2
-Mutated allele: T
+>10411830827, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 UGAGCUGUAACACUUGAAGAC
 |*|||||||||||||||||||
-UGAGAUGUAACACUUGAAGAC
+UAAGCUGUAACACUUGAAGAC
 
 osa-miR5499, Number of SNPs:1
-10417241818, Relative Position:8
-Mutated allele: A
+>10417241818, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 GAAGGAAGAAUCGUUAUGGAA
 |||||||*|||||||||||||
 GAAGGAAAAAUCGUUAUGGAA
 
 osa-miR5500, Number of SNPs:2
-10427731096, Relative Position:20
-Mutated allele: A
+>10427731096, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 AUCACUGAUGAAAUCUUGCGGC
 |||||||||||||||||||*||
 AUCACUGAUGAAAUCUUGCAGC
-10427731098, Relative Position:22
-Mutated allele: T
+>10427731098, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 AUCACUGAUGAAAUCUUGCGGC
 |||||||||||||||||||||*
-AUCACUGAUGAAAUCUUGCUGC
+AUCACUGAUGAAAUCUUGCGGU
 
 osa-miR5501, Number of SNPs:1
-10428838221, Relative Position:7
-Mutated allele: A
+>10428838221, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 UCUUGUGGCUAGAAGGGUGAG
 ||||||*||||||||||||||
 UCUUGUAGCUAGAAGGGUGAG
 
 osa-miR5504, Number of SNPs:1
-11017228192, Relative Position:6
-Mutated allele: A
+>11017228192, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 AGUGACGGGAGGACUGCAAGG
 |||||*|||||||||||||||
 AGUGAUGGGAGGACUGCAAGG
 
 osa-miR5506, Number of SNPs:1
-11215164830, Relative Position:8
-Mutated allele: A
+>11215164830, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 UGGAUCGCUUCGUCUGAUGGU
 |||||||*|||||||||||||
 UGGAUCGUUUCGUCUGAUGGU
 
 osa-miR5507, Number of SNPs:2
-11221019893, Relative Position:16
-Mutated allele: A
+>11221019893, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 AAUGAGAAUGAUGACCCGGUG
 |||||||||||||||*|||||
 AAUGAGAAUGAUGACUCGGUG
-11221019902, Relative Position:7
-Mutated allele: C
+>11221019902, Relative Position:7, Ref allele:T
+>>Mutated allele: C
 AAUGAGAAUGAUGACCCGGUG
 ||||||*||||||||||||||
-AAUGAGAAUGAUGACGCGGUG
+AAUGAGGAUGAUGACCCGGUG
 
 osa-miR5508, Number of SNPs:2
-10600638329, Relative Position:17
-Mutated allele: G
+>10600638329, Relative Position:17, Ref allele:A
+>>Mutated allele: G
 UAGAUGGCUGAUCUGGUGUGG
 ||||||||||||||||*||||
 UAGAUGGCUGAUCUGGCGUGG
-10600638345, Relative Position:1
-Mutated allele: G
+>10600638345, Relative Position:1, Ref allele:A
+>>Mutated allele: G
 UAGAUGGCUGAUCUGGUGUGG
 *||||||||||||||||||||
-UAGAUGGCUGAUCUGGCGUGG
+CAGAUGGCUGAUCUGGUGUGG
 
 osa-miR5510, Number of SNPs:2
-11219128013, Relative Position:16
-Mutated allele: C
+>11219128013, Relative Position:16, Ref allele:T
+>>Mutated allele: C
 AGGCUGAUCCACUCCAGAGGA
 |||||||||||||||*|||||
 AGGCUGAUCCACUCCGGAGGA
-11219128020, Relative Position:9
-Mutated allele: A
+>11219128020, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 AGGCUGAUCCACUCCAGAGGA
 ||||||||*||||||||||||
-AGGCUGAUCCACUCCUGAGGA
+AGGCUGAUUCACUCCAGAGGA
 
 osa-miR5512a, Number of SNPs:1
-10418387102, Relative Position:21
-Mutated allele: T
+>10418387102, Relative Position:21, Ref allele:A
+>>Mutated allele: T
 UAGGAUAUGGUAAUGCUAAAA
 ||||||||||||||||||||*
 UAGGAUAUGGUAAUGCUAAAU
 
 osa-miR5513, Number of SNPs:1
-10334008119, Relative Position:2
-Mutated allele: C
+>10334008119, Relative Position:2, Ref allele:A
+>>Mutated allele: C
 UAACAAAGGACAACAGACUGA
 |*|||||||||||||||||||
 UCACAAAGGACAACAGACUGA
 
 osa-miR5514, Number of SNPs:2
-10222840186, Relative Position:16
-Mutated allele: T
+>10222840186, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 UCCCAGAGCUUUGGCCGUCGC
 |||||||||||||||*|||||
 UCCCAGAGCUUUGGCUGUCGC
-10222840190, Relative Position:20
-Mutated allele: T
+>10222840190, Relative Position:20, Ref allele:G
+>>Mutated allele: T
 UCCCAGAGCUUUGGCCGUCGC
 |||||||||||||||||||*|
-UCCCAGAGCUUUGGCUGUCGC
-Mutated allele: A
+UCCCAGAGCUUUGGCCGUCUC
+>>Mutated allele: A
 UCCCAGAGCUUUGGCCGUCGC
 |||||||||||||||||||*|
-UCCCAGAGCUUUGGCAGUCGC
+UCCCAGAGCUUUGGCCGUCAC
 
 osa-miR5515, Number of SNPs:1
-10417244242, Relative Position:12
-Mutated allele: A
+>10417244242, Relative Position:12, Ref allele:T
+>>Mutated allele: A
 CCGAUGGUUGUUCUACAGGUG
 |||||||||||*|||||||||
 CCGAUGGUUGUACUACAGGUG
 
 osa-miR5516b, Number of SNPs:1
-10513962675, Relative Position:15
-Mutated allele: G
+>10513962675, Relative Position:15, Ref allele:T
+>>Mutated allele: G
 CUCAUUGCUUCGGUAGGCUGG
 ||||||||||||||*||||||
 CUCAUUGCUUCGGUCGGCUGG
 
 osa-miR5517, Number of SNPs:1
-10624618704, Relative Position:10
-Mutated allele: T
+>10624618704, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 UGCAUCACGGCGCAUAUGUAG
 |||||||||*|||||||||||
 UGCAUCACGACGCAUAUGUAG
 
 osa-miR5518, Number of SNPs:1
-10709526447, Relative Position:12
-Mutated allele: A
+>10709526447, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 AUACUCAAACAGGGCAUUGCA
 |||||||||||*|||||||||
 AUACUCAAACAAGGCAUUGCA
 
 osa-miR5524, Number of SNPs:4
-10903278309, Relative Position:3
-Mutated allele: A
+>10903278309, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 UGGAAAAUGUGUUCAUGACGG
 ||*||||||||||||||||||
 UGAAAAAUGUGUUCAUGACGG
-10903278315, Relative Position:9
-Mutated allele: A
+>10903278315, Relative Position:9, Ref allele:G
+>>Mutated allele: A
 UGGAAAAUGUGUUCAUGACGG
 ||||||||*||||||||||||
-UGAAAAAUGUGUUCAUGACGG
-10903278324, Relative Position:18
-Mutated allele: C
+UGGAAAAUAUGUUCAUGACGG
+>10903278324, Relative Position:18, Ref allele:A
+>>Mutated allele: C
 UGGAAAAUGUGUUCAUGACGG
 |||||||||||||||||*|||
-UGCAAAAUGUGUUCAUGACGG
-10903278325, Relative Position:19
-Mutated allele: T
+UGGAAAAUGUGUUCAUGCCGG
+>10903278325, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 UGGAAAAUGUGUUCAUGACGG
 ||||||||||||||||||*||
-UGUAAAAUGUGUUCAUGACGG
+UGGAAAAUGUGUUCAUGAUGG
 
 osa-miR5526, Number of SNPs:3
-11001584960, Relative Position:4
-Mutated allele: A
+>11001584960, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 AAAGGUAGAGUCAGGUAUGAG
 |||*|||||||||||||||||
 AAAAGUAGAGUCAGGUAUGAG
-11001584968, Relative Position:12
-Mutated allele: T
+>11001584968, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 AAAGGUAGAGUCAGGUAUGAG
 |||||||||||*|||||||||
-AAAUGUAGAGUCAGGUAUGAG
-11001584977, Relative Position:21
-Mutated allele: C
+AAAGGUAGAGUUAGGUAUGAG
+>11001584977, Relative Position:21, Ref allele:G
+>>Mutated allele: C
 AAAGGUAGAGUCAGGUAUGAG
 ||||||||||||||||||||*
-AAACGUAGAGUCAGGUAUGAG
+AAAGGUAGAGUCAGGUAUGAC
 
 osa-miR5529, Number of SNPs:1
-11124804941, Relative Position:17
-Mutated allele: A
+>11124804941, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 GUUUCAUCCAUGGACACCGCA
 ||||||||||||||||*||||
 GUUUCAUCCAUGGACAUCGCA
 
 osa-miR5534a, Number of SNPs:7
-11106404371, Relative Position:13
-Mutated allele: A
+>11106404371, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 UGACGACAACAGCUAGAAUGG
 ||||||||||||*||||||||
 UGACGACAACAGUUAGAAUGG
-11106404374, Relative Position:10
-Mutated allele: A
+>11106404374, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 UGACGACAACAGCUAGAAUGG
 |||||||||*|||||||||||
-UGACGACAACAGUUAGAAUGG
-11106404375, Relative Position:9
-Mutated allele: C
+UGACGACAAUAGCUAGAAUGG
+>11106404375, Relative Position:9, Ref allele:T
+>>Mutated allele: C
 UGACGACAACAGCUAGAAUGG
 ||||||||*||||||||||||
-UGACGACAACAGGUAGAAUGG
-11106404377, Relative Position:7
-Mutated allele: A
+UGACGACAGCAGCUAGAAUGG
+>11106404377, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 UGACGACAACAGCUAGAAUGG
 ||||||*||||||||||||||
-UGACGACAACAGUUAGAAUGG
-11106404380, Relative Position:4
-Mutated allele: A
+UGACGAUAACAGCUAGAAUGG
+>11106404380, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 UGACGACAACAGCUAGAAUGG
 |||*|||||||||||||||||
-UGACGACAACAGUUAGAAUGG
-11106404382, Relative Position:2
-Mutated allele: T
+UGAUGACAACAGCUAGAAUGG
+>11106404382, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 UGACGACAACAGCUAGAAUGG
 |*|||||||||||||||||||
-UGACGACAACAGAUAGAAUGG
-11106404383, Relative Position:1
-Mutated allele: T
+UAACGACAACAGCUAGAAUGG
+>11106404383, Relative Position:1, Ref allele:A
+>>Mutated allele: T
 UGACGACAACAGCUAGAAUGG
 *||||||||||||||||||||
-UGACGACAACAGAUAGAAUGG
-Mutated allele: G
+AGACGACAACAGCUAGAAUGG
+>>Mutated allele: G
 UGACGACAACAGCUAGAAUGG
 *||||||||||||||||||||
-UGACGACAACAGCUAGAAUGG
+CGACGACAACAGCUAGAAUGG
 
 osa-miR5534b, Number of SNPs:2
-11106404504, Relative Position:7
-Mutated allele: A
+>11106404504, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 CGAUGACAACAGCUAGAAUGG
 ||||||*||||||||||||||
 CGAUGAUAACAGCUAGAAUGG
-11106404507, Relative Position:4
-Mutated allele: G
+>11106404507, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 CGAUGACAACAGCUAGAAUGG
 |||*|||||||||||||||||
-CGAUGACAACAGCUAGAAUGG
+CGACGACAACAGCUAGAAUGG
 
 osa-miR5535, Number of SNPs:1
-11212446274, Relative Position:19
-Mutated allele: T
+>11212446274, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 UCUGCGUGAUUGAAGUCUGCAU
 ||||||||||||||||||*|||
 UCUGCGUGAUUGAAGUCUACAU
 
 osa-miR5536, Number of SNPs:3
-10909140173, Relative Position:21
-Mutated allele: C
+>10909140173, Relative Position:21, Ref allele:T
+>>Mutated allele: C
 AAUGGUAGUGACAUUAUGGUAG
 ||||||||||||||||||||*|
 AAUGGUAGUGACAUUAUGGUGG
-10909140182, Relative Position:12
-Mutated allele: A
+>10909140182, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 AAUGGUAGUGACAUUAUGGUAG
 |||||||||||*||||||||||
-AAUGGUAGUGACAUUAUGGUUG
-10909140190, Relative Position:4
-Mutated allele: T
+AAUGGUAGUGAUAUUAUGGUAG
+>10909140190, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 AAUGGUAGUGACAUUAUGGUAG
 |||*||||||||||||||||||
-AAUGGUAGUGACAUUAUGGUAG
+AAUAGUAGUGACAUUAUGGUAG
 
 osa-miR5537, Number of SNPs:1
-11011112772, Relative Position:12
-Mutated allele: A
+>11011112772, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 AAUGUUUGUAUGGAUCGUUUGU
 |||||||||||*||||||||||
 AAUGUUUGUAUAGAUCGUUUGU
 
 osa-miR5538, Number of SNPs:3
-11021337311, Relative Position:19
-Mutated allele: T
+>11021337311, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 ACUGAACUCAAUCACUUGCUGC
 ||||||||||||||||||*|||
 ACUGAACUCAAUCACUUGUUGC
-11021337312, Relative Position:20
-Mutated allele: A
+>11021337312, Relative Position:20, Ref allele:T
+>>Mutated allele: A
 ACUGAACUCAAUCACUUGCUGC
 |||||||||||||||||||*||
-ACUGAACUCAAUCACUUGAUGC
-11021337314, Relative Position:22
-Mutated allele: T
+ACUGAACUCAAUCACUUGCAGC
+>11021337314, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 ACUGAACUCAAUCACUUGCUGC
 |||||||||||||||||||||*
-ACUGAACUCAAUCACUUGUUGC
+ACUGAACUCAAUCACUUGCUGU
 
 osa-miR5540, Number of SNPs:2
-10135552744, Relative Position:15
-Mutated allele: A
+>10135552744, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 UUGUGCGAGAUCGACGGUAUA
 ||||||||||||||*||||||
 UUGUGCGAGAUCGAUGGUAUA
-10135552747, Relative Position:12
-Mutated allele: A
+>10135552747, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 UUGUGCGAGAUCGACGGUAUA
 |||||||||||*|||||||||
-UUGUGCGAGAUCGAUGGUAUA
+UUGUGCGAGAUUGACGGUAUA
 
 osa-miR5541, Number of SNPs:1
-10210239122, Relative Position:15
-Mutated allele: C
+>10210239122, Relative Position:15, Ref allele:G
+>>Mutated allele: C
 UCAAGUGGUGUACUCUAAAGA
 ||||||||||||||*||||||
 UCAAGUGGUGUACUGUAAAGA
 
 osa-miR5542, Number of SNPs:6
-10432797728, Relative Position:20
-Mutated allele: C
+>10432797728, Relative Position:20, Ref allele:T
+>>Mutated allele: C
 UUUGAGAAGGUAUCAUGAGAU
 |||||||||||||||||||*|
 UUUGAGAAGGUAUCAUGAGGU
-10432797731, Relative Position:17
-Mutated allele: A
+>10432797731, Relative Position:17, Ref allele:C
+>>Mutated allele: A
 UUUGAGAAGGUAUCAUGAGAU
 ||||||||||||||||*||||
-UUUGAGAAGGUAUCAUGAGUU
-10432797734, Relative Position:14
-Mutated allele: A
+UUUGAGAAGGUAUCAUUAGAU
+>10432797734, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 UUUGAGAAGGUAUCAUGAGAU
 |||||||||||||*|||||||
-UUUGAGAAGGUAUCAUGAGUU
-10432797735, Relative Position:13
-Mutated allele: G
+UUUGAGAAGGUAUUAUGAGAU
+>10432797735, Relative Position:13, Ref allele:A
+>>Mutated allele: G
 UUUGAGAAGGUAUCAUGAGAU
 ||||||||||||*||||||||
-UUUGAGAAGGUAUCAUGAGCU
-10432797741, Relative Position:7
-Mutated allele: C
+UUUGAGAAGGUACCAUGAGAU
+>10432797741, Relative Position:7, Ref allele:T
+>>Mutated allele: C
 UUUGAGAAGGUAUCAUGAGAU
 ||||||*||||||||||||||
-UUUGAGAAGGUAUCAUGAGGU
-10432797742, Relative Position:6
-Mutated allele: T
+UUUGAGGAGGUAUCAUGAGAU
+>10432797742, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 UUUGAGAAGGUAUCAUGAGAU
 |||||*|||||||||||||||
-UUUGAGAAGGUAUCAUGAGAU
+UUUGAAAAGGUAUCAUGAGAU
 
 osa-miR5544, Number of SNPs:3
-10219335014, Relative Position:4
-Mutated allele: G
+>10219335014, Relative Position:4, Ref allele:A
+>>Mutated allele: G
 AGAACACGGAGUAGAAGUUGGU
 |||*||||||||||||||||||
 AGAGCACGGAGUAGAAGUUGGU
-10219335017, Relative Position:7
-Mutated allele: T
+>10219335017, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 AGAACACGGAGUAGAAGUUGGU
 ||||||*|||||||||||||||
-AGAUCACGGAGUAGAAGUUGGU
-10219335027, Relative Position:17
-Mutated allele: A
+AGAACAUGGAGUAGAAGUUGGU
+>10219335027, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 AGAACACGGAGUAGAAGUUGGU
 ||||||||||||||||*|||||
-AGAACACGGAGUAGAAGUUGGU
+AGAACACGGAGUAGAAAUUGGU
 
 osa-miR5788, Number of SNPs:1
-10330006972, Relative Position:10
-Mutated allele: T
+>10330006972, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 UGGAUGUGACAUACUCUAGUA
 |||||||||*|||||||||||
 UGGAUGUGAUAUACUCUAGUA
 
 osa-miR5790, Number of SNPs:5
-11107740117, Relative Position:18
-Mutated allele: T
+>11107740117, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 AAGACGAUCCUAGCAGAGCUUCAU
 |||||||||||||||||*||||||
 AAGACGAUCCUAGCAGAACUUCAU
-11107740118, Relative Position:17
-Mutated allele: C
+>11107740118, Relative Position:17, Ref allele:T
+>>Mutated allele: C
 AAGACGAUCCUAGCAGAGCUUCAU
 ||||||||||||||||*|||||||
-AAGACGAUCCUAGCAGAGCUUCAU
-11107740120, Relative Position:15
-Mutated allele: C
+AAGACGAUCCUAGCAGGGCUUCAU
+>11107740120, Relative Position:15, Ref allele:T
+>>Mutated allele: C
 AAGACGAUCCUAGCAGAGCUUCAU
 ||||||||||||||*|||||||||
-AAGACGAUCCUAGCAGAGCUUCAU
-11107740130, Relative Position:5
-Mutated allele: A
+AAGACGAUCCUAGCGGAGCUUCAU
+>11107740130, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 AAGACGAUCCUAGCAGAGCUUCAU
 ||||*|||||||||||||||||||
-AAGACGAUCCUAGCAGAUCUUCAU
-11107740132, Relative Position:3
-Mutated allele: T
+AAGAUGAUCCUAGCAGAGCUUCAU
+>11107740132, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 AAGACGAUCCUAGCAGAGCUUCAU
 ||*|||||||||||||||||||||
-AAGACGAUCCUAGCAGAACUUCAU
+AAAACGAUCCUAGCAGAGCUUCAU
 
 osa-miR5792, Number of SNPs:4
-11011842888, Relative Position:1
-Mutated allele: A
+>11011842888, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 GAUGACAGCGGUGGUUCGGACAUC
 *|||||||||||||||||||||||
 AAUGACAGCGGUGGUUCGGACAUC
-11011842895, Relative Position:8
-Mutated allele: A
+>11011842895, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 GAUGACAGCGGUGGUUCGGACAUC
 |||||||*||||||||||||||||
-AAUGACAGCGGUGGUUCGGACAUC
-11011842896, Relative Position:9
-Mutated allele: T
+GAUGACAACGGUGGUUCGGACAUC
+>11011842896, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 GAUGACAGCGGUGGUUCGGACAUC
 ||||||||*|||||||||||||||
-UAUGACAGCGGUGGUUCGGACAUC
-11011842904, Relative Position:17
-Mutated allele: T
+GAUGACAGUGGUGGUUCGGACAUC
+>11011842904, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 GAUGACAGCGGUGGUUCGGACAUC
 ||||||||||||||||*|||||||
-UAUGACAGCGGUGGUUCGGACAUC
+GAUGACAGCGGUGGUUUGGACAUC
 
 osa-miR5795, Number of SNPs:2
-10911103948, Relative Position:20
-Mutated allele: A
+>10911103948, Relative Position:20, Ref allele:C
+>>Mutated allele: A
 AUGUCGAGGUCGAGUUCCCGGC
 |||||||||||||||||||*||
 AUGUCGAGGUCGAGUUCCCUGC
-Mutated allele: T
+>>Mutated allele: T
 AUGUCGAGGUCGAGUUCCCGGC
 |||||||||||||||||||*||
 AUGUCGAGGUCGAGUUCCCAGC
-10911103963, Relative Position:5
-Mutated allele: A
+>10911103963, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 AUGUCGAGGUCGAGUUCCCGGC
 ||||*|||||||||||||||||
-AUGUCGAGGUCGAGUUCCCUGC
+AUGUUGAGGUCGAGUUCCCGGC
 
 osa-miR5797, Number of SNPs:2
-10817084781, Relative Position:5
-Mutated allele: T
+>10817084781, Relative Position:5, Ref allele:G
+>>Mutated allele: T
 UCGUGGGAUUUAUGCAGUUAA
 ||||*||||||||||||||||
 UCGUUGGAUUUAUGCAGUUAA
-10817084792, Relative Position:16
-Mutated allele: G
+>10817084792, Relative Position:16, Ref allele:A
+>>Mutated allele: G
 UCGUGGGAUUUAUGCAGUUAA
 |||||||||||||||*|||||
-UCGUGGGAUUUAUGCAGUUAA
+UCGUGGGAUUUAUGCGGUUAA
 
 osa-miR5798, Number of SNPs:2
-10706672135, Relative Position:16
-Mutated allele: T
+>10706672135, Relative Position:16, Ref allele:G
+>>Mutated allele: T
 CUGGACUACAAGAUCCCGGAU
 |||||||||||||||*|||||
 CUGGACUACAAGAUCACGGAU
-10706672141, Relative Position:10
-Mutated allele: G
+>10706672141, Relative Position:10, Ref allele:T
+>>Mutated allele: G
 CUGGACUACAAGAUCCCGGAU
 |||||||||*|||||||||||
-CUGGACUACAAGAUCCCGGAU
+CUGGACUACCAGAUCCCGGAU
 
 osa-miR5799, Number of SNPs:4
-10610732177, Relative Position:5
-Mutated allele: T
+>10610732177, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AAGACGAAUAAUCAAACGUUGGAC
 ||||*|||||||||||||||||||
 AAGAUGAAUAAUCAAACGUUGGAC
-10610732181, Relative Position:9
-Mutated allele: C
+>10610732181, Relative Position:9, Ref allele:T
+>>Mutated allele: C
 AAGACGAAUAAUCAAACGUUGGAC
 ||||||||*|||||||||||||||
-AAGACGAAUAAUCAAACGUUGGAC
-10610732189, Relative Position:17
-Mutated allele: T
+AAGACGAACAAUCAAACGUUGGAC
+>10610732189, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 AAGACGAAUAAUCAAACGUUGGAC
 ||||||||||||||||*|||||||
-AAGAUGAAUAAUCAAACGUUGGAC
-10610732190, Relative Position:18
-Mutated allele: A
+AAGACGAAUAAUCAAAUGUUGGAC
+>10610732190, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 AAGACGAAUAAUCAAACGUUGGAC
 |||||||||||||||||*||||||
-AAGAAGAAUAAUCAAACGUUGGAC
+AAGACGAAUAAUCAAACAUUGGAC
 
 osa-miR5800, Number of SNPs:1
-11124921151, Relative Position:20
-Mutated allele: T
+>11124921151, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 CCCGGCUAUCGGAACGGCUGC
 |||||||||||||||||||*|
 CCCGGCUAUCGGAACGGCUAC
 
 osa-miR5801, Number of SNPs:5
-11219318264, Relative Position:19
-Mutated allele: T
+>11219318264, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 ACCAAAUCGUUUUCGAUCGUUGGA
 ||||||||||||||||||*|||||
 ACCAAAUCGUUUUCGAUCAUUGGA
-11219318265, Relative Position:18
-Mutated allele: T
+>11219318265, Relative Position:18, Ref allele:G
+>>Mutated allele: T
 ACCAAAUCGUUUUCGAUCGUUGGA
 |||||||||||||||||*||||||
-ACCAAAUCGUUUUCGAUCAUUGGA
-Mutated allele: C
+ACCAAAUCGUUUUCGAUAGUUGGA
+>>Mutated allele: C
 ACCAAAUCGUUUUCGAUCGUUGGA
 |||||||||||||||||*||||||
-ACCAAAUCGUUUUCGAUCGUUGGA
-11219318271, Relative Position:12
-Mutated allele: G
+ACCAAAUCGUUUUCGAUGGUUGGA
+>11219318271, Relative Position:12, Ref allele:A
+>>Mutated allele: G
 ACCAAAUCGUUUUCGAUCGUUGGA
 |||||||||||*||||||||||||
-ACCAAAUCGUUUUCGAUCCUUGGA
-11219318274, Relative Position:9
-Mutated allele: T
+ACCAAAUCGUUCUCGAUCGUUGGA
+>11219318274, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 ACCAAAUCGUUUUCGAUCGUUGGA
 ||||||||*|||||||||||||||
-ACCAAAUCGUUUUCGAUCAUUGGA
-Mutated allele: A
+ACCAAAUCAUUUUCGAUCGUUGGA
+>>Mutated allele: A
 ACCAAAUCGUUUUCGAUCGUUGGA
 ||||||||*|||||||||||||||
-ACCAAAUCGUUUUCGAUCUUUGGA
-11219318282, Relative Position:1
-Mutated allele: C
+ACCAAAUCUUUUUCGAUCGUUGGA
+>11219318282, Relative Position:1, Ref allele:T
+>>Mutated allele: C
 ACCAAAUCGUUUUCGAUCGUUGGA
 *|||||||||||||||||||||||
-ACCAAAUCGUUUUCGAUCGUUGGA
+GCCAAAUCGUUUUCGAUCGUUGGA
 
 osa-miR5802, Number of SNPs:1
-10113088746, Relative Position:14
-Mutated allele: G
+>10113088746, Relative Position:14, Ref allele:T
+>>Mutated allele: G
 AUGGACUGUACUUUGUAAAGCGGA
 |||||||||||||*||||||||||
 AUGGACUGUACUUGGUAAAGCGGA
 
 osa-miR5803, Number of SNPs:4
-10430231551, Relative Position:8
-Mutated allele: C
+>10430231551, Relative Position:8, Ref allele:T
+>>Mutated allele: C
 ACCACUGUAGACGCUACGUGUGAG
 |||||||*||||||||||||||||
 ACCACUGCAGACGCUACGUGUGAG
-10430231555, Relative Position:12
-Mutated allele: T
+>10430231555, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 ACCACUGUAGACGCUACGUGUGAG
 |||||||||||*||||||||||||
-ACCACUGUAGACGCUACGUGUGAG
-10430231557, Relative Position:14
-Mutated allele: T
+ACCACUGUAGAUGCUACGUGUGAG
+>10430231557, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 ACCACUGUAGACGCUACGUGUGAG
 |||||||||||||*||||||||||
-ACCACUGUAGACGCUACGUGUGAG
-10430231567, Relative Position:24
-Mutated allele: A
+ACCACUGUAGACGUUACGUGUGAG
+>10430231567, Relative Position:24, Ref allele:G
+>>Mutated allele: A
 ACCACUGUAGACGCUACGUGUGAG
 |||||||||||||||||||||||*
-ACCACUGAAGACGCUACGUGUGAG
+ACCACUGUAGACGCUACGUGUGAA
 
 osa-miR5805, Number of SNPs:1
-11213821863, Relative Position:24
-Mutated allele: A
+>11213821863, Relative Position:24, Ref allele:C
+>>Mutated allele: A
 ACGAGUGAUGGCGGCGUAUACCUG
 |||||||||||||||||||||||*
 ACGAGUGAUGGCGGCGUAUACCUU
 
 osa-miR5807, Number of SNPs:2
-10803597820, Relative Position:20
-Mutated allele: A
+>10803597820, Relative Position:20, Ref allele:C
+>>Mutated allele: A
 AGGAGGUCUGGAGAGUUAUGUGGC
 |||||||||||||||||||*||||
 AGGAGGUCUGGAGAGUUAUUUGGC
-10803597832, Relative Position:8
-Mutated allele: C
+>10803597832, Relative Position:8, Ref allele:G
+>>Mutated allele: C
 AGGAGGUCUGGAGAGUUAUGUGGC
 |||||||*||||||||||||||||
-AGGAGGUCUGGAGAGUUAUGUGGC
+AGGAGGUGUGGAGAGUUAUGUGGC
 
 osa-miR5808, Number of SNPs:2
-10918739268, Relative Position:13
-Mutated allele: T
+>10918739268, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 ACUAAAUCGUUUCUGAUCGUUGGA
 ||||||||||||*|||||||||||
 ACUAAAUCGUUUUUGAUCGUUGGA
-10918739273, Relative Position:18
-Mutated allele: T
+>10918739273, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 ACUAAAUCGUUUCUGAUCGUUGGA
 |||||||||||||||||*||||||
-ACUAAAUCGUUUUUGAUCGUUGGA
+ACUAAAUCGUUUCUGAUUGUUGGA
 
 osa-miR5809, Number of SNPs:3
-10423527615, Relative Position:17
-Mutated allele: A
+>10423527615, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 UCGUCGCCGGCGACCACAGC
 ||||||||||||||||*|||
 UCGUCGCCGGCGACCAUAGC
-10423527621, Relative Position:11
-Mutated allele: T
+>10423527621, Relative Position:11, Ref allele:G
+>>Mutated allele: T
 UCGUCGCCGGCGACCACAGC
 ||||||||||*|||||||||
-UCGUCGCCGGCGACCAAAGC
-10423527626, Relative Position:6
-Mutated allele: T
+UCGUCGCCGGAGACCACAGC
+>10423527626, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 UCGUCGCCGGCGACCACAGC
 |||||*||||||||||||||
-UCGUCGCCGGCGACCAAAGC
+UCGUCACCGGCGACCACAGC
 
 osa-miR5810, Number of SNPs:2
-11207333304, Relative Position:22
-Mutated allele: A
+>11207333304, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 ACGGAACCCUAAUGGCGAUGGCAU
 |||||||||||||||||||||*||
 ACGGAACCCUAAUGGCGAUGGUAU
-11207333309, Relative Position:17
-Mutated allele: T
+>11207333309, Relative Position:17, Ref allele:C
+>>Mutated allele: T
 ACGGAACCCUAAUGGCGAUGGCAU
 ||||||||||||||||*|||||||
-ACGGAACCCUAAUGGCGAUGGAAU
+ACGGAACCCUAAUGGCAAUGGCAU
 
 osa-miR5811, Number of SNPs:3
-10313198040, Relative Position:21
-Mutated allele: T
+>10313198040, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 CCUAACCUAGGAGUUCGAUGGGAC
 ||||||||||||||||||||*|||
 CCUAACCUAGGAGUUCGAUGAGAC
-10313198045, Relative Position:16
-Mutated allele: C
+>10313198045, Relative Position:16, Ref allele:G
+>>Mutated allele: C
 CCUAACCUAGGAGUUCGAUGGGAC
 |||||||||||||||*||||||||
-CCUAACCUAGGAGUUCGAUGGGAC
-10313198050, Relative Position:11
-Mutated allele: T
+CCUAACCUAGGAGUUGGAUGGGAC
+>10313198050, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 CCUAACCUAGGAGUUCGAUGGGAC
 ||||||||||*|||||||||||||
-CCUAACCUAGGAGUUCGAUGAGAC
+CCUAACCUAGAAGUUCGAUGGGAC
 
 osa-miR5812, Number of SNPs:3
-10111846177, Relative Position:23
-Mutated allele: A
+>10111846177, Relative Position:23, Ref allele:G
+>>Mutated allele: A
 AGCAACGAUUUUAAGAUUGUGGCA
 ||||||||||||||||||||||*|
 AGCAACGAUUUUAAGAUUGUGGUA
-10111846181, Relative Position:19
-Mutated allele: T
+>10111846181, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 AGCAACGAUUUUAAGAUUGUGGCA
 ||||||||||||||||||*|||||
-AGCAACGAUUUUAAGAUUGUGGAA
-10111846197, Relative Position:3
-Mutated allele: A
+AGCAACGAUUUUAAGAUUAUGGCA
+>10111846197, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 AGCAACGAUUUUAAGAUUGUGGCA
 ||*|||||||||||||||||||||
-AGCAACGAUUUUAAGAUUGUGGUA
+AGUAACGAUUUUAAGAUUGUGGCA
 
 osa-miR5816, Number of SNPs:2
-10911584067, Relative Position:19
-Mutated allele: A
+>10911584067, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 UAGGAGUGUUUGUAGGAGCGCCAC
 ||||||||||||||||||*|||||
 UAGGAGUGUUUGUAGGAGUGCCAC
-10911584074, Relative Position:12
-Mutated allele: T
+>10911584074, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 UAGGAGUGUUUGUAGGAGCGCCAC
 |||||||||||*||||||||||||
-UAGGAGUGUUUGUAGGAGAGCCAC
+UAGGAGUGUUUAUAGGAGCGCCAC
 
 osa-miR5817, Number of SNPs:1
-10105990155, Relative Position:21
-Mutated allele: A
+>10105990155, Relative Position:21, Ref allele:G
+>>Mutated allele: A
 AUCGAAUUUGAAAGAAAAAGGUAU
 ||||||||||||||||||||*|||
 AUCGAAUUUGAAAGAAAAAGAUAU
 
 osa-miR5818, Number of SNPs:1
-10413157364, Relative Position:16
-Mutated allele: T
+>10413157364, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 UCGAACUAGAAGGGCCAGGUU
 |||||||||||||||*|||||
 UCGAACUAGAAGGGCUAGGUU
 
 osa-miR5819, Number of SNPs:2
-10129695869, Relative Position:18
-Mutated allele: A
+>10129695869, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 AGGACGAGGGGAACGGCGGCG
 |||||||||||||||||*|||
 AGGACGAGGGGAACGGCAGCG
-10129695872, Relative Position:21
-Mutated allele: A
+>10129695872, Relative Position:21, Ref allele:G
+>>Mutated allele: A
 AGGACGAGGGGAACGGCGGCG
 ||||||||||||||||||||*
-AGGACGAGGGGAACGGCAGCG
+AGGACGAGGGGAACGGCGGCA
 
 osa-miR5820, Number of SNPs:3
-11013982662, Relative Position:5
-Mutated allele: T
+>11013982662, Relative Position:5, Ref allele:A
+>>Mutated allele: T
 UGGCAGAGAUUGAUCGAGGAA
 ||||*||||||||||||||||
 UGGCUGAGAUUGAUCGAGGAA
-11013982664, Relative Position:7
-Mutated allele: T
+>11013982664, Relative Position:7, Ref allele:A
+>>Mutated allele: T
 UGGCAGAGAUUGAUCGAGGAA
 ||||||*||||||||||||||
-UGGCUGAGAUUGAUCGAGGAA
-11013982670, Relative Position:13
-Mutated allele: G
+UGGCAGUGAUUGAUCGAGGAA
+>11013982670, Relative Position:13, Ref allele:A
+>>Mutated allele: G
 UGGCAGAGAUUGAUCGAGGAA
 ||||||||||||*||||||||
-UGGCGGAGAUUGAUCGAGGAA
+UGGCAGAGAUUGGUCGAGGAA
 
 osa-miR5821, Number of SNPs:3
-11224605438, Relative Position:5
-Mutated allele: T
+>11224605438, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 UGGACGGAGCGAUGGUGGGCG
 ||||*||||||||||||||||
 UGGAUGGAGCGAUGGUGGGCG
-11224605446, Relative Position:13
-Mutated allele: C
+>11224605446, Relative Position:13, Ref allele:T
+>>Mutated allele: C
 UGGACGGAGCGAUGGUGGGCG
 ||||||||||||*||||||||
-UGGACGGAGCGAUGGUGGGCG
-11224605453, Relative Position:20
-Mutated allele: G
+UGGACGGAGCGACGGUGGGCG
+>11224605453, Relative Position:20, Ref allele:C
+>>Mutated allele: G
 UGGACGGAGCGAUGGUGGGCG
 |||||||||||||||||||*|
-UGGAGGGAGCGAUGGUGGGCG
+UGGACGGAGCGAUGGUGGGGG
 
 osa-miR5822, Number of SNPs:2
-11126335954, Relative Position:9
-Mutated allele: T
+>11126335954, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 UGUCUGCUCGAUGUCAGGUUG
 ||||||||*||||||||||||
 UGUCUGCUUGAUGUCAGGUUG
-11126335961, Relative Position:16
-Mutated allele: C
+>11126335961, Relative Position:16, Ref allele:A
+>>Mutated allele: C
 UGUCUGCUCGAUGUCAGGUUG
 |||||||||||||||*|||||
-UGUCUGCUCGAUGUCAGGUUG
+UGUCUGCUCGAUGUCCGGUUG
 
 osa-miR5824, Number of SNPs:6
-10101761542, Relative Position:22
-Mutated allele: A
+>10101761542, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 AGUCUGAUAAGAAGUCAAUGGCGU
 |||||||||||||||||||||*||
 AGUCUGAUAAGAAGUCAAUGGUGU
-10101761543, Relative Position:21
-Mutated allele: T
+>10101761543, Relative Position:21, Ref allele:C
+>>Mutated allele: T
 AGUCUGAUAAGAAGUCAAUGGCGU
 ||||||||||||||||||||*|||
-AGUCUGAUAAGAAGUCAAUGGAGU
-10101761544, Relative Position:20
-Mutated allele: A
+AGUCUGAUAAGAAGUCAAUGACGU
+>10101761544, Relative Position:20, Ref allele:C
+>>Mutated allele: A
 AGUCUGAUAAGAAGUCAAUGGCGU
 |||||||||||||||||||*||||
-AGUCUGAUAAGAAGUCAAUGGUGU
-10101761548, Relative Position:16
-Mutated allele: A
+AGUCUGAUAAGAAGUCAAUUGCGU
+>10101761548, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 AGUCUGAUAAGAAGUCAAUGGCGU
 |||||||||||||||*||||||||
-AGUCUGAUAAGAAGUCAAUGGUGU
-10101761550, Relative Position:14
-Mutated allele: T
+AGUCUGAUAAGAAGUUAAUGGCGU
+>10101761550, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 AGUCUGAUAAGAAGUCAAUGGCGU
 |||||||||||||*||||||||||
-AGUCUGAUAAGAAGUCAAUGGAGU
-10101761553, Relative Position:11
-Mutated allele: T
+AGUCUGAUAAGAAAUCAAUGGCGU
+>10101761553, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 AGUCUGAUAAGAAGUCAAUGGCGU
 ||||||||||*|||||||||||||
-AGUCUGAUAAGAAGUCAAUGGAGU
+AGUCUGAUAAAAAGUCAAUGGCGU
 
 osa-miR5825, Number of SNPs:4
-10523591567, Relative Position:23
-Mutated allele: T
+>10523591567, Relative Position:23, Ref allele:C
+>>Mutated allele: T
 AAAACAUCUGAUAACCUGAAACGG
 ||||||||||||||||||||||*|
 AAAACAUCUGAUAACCUGAAACAG
-10523591580, Relative Position:10
-Mutated allele: T
+>10523591580, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 AAAACAUCUGAUAACCUGAAACGG
 |||||||||*||||||||||||||
-AAAACAUCUGAUAACCUGAAACAG
-10523591582, Relative Position:8
-Mutated allele: A
+AAAACAUCUAAUAACCUGAAACGG
+>10523591582, Relative Position:8, Ref allele:G
+>>Mutated allele: A
 AAAACAUCUGAUAACCUGAAACGG
 |||||||*||||||||||||||||
-AAAACAUCUGAUAACCUGAAACUG
-Mutated allele: T
+AAAACAUUUGAUAACCUGAAACGG
+>>Mutated allele: T
 AAAACAUCUGAUAACCUGAAACGG
 |||||||*||||||||||||||||
-AAAACAUCUGAUAACCUGAAACAG
-10523591584, Relative Position:6
-Mutated allele: C
+AAAACAUAUGAUAACCUGAAACGG
+>10523591584, Relative Position:6, Ref allele:T
+>>Mutated allele: C
 AAAACAUCUGAUAACCUGAAACGG
 |||||*||||||||||||||||||
-AAAACAUCUGAUAACCUGAAACGG
+AAAACGUCUGAUAACCUGAAACGG
 
 osa-miR5826, Number of SNPs:1
-11112859229, Relative Position:23
-Mutated allele: A
+>11112859229, Relative Position:23, Ref allele:G
+>>Mutated allele: A
 UAGCCCAAAGUGAGAAGAGUGGGU
 ||||||||||||||||||||||*|
 UAGCCCAAAGUGAGAAGAGUGGAU
 
 osa-miR5827, Number of SNPs:2
-10430082051, Relative Position:17
-Mutated allele: T
+>10430082051, Relative Position:17, Ref allele:G
+>>Mutated allele: T
 UUUGUUGCAAUUUGGACUACC
 ||||||||||||||||*||||
 UUUGUUGCAAUUUGGAAUACC
-10430082066, Relative Position:2
-Mutated allele: G
+>10430082066, Relative Position:2, Ref allele:A
+>>Mutated allele: G
 UUUGUUGCAAUUUGGACUACC
 |*|||||||||||||||||||
-UUUGUUGCAAUUUGGACUACC
+UCUGUUGCAAUUUGGACUACC
 
 osa-miR5828, Number of SNPs:3
-10616015704, Relative Position:4
-Mutated allele: T
+>10616015704, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 UUACGGCAUUAAAAGUAAAUC
 |||*|||||||||||||||||
 UUAUGGCAUUAAAAGUAAAUC
-10616015705, Relative Position:5
-Mutated allele: A
+>10616015705, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UUACGGCAUUAAAAGUAAAUC
 ||||*||||||||||||||||
-UUAAGGCAUUAAAAGUAAAUC
-10616015707, Relative Position:7
-Mutated allele: T
+UUACAGCAUUAAAAGUAAAUC
+>10616015707, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 UUACGGCAUUAAAAGUAAAUC
 ||||||*||||||||||||||
-UUAUGGCAUUAAAAGUAAAUC
+UUACGGUAUUAAAAGUAAAUC
 
 osa-miR5829, Number of SNPs:1
-10620149385, Relative Position:9
-Mutated allele: T
+>10620149385, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 AUCAGGACCAGUAGGCGAUGGUAA
 ||||||||*|||||||||||||||
 AUCAGGACUAGUAGGCGAUGGUAA
 
 osa-miR5830, Number of SNPs:2
-10104352609, Relative Position:13
-Mutated allele: C
+>10104352609, Relative Position:13, Ref allele:A
+>>Mutated allele: C
 AUGUAGAUGAGGUGAUGUUACACA
 ||||||||||||*|||||||||||
 AUGUAGAUGAGGGGAUGUUACACA
-10104352616, Relative Position:6
-Mutated allele: T
+>10104352616, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 AUGUAGAUGAGGUGAUGUUACACA
 |||||*||||||||||||||||||
-AUGUAGAUGAGGAGAUGUUACACA
+AUGUAAAUGAGGUGAUGUUACACA
 
 osa-miR5831, Number of SNPs:7
-10528577955, Relative Position:10
-Mutated allele: C
+>10528577955, Relative Position:10, Ref allele:T
+>>Mutated allele: C
 UAGUCAAACUUAGAAUAGUUGGAC
 |||||||||*||||||||||||||
 UAGUCAAACCUAGAAUAGUUGGAC
-10528577957, Relative Position:12
-Mutated allele: T
+>10528577957, Relative Position:12, Ref allele:A
+>>Mutated allele: T
 UAGUCAAACUUAGAAUAGUUGGAC
 |||||||||||*||||||||||||
-UAGUCAAACUUAGAAUAGUUGGAC
-10528577958, Relative Position:13
-Mutated allele: C
-UAGUCAAACUUAGAAUAGUUGGAC
-||||||||||||*|||||||||||
-UAGUCAAACCUAGAAUAGUUGGAC
-Mutated allele: A
+UAGUCAAACUUUGAAUAGUUGGAC
+>10528577958, Relative Position:13, Ref allele:G
+>>Mutated allele: C
 UAGUCAAACUUAGAAUAGUUGGAC
 ||||||||||||*|||||||||||
-UAGUCAAACAUAGAAUAGUUGGAC
-10528577959, Relative Position:14
-Mutated allele: T
+UAGUCAAACUUACAAUAGUUGGAC
+>>Mutated allele: A
+UAGUCAAACUUAGAAUAGUUGGAC
+||||||||||||*|||||||||||
+UAGUCAAACUUAAAAUAGUUGGAC
+>10528577959, Relative Position:14, Ref allele:A
+>>Mutated allele: T
 UAGUCAAACUUAGAAUAGUUGGAC
 |||||||||||||*||||||||||
-UAGUCAAACUUAGAAUAGUUGGAC
-10528577963, Relative Position:18
-Mutated allele: A
+UAGUCAAACUUAGUAUAGUUGGAC
+>10528577963, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 UAGUCAAACUUAGAAUAGUUGGAC
 |||||||||||||||||*||||||
-UAGUCAAACAUAGAAUAGUUGGAC
-10528577966, Relative Position:21
-Mutated allele: T
+UAGUCAAACUUAGAAUAAUUGGAC
+>10528577966, Relative Position:21, Ref allele:G
+>>Mutated allele: T
 UAGUCAAACUUAGAAUAGUUGGAC
 ||||||||||||||||||||*|||
-UAGUCAAACUUAGAAUAGUUGGAC
-10528577967, Relative Position:22
-Mutated allele: A
+UAGUCAAACUUAGAAUAGUUUGAC
+>10528577967, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 UAGUCAAACUUAGAAUAGUUGGAC
 |||||||||||||||||||||*||
-UAGUCAAACAUAGAAUAGUUGGAC
+UAGUCAAACUUAGAAUAGUUGAAC
 
 osa-miR5832, Number of SNPs:1
-11221169067, Relative Position:10
-Mutated allele: T
+>11221169067, Relative Position:10, Ref allele:C
+>>Mutated allele: T
 UUGGCGGAGCGGUUGCUGUCA
 |||||||||*|||||||||||
 UUGGCGGAGUGGUUGCUGUCA
 
 osa-miR5833, Number of SNPs:7
-10509341273, Relative Position:18
-Mutated allele: T
+>10509341273, Relative Position:18, Ref allele:C
+>>Mutated allele: T
 UCCUCCUCGGGCUCAUCGGGC
 |||||||||||||||||*|||
 UCCUCCUCGGGCUCAUCAGGC
-10509341274, Relative Position:17
-Mutated allele: A
+>10509341274, Relative Position:17, Ref allele:G
+>>Mutated allele: A
 UCCUCCUCGGGCUCAUCGGGC
 ||||||||||||||||*||||
-UCCUCCUCGGGCUCAUCUGGC
-10509341276, Relative Position:15
-Mutated allele: C
+UCCUCCUCGGGCUCAUUGGGC
+>10509341276, Relative Position:15, Ref allele:T
+>>Mutated allele: C
 UCCUCCUCGGGCUCAUCGGGC
 ||||||||||||||*||||||
-UCCUCCUCGGGCUCAUCGGGC
-10509341282, Relative Position:9
-Mutated allele: T
+UCCUCCUCGGGCUCGUCGGGC
+>10509341282, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 UCCUCCUCGGGCUCAUCGGGC
 ||||||||*||||||||||||
-UCCUCCUCGGGCUCAUCAGGC
-10509341285, Relative Position:6
-Mutated allele: C
+UCCUCCUCAGGCUCAUCGGGC
+>10509341285, Relative Position:6, Ref allele:G
+>>Mutated allele: C
 UCCUCCUCGGGCUCAUCGGGC
 |||||*|||||||||||||||
-UCCUCCUCGGGCUCAUCGGGC
-10509341286, Relative Position:5
-Mutated allele: A
+UCCUCGUCGGGCUCAUCGGGC
+>10509341286, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UCCUCCUCGGGCUCAUCGGGC
 ||||*||||||||||||||||
-UCCUCCUCGGGCUCAUCUGGC
-10509341289, Relative Position:2
-Mutated allele: A
+UCCUUCUCGGGCUCAUCGGGC
+>10509341289, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 UCCUCCUCGGGCUCAUCGGGC
 |*|||||||||||||||||||
-UCCUCCUCGGGCUCAUCUGGC
+UUCUCCUCGGGCUCAUCGGGC
 
 osa-miR5835, Number of SNPs:3
-10619306950, Relative Position:11
-Mutated allele: C
+>10619306950, Relative Position:11, Ref allele:T
+>>Mutated allele: C
 ACGAAACCAUAGGGAUUUUGGCAU
 ||||||||||*|||||||||||||
 ACGAAACCAUGGGGAUUUUGGCAU
-10619306954, Relative Position:7
-Mutated allele: A
+>10619306954, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 ACGAAACCAUAGGGAUUUUGGCAU
 ||||||*|||||||||||||||||
-ACGAAACCAUUGGGAUUUUGGCAU
-10619306959, Relative Position:2
-Mutated allele: A
+ACGAAAUCAUAGGGAUUUUGGCAU
+>10619306959, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 ACGAAACCAUAGGGAUUUUGGCAU
 |*||||||||||||||||||||||
-ACGAAACCAUUGGGAUUUUGGCAU
+AUGAAACCAUAGGGAUUUUGGCAU
 
 osa-miR5836, Number of SNPs:2
-10617701926, Relative Position:20
-Mutated allele: A
+>10617701926, Relative Position:20, Ref allele:T
+>>Mutated allele: A
 UGAGCAGCCGGACCAUGGGAU
 |||||||||||||||||||*|
 UGAGCAGCCGGACCAUGGGUU
-10617701932, Relative Position:14
-Mutated allele: A
+>10617701932, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 UGAGCAGCCGGACCAUGGGAU
 |||||||||||||*|||||||
-UGAGCAGCCGGACCAUGGGUU
+UGAGCAGCCGGACUAUGGGAU
 
 osa-miR5837.1, Number of SNPs:2
-11124702161, Relative Position:21
-Mutated allele: T
+>11124702161, Relative Position:21, Ref allele:A
+>>Mutated allele: T
 AUGUUGGAAUGACAUGCAGCU
 ||||||||||||||||||||*
 AUGUUGGAAUGACAUGCAGCA
-11124702169, Relative Position:13
-Mutated allele: C
+>11124702169, Relative Position:13, Ref allele:G
+>>Mutated allele: C
 AUGUUGGAAUGACAUGCAGCU
 ||||||||||||*||||||||
-AUGUUGGAAUGACAUGCAGCG
+AUGUUGGAAUGAGAUGCAGCU
 
 osa-miR5837.2, Number of SNPs:1
-11124702191, Relative Position:12
-Mutated allele: T
+>11124702191, Relative Position:12, Ref allele:C
+>>Mutated allele: T
 GGUGAUGUGGAGCGUUCGGCA
 |||||||||||*|||||||||
 GGUGAUGUGGAACGUUCGGCA
 
 osa-miR6245, Number of SNPs:2
-10216647896, Relative Position:13
-Mutated allele: A
+>10216647896, Relative Position:13, Ref allele:G
+>>Mutated allele: A
 AGUAUAGGUGUCGGCUCUAUU
 ||||||||||||*||||||||
 AGUAUAGGUGUCAGCUCUAUU
-10216647897, Relative Position:14
-Mutated allele: A
+>10216647897, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 AGUAUAGGUGUCGGCUCUAUU
 |||||||||||||*|||||||
-AGUAUAGGUGUCAGCUCUAUU
+AGUAUAGGUGUCGACUCUAUU
 
 osa-miR6248, Number of SNPs:1
-10332573009, Relative Position:7
-Mutated allele: C
+>10332573009, Relative Position:7, Ref allele:T
+>>Mutated allele: C
 UAUUUGAGGAUGGAGGUAGUA
 ||||||*||||||||||||||
 UAUUUGGGGAUGGAGGUAGUA
 
 osa-miR6249a, Number of SNPs:1
-10300744682, Relative Position:9
-Mutated allele: G
+>10300744682, Relative Position:9, Ref allele:C
+>>Mutated allele: G
 CGUGAAGAGCUCGCCGGCGGC
 ||||||||*||||||||||||
 CGUGAAGACCUCGCCGGCGGC
 
 osa-miR6250, Number of SNPs:1
-10628264729, Relative Position:21
-Mutated allele: T
+>10628264729, Relative Position:21, Ref allele:A
+>>Mutated allele: T
 GGGGAUAGAUCGACGCGUCAAG
 ||||||||||||||||||||*|
 GGGGAUAGAUCGACGCGUCAUG
 
 osa-miR6252, Number of SNPs:6
-11218110557, Relative Position:20
-Mutated allele: T
+>11218110557, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 AUUCGUUGUAUUAAGAGAGGGUU
 |||||||||||||||||||*|||
 AUUCGUUGUAUUAAGAGAGAGUU
-11218110559, Relative Position:18
-Mutated allele: A
+>11218110559, Relative Position:18, Ref allele:T
+>>Mutated allele: A
 AUUCGUUGUAUUAAGAGAGGGUU
 |||||||||||||||||*|||||
-AUUCGUUGUAUUAAGAGAGUGUU
-11218110562, Relative Position:15
-Mutated allele: T
+AUUCGUUGUAUUAAGAGUGGGUU
+>11218110562, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 AUUCGUUGUAUUAAGAGAGGGUU
 ||||||||||||||*||||||||
-AUUCGUUGUAUUAAGAGAGAGUU
-11218110563, Relative Position:14
-Mutated allele: C
+AUUCGUUGUAUUAAAAGAGGGUU
+>11218110563, Relative Position:14, Ref allele:T
+>>Mutated allele: C
 AUUCGUUGUAUUAAGAGAGGGUU
 |||||||||||||*|||||||||
-AUUCGUUGUAUUAAGAGAGGGUU
-11218110569, Relative Position:8
-Mutated allele: T
+AUUCGUUGUAUUAGGAGAGGGUU
+>11218110569, Relative Position:8, Ref allele:C
+>>Mutated allele: T
 AUUCGUUGUAUUAAGAGAGGGUU
 |||||||*|||||||||||||||
-AUUCGUUGUAUUAAGAGAGAGUU
-11218110573, Relative Position:4
-Mutated allele: A
+AUUCGUUAUAUUAAGAGAGGGUU
+>11218110573, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 AUUCGUUGUAUUAAGAGAGGGUU
 |||*|||||||||||||||||||
-AUUCGUUGUAUUAAGAGAGUGUU
+AUUUGUUGUAUUAAGAGAGGGUU
 
 osa-miR7692-3p, Number of SNPs:2
-10126250486, Relative Position:13
-Mutated allele: T
+>10126250486, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 UGACUUGGCAUGCUUACGUGGCAC
 ||||||||||||*|||||||||||
 UGACUUGGCAUGUUUACGUGGCAC
-10126250488, Relative Position:15
-Mutated allele: C
+>10126250488, Relative Position:15, Ref allele:T
+>>Mutated allele: C
 UGACUUGGCAUGCUUACGUGGCAC
 ||||||||||||||*|||||||||
-UGACUUGGCAUGCUUACGUGGCAC
+UGACUUGGCAUGCUCACGUGGCAC
 
 osa-miR7692-5p, Number of SNPs:5
-10126250213, Relative Position:4
-Mutated allele: T
+>10126250213, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 GAUCCAAAAAAGUGCCACGUGAGC
 |||*||||||||||||||||||||
 GAUUCAAAAAAGUGCCACGUGAGC
-10126250214, Relative Position:5
-Mutated allele: T
+>10126250214, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 GAUCCAAAAAAGUGCCACGUGAGC
 ||||*|||||||||||||||||||
-GAUUCAAAAAAGUGCCACGUGAGC
-10126250221, Relative Position:12
-Mutated allele: C
+GAUCUAAAAAAGUGCCACGUGAGC
+>10126250221, Relative Position:12, Ref allele:G
+>>Mutated allele: C
 GAUCCAAAAAAGUGCCACGUGAGC
 |||||||||||*||||||||||||
-GAUCCAAAAAAGUGCCACGUGAGC
-10126250224, Relative Position:15
-Mutated allele: T
+GAUCCAAAAAACUGCCACGUGAGC
+>10126250224, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 GAUCCAAAAAAGUGCCACGUGAGC
 ||||||||||||||*|||||||||
-GAUUCAAAAAAGUGCCACGUGAGC
-10126250228, Relative Position:19
-Mutated allele: A
+GAUCCAAAAAAGUGUCACGUGAGC
+>10126250228, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 GAUCCAAAAAAGUGCCACGUGAGC
 ||||||||||||||||||*|||||
-GAUACAAAAAAGUGCCACGUGAGC
+GAUCCAAAAAAGUGCCACAUGAGC
 
 osa-miR7695-3p, Number of SNPs:6
-10111666853, Relative Position:20
-Mutated allele: A
+>10111666853, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 ACGUGAUGUGCCACGUAGGCA
 |||||||||||||||||||*|
 ACGUGAUGUGCCACGUAGGUA
-10111666854, Relative Position:19
-Mutated allele: T
+>10111666854, Relative Position:19, Ref allele:C
+>>Mutated allele: T
 ACGUGAUGUGCCACGUAGGCA
 ||||||||||||||||||*||
-ACGUGAUGUGCCACGUAGGAA
-10111666861, Relative Position:12
-Mutated allele: A
+ACGUGAUGUGCCACGUAGACA
+>10111666861, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 ACGUGAUGUGCCACGUAGGCA
 |||||||||||*|||||||||
-ACGUGAUGUGCCACGUAGGUA
-10111666866, Relative Position:7
-Mutated allele: G
+ACGUGAUGUGCUACGUAGGCA
+>10111666866, Relative Position:7, Ref allele:A
+>>Mutated allele: G
 ACGUGAUGUGCCACGUAGGCA
 ||||||*||||||||||||||
-ACGUGAUGUGCCACGUAGGCA
-10111666867, Relative Position:6
-Mutated allele: C
+ACGUGACGUGCCACGUAGGCA
+>10111666867, Relative Position:6, Ref allele:T
+>>Mutated allele: C
 ACGUGAUGUGCCACGUAGGCA
 |||||*|||||||||||||||
-ACGUGAUGUGCCACGUAGGGA
-10111666868, Relative Position:5
-Mutated allele: T
+ACGUGGUGUGCCACGUAGGCA
+>10111666868, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 ACGUGAUGUGCCACGUAGGCA
 ||||*||||||||||||||||
-ACGUGAUGUGCCACGUAGGAA
+ACGUAAUGUGCCACGUAGGCA
 
 osa-miR7695-5p, Number of SNPs:1
-10111667064, Relative Position:3
-Mutated allele: A
+>10111667064, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 UGCCUAUGUGGCACGCCACGUGAA
 ||*|||||||||||||||||||||
 UGUCUAUGUGGCACGCCACGUGAA
 
 osa-miR810b.1, Number of SNPs:3
-11100959635, Relative Position:19
-Mutated allele: C
+>11100959635, Relative Position:19, Ref allele:T
+>>Mutated allele: C
 UGAACACCGAUAUGCGUCAUC
 ||||||||||||||||||*||
 UGAACACCGAUAUGCGUCGUC
-11100959640, Relative Position:14
-Mutated allele: T
+>11100959640, Relative Position:14, Ref allele:C
+>>Mutated allele: T
 UGAACACCGAUAUGCGUCAUC
 |||||||||||||*|||||||
-UGAACACCGAUAUGCGUCAUC
-11100959650, Relative Position:4
-Mutated allele: C
+UGAACACCGAUAUACGUCAUC
+>11100959650, Relative Position:4, Ref allele:T
+>>Mutated allele: C
 UGAACACCGAUAUGCGUCAUC
 |||*|||||||||||||||||
-UGAACACCGAUAUGCGUCGUC
+UGAGCACCGAUAUGCGUCAUC
 
 osa-miR810b.2, Number of SNPs:1
-11100959622, Relative Position:8
-Mutated allele: G
+>11100959622, Relative Position:8, Ref allele:A
+>>Mutated allele: G
 AAGUGAUUUAAUUAUGCCGUU
 |||||||*|||||||||||||
 AAGUGAUCUAAUUAUGCCGUU
 
 osa-miR812a, Number of SNPs:4
-10133947325, Relative Position:1
-Mutated allele: A
+>10133947325, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 GACGGACGGUUAAACGUUGGAC
 *|||||||||||||||||||||
 AACGGACGGUUAAACGUUGGAC
-10133947335, Relative Position:11
-Mutated allele: C
+>10133947335, Relative Position:11, Ref allele:T
+>>Mutated allele: C
 GACGGACGGUUAAACGUUGGAC
 ||||||||||*|||||||||||
-CACGGACGGUUAAACGUUGGAC
-10133947339, Relative Position:15
-Mutated allele: T
+GACGGACGGUCAAACGUUGGAC
+>10133947339, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 GACGGACGGUUAAACGUUGGAC
 ||||||||||||||*|||||||
-UACGGACGGUUAAACGUUGGAC
-10133947346, Relative Position:22
-Mutated allele: T
+GACGGACGGUUAAAUGUUGGAC
+>10133947346, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 GACGGACGGUUAAACGUUGGAC
 |||||||||||||||||||||*
-UACGGACGGUUAAACGUUGGAC
+GACGGACGGUUAAACGUUGGAU
 
 osa-miR812b, Number of SNPs:1
-10201936334, Relative Position:20
-Mutated allele: T
+>10201936334, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 GACGGACGGUUAAACGUUGGAC
 |||||||||||||||||||*||
 GACGGACGGUUAAACGUUGAAC
 
 osa-miR812c, Number of SNPs:3
-10626260444, Relative Position:5
-Mutated allele: A
+>10626260444, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 GACGGACGGUUAAACGUUGGAC
 ||||*|||||||||||||||||
 GACGAACGGUUAAACGUUGGAC
-10626260446, Relative Position:7
-Mutated allele: T
+>10626260446, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 GACGGACGGUUAAACGUUGGAC
 ||||||*|||||||||||||||
-GACGUACGGUUAAACGUUGGAC
-10626260450, Relative Position:11
-Mutated allele: C
+GACGGAUGGUUAAACGUUGGAC
+>10626260450, Relative Position:11, Ref allele:T
+>>Mutated allele: C
 GACGGACGGUUAAACGUUGGAC
 ||||||||||*|||||||||||
-GACGCACGGUUAAACGUUGGAC
+GACGGACGGUCAAACGUUGGAC
 
 osa-miR812d, Number of SNPs:2
-10722395354, Relative Position:4
-Mutated allele: A
+>10722395354, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 GACGGACGGUUAAACGUUGGAC
 |||*||||||||||||||||||
 GACAGACGGUUAAACGUUGGAC
-10722395355, Relative Position:5
-Mutated allele: A
+>10722395355, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 GACGGACGGUUAAACGUUGGAC
 ||||*|||||||||||||||||
-GACAGACGGUUAAACGUUGGAC
+GACGAACGGUUAAACGUUGGAC
 
 osa-miR812e, Number of SNPs:4
-10816401292, Relative Position:7
-Mutated allele: T
+>10816401292, Relative Position:7, Ref allele:C
+>>Mutated allele: T
 GACGGACGGUUAAACGUUGGAC
 ||||||*|||||||||||||||
 GACGGAUGGUUAAACGUUGGAC
-10816401296, Relative Position:11
-Mutated allele: C
+>10816401296, Relative Position:11, Ref allele:T
+>>Mutated allele: C
 GACGGACGGUUAAACGUUGGAC
 ||||||||||*|||||||||||
-GACGGACGGUUAAACGUUGGAC
-10816401301, Relative Position:16
-Mutated allele: A
+GACGGACGGUCAAACGUUGGAC
+>10816401301, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 GACGGACGGUUAAACGUUGGAC
 |||||||||||||||*||||||
-GACGGAAGGUUAAACGUUGGAC
-10816401304, Relative Position:19
-Mutated allele: A
+GACGGACGGUUAAACAUUGGAC
+>10816401304, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 GACGGACGGUUAAACGUUGGAC
 ||||||||||||||||||*|||
-GACGGAAGGUUAAACGUUGGAC
-Mutated allele: T
+GACGGACGGUUAAACGUUAGAC
+>>Mutated allele: T
 GACGGACGGUUAAACGUUGGAC
 ||||||||||||||||||*|||
-GACGGAUGGUUAAACGUUGGAC
+GACGGACGGUUAAACGUUUGAC
 
 osa-miR812f, Number of SNPs:5
-10413243649, Relative Position:2
-Mutated allele: T
+>10413243649, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 ACGGAUGAUUAAAGUUGGACACGG
 |*||||||||||||||||||||||
 AUGGAUGAUUAAAGUUGGACACGG
-10413243650, Relative Position:3
-Mutated allele: A
+>10413243650, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 ACGGAUGAUUAAAGUUGGACACGG
 ||*|||||||||||||||||||||
-AAGGAUGAUUAAAGUUGGACACGG
-10413243661, Relative Position:14
-Mutated allele: A
+ACAGAUGAUUAAAGUUGGACACGG
+>10413243661, Relative Position:14, Ref allele:G
+>>Mutated allele: A
 ACGGAUGAUUAAAGUUGGACACGG
 |||||||||||||*||||||||||
-AAGGAUGAUUAAAGUUGGACACGG
-10413243669, Relative Position:22
-Mutated allele: T
+ACGGAUGAUUAAAAUUGGACACGG
+>10413243669, Relative Position:22, Ref allele:C
+>>Mutated allele: T
 ACGGAUGAUUAAAGUUGGACACGG
 |||||||||||||||||||||*||
-AUGGAUGAUUAAAGUUGGACACGG
-10413243671, Relative Position:24
-Mutated allele: A
+ACGGAUGAUUAAAGUUGGACAUGG
+>10413243671, Relative Position:24, Ref allele:G
+>>Mutated allele: A
 ACGGAUGAUUAAAGUUGGACACGG
 |||||||||||||||||||||||*
-AAGGAUGAUUAAAGUUGGACACGG
+ACGGAUGAUUAAAGUUGGACACGA
 
 osa-miR812g, Number of SNPs:2
-10305230187, Relative Position:3
-Mutated allele: A
+>10305230187, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 AAGACGGAUGAUUAAAGUUGGACA
 ||*|||||||||||||||||||||
 AAAACGGAUGAUUAAAGUUGGACA
-10305230204, Relative Position:20
-Mutated allele: A
+>10305230204, Relative Position:20, Ref allele:G
+>>Mutated allele: A
 AAGACGGAUGAUUAAAGUUGGACA
 |||||||||||||||||||*||||
-AAAACGGAUGAUUAAAGUUGGACA
+AAGACGGAUGAUUAAAGUUAGACA
 
 osa-miR812h, Number of SNPs:1
-10301164968, Relative Position:20
-Mutated allele: T
+>10301164968, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 AAGACGGAUGAUUAAAGUUGGACA
 |||||||||||||||||||*||||
 AAGACGGAUGAUUAAAGUUAGACA
 
 osa-miR812i, Number of SNPs:2
-10722152503, Relative Position:3
-Mutated allele: A
+>10722152503, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 AAGACGGAUGAUUAAAGUUGGACA
 ||*|||||||||||||||||||||
 AAAACGGAUGAUUAAAGUUGGACA
-10722152505, Relative Position:5
-Mutated allele: T
+>10722152505, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AAGACGGAUGAUUAAAGUUGGACA
 ||||*|||||||||||||||||||
-AAUACGGAUGAUUAAAGUUGGACA
+AAGAUGGAUGAUUAAAGUUGGACA
 
 osa-miR812j, Number of SNPs:3
-10819806534, Relative Position:3
-Mutated allele: A
+>10819806534, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 AAGACGGAUGAUUAAAGUUGGACA
 ||*|||||||||||||||||||||
 AAAACGGAUGAUUAAAGUUGGACA
-10819806536, Relative Position:5
-Mutated allele: T
+>10819806536, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AAGACGGAUGAUUAAAGUUGGACA
 ||||*|||||||||||||||||||
-AAUACGGAUGAUUAAAGUUGGACA
-10819806554, Relative Position:23
-Mutated allele: T
+AAGAUGGAUGAUUAAAGUUGGACA
+>10819806554, Relative Position:23, Ref allele:C
+>>Mutated allele: T
 AAGACGGAUGAUUAAAGUUGGACA
 ||||||||||||||||||||||*|
-AAUACGGAUGAUUAAAGUUGGACA
+AAGACGGAUGAUUAAAGUUGGAUA
 
 osa-miR812n-3p, Number of SNPs:2
-10814108089, Relative Position:18
-Mutated allele: A
+>10814108089, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 ACGGAAAAUCAUGGCUGCACUUAA
 |||||||||||||||||*||||||
 ACGGAAAAUCAUGGCUGUACUUAA
-10814108097, Relative Position:10
-Mutated allele: A
+>10814108097, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 ACGGAAAAUCAUGGCUGCACUUAA
 |||||||||*||||||||||||||
-ACGGAAAAUCAUGGCUGUACUUAA
+ACGGAAAAUUAUGGCUGCACUUAA
 
 osa-miR812n-5p, Number of SNPs:2
-10814108259, Relative Position:23
-Mutated allele: T
+>10814108259, Relative Position:23, Ref allele:C
+>>Mutated allele: T
 AAGUGCAGCCAUGAGUUUCCGUGC
 ||||||||||||||||||||||*|
 AAGUGCAGCCAUGAGUUUCCGUAC
-10814108272, Relative Position:10
-Mutated allele: A
+>10814108272, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 AAGUGCAGCCAUGAGUUUCCGUGC
 |||||||||*||||||||||||||
-AAGUGCAGCCAUGAGUUUCCGUUC
+AAGUGCAGCUAUGAGUUUCCGUGC
 
 osa-miR812p, Number of SNPs:2
-10825426161, Relative Position:1
-Mutated allele: A
+>10825426161, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 GACGGACGAUUAAAGUUGGGCAUG
 *|||||||||||||||||||||||
 AACGGACGAUUAAAGUUGGGCAUG
-10825426164, Relative Position:4
-Mutated allele: A
+>10825426164, Relative Position:4, Ref allele:G
+>>Mutated allele: A
 GACGGACGAUUAAAGUUGGGCAUG
 |||*||||||||||||||||||||
-AACGGACGAUUAAAGUUGGGCAUG
+GACAGACGAUUAAAGUUGGGCAUG
 
 osa-miR812q, Number of SNPs:6
-11018223590, Relative Position:2
-Mutated allele: A
+>11018223590, Relative Position:2, Ref allele:C
+>>Mutated allele: A
 ACGUUGGGUACGAAUAUCUACGGC
 |*||||||||||||||||||||||
 AAGUUGGGUACGAAUAUCUACGGC
-Mutated allele: T
+>>Mutated allele: T
 ACGUUGGGUACGAAUAUCUACGGC
 |*||||||||||||||||||||||
 AUGUUGGGUACGAAUAUCUACGGC
-11018223595, Relative Position:7
-Mutated allele: A
+>11018223595, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 ACGUUGGGUACGAAUAUCUACGGC
 ||||||*|||||||||||||||||
-AAGUUGGGUACGAAUAUCUACGGC
-11018223597, Relative Position:9
-Mutated allele: C
+ACGUUGAGUACGAAUAUCUACGGC
+>11018223597, Relative Position:9, Ref allele:T
+>>Mutated allele: C
 ACGUUGGGUACGAAUAUCUACGGC
 ||||||||*|||||||||||||||
-ACGUUGGGUACGAAUAUCUACGGC
-11018223601, Relative Position:13
-Mutated allele: G
+ACGUUGGGCACGAAUAUCUACGGC
+>11018223601, Relative Position:13, Ref allele:A
+>>Mutated allele: G
 ACGUUGGGUACGAAUAUCUACGGC
 ||||||||||||*|||||||||||
-AGGUUGGGUACGAAUAUCUACGGC
-11018223610, Relative Position:22
-Mutated allele: A
+ACGUUGGGUACGGAUAUCUACGGC
+>11018223610, Relative Position:22, Ref allele:G
+>>Mutated allele: A
 ACGUUGGGUACGAAUAUCUACGGC
 |||||||||||||||||||||*||
-AAGUUGGGUACGAAUAUCUACGGC
-11018223611, Relative Position:23
-Mutated allele: A
+ACGUUGGGUACGAAUAUCUACAGC
+>11018223611, Relative Position:23, Ref allele:G
+>>Mutated allele: A
 ACGUUGGGUACGAAUAUCUACGGC
 ||||||||||||||||||||||*|
-AAGUUGGGUACGAAUAUCUACGGC
+ACGUUGGGUACGAAUAUCUACGAC
 
 osa-miR812r, Number of SNPs:11
-11118809926, Relative Position:2
-Mutated allele: T
+>11118809926, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 ACGUUAGACACGAAUUUCUACGGC
 |*||||||||||||||||||||||
 AUGUUAGACACGAAUUUCUACGGC
-11118809927, Relative Position:3
-Mutated allele: A
+>11118809927, Relative Position:3, Ref allele:G
+>>Mutated allele: A
 ACGUUAGACACGAAUUUCUACGGC
 ||*|||||||||||||||||||||
-AAGUUAGACACGAAUUUCUACGGC
-11118809930, Relative Position:6
-Mutated allele: G
+ACAUUAGACACGAAUUUCUACGGC
+>11118809930, Relative Position:6, Ref allele:A
+>>Mutated allele: G
 ACGUUAGACACGAAUUUCUACGGC
 |||||*||||||||||||||||||
-AGGUUAGACACGAAUUUCUACGGC
-11118809931, Relative Position:7
-Mutated allele: A
+ACGUUGGACACGAAUUUCUACGGC
+>11118809931, Relative Position:7, Ref allele:G
+>>Mutated allele: A
 ACGUUAGACACGAAUUUCUACGGC
 ||||||*|||||||||||||||||
-AAGUUAGACACGAAUUUCUACGGC
-11118809933, Relative Position:9
-Mutated allele: T
+ACGUUAAACACGAAUUUCUACGGC
+>11118809933, Relative Position:9, Ref allele:C
+>>Mutated allele: T
 ACGUUAGACACGAAUUUCUACGGC
 ||||||||*|||||||||||||||
-AUGUUAGACACGAAUUUCUACGGC
-11118809935, Relative Position:11
-Mutated allele: T
+ACGUUAGAUACGAAUUUCUACGGC
+>11118809935, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 ACGUUAGACACGAAUUUCUACGGC
 ||||||||||*|||||||||||||
-AUGUUAGACACGAAUUUCUACGGC
-11118809936, Relative Position:12
-Mutated allele: A
+ACGUUAGACAUGAAUUUCUACGGC
+>11118809936, Relative Position:12, Ref allele:G
+>>Mutated allele: A
 ACGUUAGACACGAAUUUCUACGGC
 |||||||||||*||||||||||||
-AAGUUAGACACGAAUUUCUACGGC
-11118809941, Relative Position:17
-Mutated allele: C
+ACGUUAGACACAAAUUUCUACGGC
+>11118809941, Relative Position:17, Ref allele:T
+>>Mutated allele: C
 ACGUUAGACACGAAUUUCUACGGC
 ||||||||||||||||*|||||||
-ACGUUAGACACGAAUUUCUACGGC
-11118809943, Relative Position:19
-Mutated allele: C
+ACGUUAGACACGAAUUCCUACGGC
+>11118809943, Relative Position:19, Ref allele:T
+>>Mutated allele: C
 ACGUUAGACACGAAUUUCUACGGC
 ||||||||||||||||||*|||||
-ACGUUAGACACGAAUUUCUACGGC
-11118809946, Relative Position:22
-Mutated allele: T
+ACGUUAGACACGAAUUUCCACGGC
+>11118809946, Relative Position:22, Ref allele:G
+>>Mutated allele: T
 ACGUUAGACACGAAUUUCUACGGC
 |||||||||||||||||||||*||
-AUGUUAGACACGAAUUUCUACGGC
-11118809948, Relative Position:24
-Mutated allele: T
+ACGUUAGACACGAAUUUCUACUGC
+>11118809948, Relative Position:24, Ref allele:C
+>>Mutated allele: T
 ACGUUAGACACGAAUUUCUACGGC
 |||||||||||||||||||||||*
-AUGUUAGACACGAAUUUCUACGGC
+ACGUUAGACACGAAUUUCUACGGU
 
 osa-miR812t, Number of SNPs:5
-10617370242, Relative Position:19
-Mutated allele: C
+>10617370242, Relative Position:19, Ref allele:T
+>>Mutated allele: C
 ACGGAAAAUCAUGGCUGCACUUAA
 ||||||||||||||||||*|||||
 ACGGAAAAUCAUGGCUGCGCUUAA
-10617370246, Relative Position:15
-Mutated allele: A
+>10617370246, Relative Position:15, Ref allele:G
+>>Mutated allele: A
 ACGGAAAAUCAUGGCUGCACUUAA
 ||||||||||||||*|||||||||
-ACGGAAAAUCAUGGCUGCUCUUAA
-10617370248, Relative Position:13
-Mutated allele: T
+ACGGAAAAUCAUGGUUGCACUUAA
+>10617370248, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 ACGGAAAAUCAUGGCUGCACUUAA
 ||||||||||||*|||||||||||
-ACGGAAAAUCAUGGCUGCACUUAA
-10617370257, Relative Position:4
-Mutated allele: T
+ACGGAAAAUCAUAGCUGCACUUAA
+>10617370257, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 ACGGAAAAUCAUGGCUGCACUUAA
 |||*||||||||||||||||||||
-ACGGAAAAUCAUGGCUGCACUUAA
-10617370259, Relative Position:2
-Mutated allele: A
+ACGAAAAAUCAUGGCUGCACUUAA
+>10617370259, Relative Position:2, Ref allele:G
+>>Mutated allele: A
 ACGGAAAAUCAUGGCUGCACUUAA
 |*||||||||||||||||||||||
-ACGGAAAAUCAUGGCUGCUCUUAA
+AUGGAAAAUCAUGGCUGCACUUAA
 
 osa-miR812u, Number of SNPs:5
-11108663592, Relative Position:23
-Mutated allele: C
+>11108663592, Relative Position:23, Ref allele:T
+>>Mutated allele: C
 ACGGAAAAUCAUGGCUGCACUUAA
 ||||||||||||||||||||||*|
 ACGGAAAAUCAUGGCUGCACUUGA
-11108663600, Relative Position:15
-Mutated allele: T
+>11108663600, Relative Position:15, Ref allele:G
+>>Mutated allele: T
 ACGGAAAAUCAUGGCUGCACUUAA
 ||||||||||||||*|||||||||
-ACGGAAAAUCAUGGCUGCACUUAA
-11108663601, Relative Position:14
-Mutated allele: G
+ACGGAAAAUCAUGGAUGCACUUAA
+>11108663601, Relative Position:14, Ref allele:C
+>>Mutated allele: G
 ACGGAAAAUCAUGGCUGCACUUAA
 |||||||||||||*||||||||||
-ACGGAAAAUCAUGGCUGCACUUCA
-11108663605, Relative Position:10
-Mutated allele: A
+ACGGAAAAUCAUGCCUGCACUUAA
+>11108663605, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 ACGGAAAAUCAUGGCUGCACUUAA
 |||||||||*||||||||||||||
-ACGGAAAAUCAUGGCUGCACUUUA
-11108663611, Relative Position:4
-Mutated allele: T
+ACGGAAAAUUAUGGCUGCACUUAA
+>11108663611, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 ACGGAAAAUCAUGGCUGCACUUAA
 |||*||||||||||||||||||||
-ACGGAAAAUCAUGGCUGCACUUAA
+ACGAAAAAUCAUGGCUGCACUUAA
 
 osa-miR812v, Number of SNPs:2
-10518432849, Relative Position:20
-Mutated allele: T
+>10518432849, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 AUGGCUGCACUUAAAAUGGGACGG
 |||||||||||||||||||*||||
 AUGGCUGCACUUAAAAUGGAACGG
-10518432856, Relative Position:13
-Mutated allele: C
+>10518432856, Relative Position:13, Ref allele:T
+>>Mutated allele: C
 AUGGCUGCACUUAAAAUGGGACGG
 ||||||||||||*|||||||||||
-AUGGCUGCACUUAAAAUGGGACGG
+AUGGCUGCACUUGAAAUGGGACGG
 
 osa-miR814a, Number of SNPs:5
-10122375053, Relative Position:6
-Mutated allele: T
+>10122375053, Relative Position:6, Ref allele:C
+>>Mutated allele: T
 CACUUCAUAGUACAACGAAUCU
 |||||*||||||||||||||||
 CACUUUAUAGUACAACGAAUCU
-10122375061, Relative Position:14
-Mutated allele: C
+>10122375061, Relative Position:14, Ref allele:A
+>>Mutated allele: C
 CACUUCAUAGUACAACGAAUCU
 |||||||||||||*||||||||
-CACUUCAUAGUACAACGAAUCU
-10122375063, Relative Position:16
-Mutated allele: T
+CACUUCAUAGUACCACGAAUCU
+>10122375063, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 CACUUCAUAGUACAACGAAUCU
 |||||||||||||||*||||||
-CACUUUAUAGUACAACGAAUCU
-10122375068, Relative Position:21
-Mutated allele: A
+CACUUCAUAGUACAAUGAAUCU
+>10122375068, Relative Position:21, Ref allele:C
+>>Mutated allele: A
 CACUUCAUAGUACAACGAAUCU
 ||||||||||||||||||||*|
-CACUUAAUAGUACAACGAAUCU
-10122375069, Relative Position:22
-Mutated allele: C
+CACUUCAUAGUACAACGAAUAU
+>10122375069, Relative Position:22, Ref allele:T
+>>Mutated allele: C
 CACUUCAUAGUACAACGAAUCU
 |||||||||||||||||||||*
-CACUUCAUAGUACAACGAAUCU
+CACUUCAUAGUACAACGAAUCC
 
 osa-miR814b, Number of SNPs:5
-10226341223, Relative Position:2
-Mutated allele: G
+>10226341223, Relative Position:2, Ref allele:A
+>>Mutated allele: G
 CACUUCAUAGUACAACGAAUCU
 |*||||||||||||||||||||
 CGCUUCAUAGUACAACGAAUCU
-10226341224, Relative Position:3
-Mutated allele: T
+>10226341224, Relative Position:3, Ref allele:C
+>>Mutated allele: T
 CACUUCAUAGUACAACGAAUCU
 ||*|||||||||||||||||||
-CUCUUCAUAGUACAACGAAUCU
-10226341231, Relative Position:10
-Mutated allele: A
+CAUUUCAUAGUACAACGAAUCU
+>10226341231, Relative Position:10, Ref allele:G
+>>Mutated allele: A
 CACUUCAUAGUACAACGAAUCU
 |||||||||*||||||||||||
-CACUUCAUAGUACAACGAAUCU
-10226341234, Relative Position:13
-Mutated allele: T
+CACUUCAUAAUACAACGAAUCU
+>10226341234, Relative Position:13, Ref allele:C
+>>Mutated allele: T
 CACUUCAUAGUACAACGAAUCU
 ||||||||||||*|||||||||
-CUCUUCAUAGUACAACGAAUCU
-10226341237, Relative Position:16
-Mutated allele: T
+CACUUCAUAGUAUAACGAAUCU
+>10226341237, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 CACUUCAUAGUACAACGAAUCU
 |||||||||||||||*||||||
-CUCUUCAUAGUACAACGAAUCU
+CACUUCAUAGUACAAUGAAUCU
 
 osa-miR814c, Number of SNPs:5
-10210889728, Relative Position:16
-Mutated allele: A
+>10210889728, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 CACUUCAUAGUACAACGAAUCU
 |||||||||||||||*||||||
 CACUUCAUAGUACAAUGAAUCU
-10210889732, Relative Position:12
-Mutated allele: C
+>10210889732, Relative Position:12, Ref allele:T
+>>Mutated allele: C
 CACUUCAUAGUACAACGAAUCU
 |||||||||||*||||||||||
-CACUUCAUAGUACAAGGAAUCU
-10210889738, Relative Position:6
-Mutated allele: A
+CACUUCAUAGUGCAACGAAUCU
+>10210889738, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 CACUUCAUAGUACAACGAAUCU
 |||||*||||||||||||||||
-CACUUCAUAGUACAAUGAAUCU
-10210889739, Relative Position:5
-Mutated allele: G
+CACUUUAUAGUACAACGAAUCU
+>10210889739, Relative Position:5, Ref allele:A
+>>Mutated allele: G
 CACUUCAUAGUACAACGAAUCU
 ||||*|||||||||||||||||
-CACUUCAUAGUACAACGAAUCU
-10210889743, Relative Position:1
-Mutated allele: A
+CACUCCAUAGUACAACGAAUCU
+>10210889743, Relative Position:1, Ref allele:G
+>>Mutated allele: A
 CACUUCAUAGUACAACGAAUCU
 *|||||||||||||||||||||
-CACUUCAUAGUACAAUGAAUCU
+UACUUCAUAGUACAACGAAUCU
 
 osa-miR815b, Number of SNPs:1
-10514992306, Relative Position:1
-Mutated allele: C
+>10514992306, Relative Position:1, Ref allele:A
+>>Mutated allele: C
 AAGGGGAUUGAGGAGAUUGGG
 *||||||||||||||||||||
 CAGGGGAUUGAGGAGAUUGGG
 
 osa-miR815c, Number of SNPs:3
-10705426889, Relative Position:20
-Mutated allele: T
+>10705426889, Relative Position:20, Ref allele:C
+>>Mutated allele: T
 AAGGGGAUUGAGGAGAUUGGG
 |||||||||||||||||||*|
 AAGGGGAUUGAGGAGAUUGAG
-10705426894, Relative Position:15
-Mutated allele: T
+>10705426894, Relative Position:15, Ref allele:C
+>>Mutated allele: T
 AAGGGGAUUGAGGAGAUUGGG
 ||||||||||||||*||||||
-AAGGGGAUUGAGGAGAUUGAG
-10705426905, Relative Position:4
-Mutated allele: T
+AAGGGGAUUGAGGAAAUUGGG
+>10705426905, Relative Position:4, Ref allele:C
+>>Mutated allele: T
 AAGGGGAUUGAGGAGAUUGGG
 |||*|||||||||||||||||
-AAGGGGAUUGAGGAGAUUGAG
+AAGAGGAUUGAGGAGAUUGGG
 
 osa-miR817, Number of SNPs:2
-10212276379, Relative Position:11
-Mutated allele: G
+>10212276379, Relative Position:11, Ref allele:C
+>>Mutated allele: G
 UCCAACUUGAGGCCCGAUUGA
 ||||||||||*||||||||||
 UCCAACUUGACGCCCGAUUGA
-10212276386, Relative Position:4
-Mutated allele: C
+>10212276386, Relative Position:4, Ref allele:T
+>>Mutated allele: C
 UCCAACUUGAGGCCCGAUUGA
 |||*|||||||||||||||||
-UCCAACUUGAGGCCCGAUUGA
+UCCGACUUGAGGCCCGAUUGA
 
 osa-miR818a, Number of SNPs:4
-10140415542, Relative Position:5
-Mutated allele: A
+>10140415542, Relative Position:5, Ref allele:C
+>>Mutated allele: A
 AAUCCCUUAUAUUAUGGGACGG
 ||||*|||||||||||||||||
 AAUCACUUAUAUUAUGGGACGG
-Mutated allele: T
+>>Mutated allele: T
 AAUCCCUUAUAUUAUGGGACGG
 ||||*|||||||||||||||||
 AAUCUCUUAUAUUAUGGGACGG
-10140415543, Relative Position:6
-Mutated allele: A
+>10140415543, Relative Position:6, Ref allele:C
+>>Mutated allele: A
 AAUCCCUUAUAUUAUGGGACGG
 |||||*||||||||||||||||
-AAUCACUUAUAUUAUGGGACGG
-10140415553, Relative Position:16
-Mutated allele: A
+AAUCCAUUAUAUUAUGGGACGG
+>10140415553, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 AAUCCCUUAUAUUAUGGGACGG
 |||||||||||||||*||||||
-AAUCACUUAUAUUAUGGGACGG
-10140415555, Relative Position:18
-Mutated allele: A
+AAUCCCUUAUAUUAUAGGACGG
+>10140415555, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 AAUCCCUUAUAUUAUGGGACGG
 |||||||||||||||||*||||
-AAUCACUUAUAUUAUGGGACGG
+AAUCCCUUAUAUUAUGGAACGG
 
 osa-miR818b, Number of SNPs:2
-10204007282, Relative Position:5
-Mutated allele: T
+>10204007282, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 AAUCCCUUAUAUUAUGGGACGG
 ||||*|||||||||||||||||
 AAUCUCUUAUAUUAUGGGACGG
-10204007295, Relative Position:18
-Mutated allele: A
+>10204007295, Relative Position:18, Ref allele:G
+>>Mutated allele: A
 AAUCCCUUAUAUUAUGGGACGG
 |||||||||||||||||*||||
-AAUCACUUAUAUUAUGGGACGG
+AAUCCCUUAUAUUAUGGAACGG
 
 osa-miR818d, Number of SNPs:2
-10434969187, Relative Position:16
-Mutated allele: T
+>10434969187, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 AAUCCCUUAUAUUAUGGGACGG
 |||||||||||||||*||||||
 AAUCCCUUAUAUUAUAGGACGG
-10434969198, Relative Position:5
-Mutated allele: T
+>10434969198, Relative Position:5, Ref allele:G
+>>Mutated allele: T
 AAUCCCUUAUAUUAUGGGACGG
 ||||*|||||||||||||||||
-AAUCCCUUAUAUUAUAGGACGG
-Mutated allele: A
+AAUCACUUAUAUUAUGGGACGG
+>>Mutated allele: A
 AAUCCCUUAUAUUAUGGGACGG
 ||||*|||||||||||||||||
-AAUCCCUUAUAUUAUUGGACGG
+AAUCUCUUAUAUUAUGGGACGG
 
 osa-miR818e, Number of SNPs:1
-10728154441, Relative Position:16
-Mutated allele: T
+>10728154441, Relative Position:16, Ref allele:C
+>>Mutated allele: T
 AAUCCCUUAUAUUAUGGGACGG
 |||||||||||||||*||||||
 AAUCCCUUAUAUUAUAGGACGG
 
 osa-miR818f, Number of SNPs:3
-10818746597, Relative Position:17
-Mutated allele: G
+>10818746597, Relative Position:17, Ref allele:C
+>>Mutated allele: G
 GGGAGCAUGUAGGAUGGCCAU
 ||||||||||||||||*||||
 GGGAGCAUGUAGGAUGCCCAU
-10818746606, Relative Position:8
-Mutated allele: G
+>10818746606, Relative Position:8, Ref allele:A
+>>Mutated allele: G
 GGGAGCAUGUAGGAUGGCCAU
 |||||||*|||||||||||||
-GGGAGCAUGUAGGAUGCCCAU
-10818746608, Relative Position:6
-Mutated allele: A
+GGGAGCACGUAGGAUGGCCAU
+>10818746608, Relative Position:6, Ref allele:G
+>>Mutated allele: A
 GGGAGCAUGUAGGAUGGCCAU
 |||||*|||||||||||||||
-GGGAGCAUGUAGGAUGUCCAU
+GGGAGUAUGUAGGAUGGCCAU
 
 osa-miR820a, Number of SNPs:1
-10114130487, Relative Position:5
-Mutated allele: T
+>10114130487, Relative Position:5, Ref allele:C
+>>Mutated allele: T
 UCGGCCUCGUGGAUGGACCAG
 ||||*||||||||||||||||
 UCGGUCUCGUGGAUGGACCAG
 
 osa-miR820b, Number of SNPs:3
-10713120707, Relative Position:19
-Mutated allele: A
+>10713120707, Relative Position:19, Ref allele:G
+>>Mutated allele: A
 UCGGCCUCGUGGAUGGACCAG
 ||||||||||||||||||*||
 UCGGCCUCGUGGAUGGACUAG
-10713120715, Relative Position:11
-Mutated allele: T
+>10713120715, Relative Position:11, Ref allele:C
+>>Mutated allele: T
 UCGGCCUCGUGGAUGGACCAG
 ||||||||||*||||||||||
-UCGGCCUCGUGGAUGGACAAG
-10713120721, Relative Position:5
-Mutated allele: A
+UCGGCCUCGUAGAUGGACCAG
+>10713120721, Relative Position:5, Ref allele:G
+>>Mutated allele: A
 UCGGCCUCGUGGAUGGACCAG
 ||||*||||||||||||||||
-UCGGCCUCGUGGAUGGACUAG
+UCGGUCUCGUGGAUGGACCAG
 
 osa-miR820c, Number of SNPs:4
-11006928686, Relative Position:2
-Mutated allele: T
+>11006928686, Relative Position:2, Ref allele:C
+>>Mutated allele: T
 UCGGCCUCGUGGAUGGACCAG
 |*|||||||||||||||||||
 UUGGCCUCGUGGAUGGACCAG
-11006928697, Relative Position:13
-Mutated allele: T
+>11006928697, Relative Position:13, Ref allele:A
+>>Mutated allele: T
 UCGGCCUCGUGGAUGGACCAG
 ||||||||||||*||||||||
-UUGGCCUCGUGGAUGGACCAG
-11006928700, Relative Position:16
-Mutated allele: A
+UCGGCCUCGUGGUUGGACCAG
+>11006928700, Relative Position:16, Ref allele:G
+>>Mutated allele: A
 UCGGCCUCGUGGAUGGACCAG
 |||||||||||||||*|||||
-UAGGCCUCGUGGAUGGACCAG
-11006928705, Relative Position:21
-Mutated allele: T
+UCGGCCUCGUGGAUGAACCAG
+>11006928705, Relative Position:21, Ref allele:G
+>>Mutated allele: T
 UCGGCCUCGUGGAUGGACCAG
 ||||||||||||||||||||*
-UUGGCCUCGUGGAUGGACCAG
+UCGGCCUCGUGGAUGGACCAU
 
 osa-miR821a, Number of SNPs:1
-10322974252, Relative Position:14
-Mutated allele: C
+>10322974252, Relative Position:14, Ref allele:A
+>>Mutated allele: C
 AAGUCAUCAACAAAAAAGUUGAAU
 |||||||||||||*||||||||||
 AAGUCAUCAACAACAAAGUUGAAU
-Mutated allele: T
+>>Mutated allele: T
 AAGUCAUCAACAAAAAAGUUGAAU
 |||||||||||||*||||||||||
 AAGUCAUCAACAAUAAAGUUGAAU
 
 osa-miR821b, Number of SNPs:1
-10716417258, Relative Position:14
-Mutated allele: C
+>10716417258, Relative Position:14, Ref allele:A
+>>Mutated allele: C
 AAGUCAUCAACAAAAAAGUUGAAU
 |||||||||||||*||||||||||
 AAGUCAUCAACAACAAAGUUGAAU
 
 osa-miR821c, Number of SNPs:1
-10819925371, Relative Position:14
-Mutated allele: G
+>10819925371, Relative Position:14, Ref allele:T
+>>Mutated allele: G
 AAGUCAUCAACAAAAAAGUUGAAU
 |||||||||||||*||||||||||
 AAGUCAUCAACAACAAAGUUGAAU
