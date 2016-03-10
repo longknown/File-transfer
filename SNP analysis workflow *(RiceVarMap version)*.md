@@ -42,7 +42,7 @@
 **Scripts involved:**
 
 * ```snp_signature.py```
-	* params: reads in a table containing SNPs within miRNAs, table headers are miRNA name(1), snp_id(2), ref_allele(3), nonRef_allele(4)
+	* params: reads in a table containing SNPs within miRNAs, table headers are miRNA name(1), snp\_id(2), ref\_allele(3), nonRef\_allele(4)
 	* returns:
 		* -p: prints out reference pattern and non-reference pattern of each miRNA precursor
 		* -s: prints out the haplotype of each miRNA precursor
@@ -59,7 +59,7 @@
 	* params (input file)
 		* miRinfo file columns are: "precursor, sequence, strand +/-, chr_id, start, end"
 		* hap_tab file columns are: "precursor, trinary pattern"
-		* snp_info file columns are: "SNP ID, chr_id, position, Ref_allele, NonRef_allele"
+		* snp\_info file columns are: "SNP ID, chr\_id, position, Ref\_allele, NonRef\_allele"
 		* haplotype file: "miRNA: SNP1, SNP2, SNP3..."
 	* return: a table containing miRNA name, haplotype, original RNA seq, mutated RNA seq
 
