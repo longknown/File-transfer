@@ -1,0 +1,148 @@
+#Deleted in new
+chr01	17682123	17682143	osa-miR159a.2
+#Deleted in new
+chr01	9760718	9760738	osa-miR159e
+#Deleted in new
+chr01	19880208	19880228	osa-miR439a
+#Deleted in new
+chr01	27181881	27181901	osa-miR2870
+#Duplicated in new
+chr01	8417119	8417142	osa-miR5143a
+#Duplicated in new
+chr01	13088733	13088756	osa-miR5802
+#Deleted in new
+chr01	29695852	29695872	osa-miR5819
+#Deleted in new
+chr01	1761540	1761563	osa-miR5824
+#Deleted in new
+chr01	17682164	17682184	osa-miR159a.1
+#Deleted in new
+chr10	17228177	17228197	osa-miR5504
+#Duplicated in new
+chr10	529335	529355	osa-miR1846a-3p
+#Duplicated in new
+chr11	16195125	16195146	osa-miR2100-5p
+#Duplicated in new
+chr11	6081670	6081690	osa-miR169o
+#Duplicated in new
+chr11	21709050	21709070	osa-miR1855
+#Duplicated in new
+chr11	7810747	7810768	osa-miR2118q
+#Duplicated in new
+chr11	7810261	7810282	osa-miR2118r
+#Duplicated in new
+chr11	6404490	6404510	osa-miR5534b
+#Duplicated in new
+chr11	7740111	7740134	osa-miR5790
+#Deleted in new
+chr12	20553832	20553853	osa-miR5539b
+#Deleted in new
+chr02	29779650	29779670	osa-miR2094-5p
+#Duplicated in new
+chr02	1936332	1936353	osa-miR812b
+#Duplicated in new
+chr02	12276369	12276389	osa-miR817
+#Duplicated in new
+chr02	20715979	20716000	osa-miR1861b
+#Duplicated in new
+chr02	20716196	20716217	osa-miR1861c
+#Deleted in new
+chr02	29869574	29869597	osa-miR2863c
+#Deleted in new
+chr02	29779679	29779700	osa-miR2094-3p
+#Duplicated in new
+chr03	23076880	23076901	osa-miR1428e-5p
+#Deleted in new
+chr03	765735	765755	osa-miR166e-5p
+#Deleted in new
+chr03	6510880	6510903	osa-miR1866-5p
+#Deleted in new
+chr03	1164964	1164987	osa-miR812h
+#Duplicated in new
+chr03	14094764	14094782	osa-miR5077
+#Deleted in new
+chr03	744670	744690	osa-miR6249a
+#Deleted in new
+chr03	1235636	1235657	osa-miR6256
+#Duplicated in new
+chr03	23076951	23076971	osa-miR1428e-3p
+#Deleted in new
+chr03	765831	765851	osa-miR166e-3p
+#Deleted in new
+chr03	6510921	6510942	osa-miR1866-3p
+#Duplicated in new
+chr05	15185821	15185841	osa-miR5338
+#Duplicated in new
+chr05	13979428	13979448	osa-miR5516a
+#Deleted in new
+chr06	26554836	26554855	osa-miR156j-5p
+#Deleted in new
+chr06	27296005	27296025	osa-miR169b
+#Deleted in new
+chr06	26260440	26260461	osa-miR812c
+#Deleted in new
+chr06	27238262	27238283	osa-miR1861h
+#Deleted in new
+chr06	26661423	26661446	osa-miR5814
+#Deleted in new
+chr06	4758671	4758691	osa-miR5834
+#Deleted in new
+chr06	26554902	26554923	osa-miR156j-3p
+#Duplicated in new
+chr07	5426888	5426908	osa-miR815c
+#Duplicated in new
+chr07	16417245	16417268	osa-miR821b
+#Deleted in new
+chr07	16898	16919	osa-miR5081
+#Deleted in new
+chr07	16719848	16719870	osa-miR2275c
+#Duplicated in new
+chr07	25019061	25019082	osa-miR6253
+#Duplicated in new
+chr07	25018839	25018860	osa-miR6255
+#Duplicated in new
+chr08	21478233	21478252	osa-miR156f-5p
+#Duplicated in new
+chr08	21476224	21476247	osa-miR5157a-5p
+#Duplicated in new
+chr08	3956048	3956069	osa-miR1437a
+#Duplicated in new
+chr08	19806532	19806555	osa-miR812j
+#Duplicated in new
+chr08	22733821	22733844	osa-miR2120
+#Duplicated in new
+chr08	1205071	1205092	osa-miR2275a
+#Duplicated in new
+chr08	4114070	4114090	osa-miR5071
+#Deleted in new
+chr08	19020505	19020527	osa-miR5073
+#Deleted in new
+chr08	25426161	25426184	osa-miR812p
+#Duplicated in new
+chr08	17084777	17084797	osa-miR5797
+#Duplicated in new
+chr08	3955932	3955955	osa-miR1437b-3p
+#Duplicated in new
+chr08	21478393	21478414	osa-miR156f-3p
+#Duplicated in new
+chr08	21476175	21476198	osa-miR5157a-3p
+#Deleted in new
+chr09	15065256	15065275	osa-miR156g-5p
+#Deleted in new
+chr09	6607363	6607383	osa-miR395t
+#Deleted in new
+chr09	6606711	6606731	osa-miR395u
+#Duplicated in new
+chr09	16963092	16963112	osa-miR439f
+#Deleted in new
+chr09	6606575	6606595	osa-miR395v
+#Deleted in new
+chr09	6606291	6606312	osa-miR395w
+#Deleted in new
+chr09	6896428	6896448	osa-miR5491
+#Deleted in new
+chr09	15792347	15792367	osa-miR6251
+#Deleted in new
+chr09	15065346	15065367	osa-miR156g-3p
+#Deleted in new
+chr0Un	521065	521086	osa-miR1861o
