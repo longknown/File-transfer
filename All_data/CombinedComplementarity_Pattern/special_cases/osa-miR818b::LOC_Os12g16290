@@ -1,0 +1,260 @@
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CANG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CaTG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||| ||||||||| || ||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+Pos18: Paired to Mismatch
+********************************************************************************
+--
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CANN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGtN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: tGNN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCUCUUAUAUUAUGGGACGG
+||||*||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGtG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: NGtG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CaNG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CaNN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: TGNN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCUCUUAUAUUAUGGGACGG
+||||*||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGta
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| *||||||
+UUAGAGAAUAUAAUCUCCUGCC
+Pos5: Paired to Mismatch
+Pos16: Paired to Mismatch
+********************************************************************************
+--
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CNTG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: tGTG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCUCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Mutated but Still Paired
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CACG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: TGCG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCUCUUAUAUUAUGGGACGG
+||||*||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CACN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CATG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||| ||||||||| || ||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+Pos18: Paired to Mismatch
+********************************************************************************
+--
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: TGTG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCUCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Mutated but Still Paired
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGTN
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CaCG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGAACGG
+|||||||||||||| || ||||
+UUAGGGAAUAUAAUCCCCUGCC
+Pos18: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGTG
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| |||||||
+UUAGAGAAUAUAAUCCCCUGCC
+Pos5: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGCA
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| *||||||
+UUAGGGAAUAUAAUCUCCUGCC
+Pos16: Paired to Mismatch
+********************************************************************************
+osa-miR818b::LOC_Os12g16290	Ref_pattern: CGCG	Hap_pattern: CGTA
+Visualized Reference Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||||||||||||| |||||||
+UUAGGGAAUAUAAUCCCCUGCC
+Visualized Haplotype Pattern:
+AAUCCCUUAUAUUAUGGGACGG
+|||| ||||||||| *||||||
+UUAGAGAAUAUAAUCUCCUGCC
+Pos5: Paired to Mismatch
+Pos16: Paired to Mismatch
+********************************************************************************

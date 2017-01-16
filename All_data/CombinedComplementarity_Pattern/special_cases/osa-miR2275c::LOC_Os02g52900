@@ -1,0 +1,83 @@
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: tttC
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+AGAAUUGAAGGAAAACAAAC
+|*||*||||**|||| ||||
+UUUUGACUUUUUUUUUUUUG
+Pos8: Mutated but Still Paired
+Pos11: Paired to Mismatch
+--
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: TTCC
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||*|**|||| ||||
+UUUUGACUUUUUUUUUUUUG
+Pos8: Paired to Mismatch
+Pos11: Paired to Mismatch
+--
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: CCTN
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+AGAAUUGAAGGAAAACAAAC
+|*||*|| |*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Pos8: Paired to Mismatch
+********************************************************************************
+--
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: ttCC
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||*|**|||| ||||
+UUUUGACUUUUUUUUUUUUG
+Pos8: Paired to Mismatch
+Pos11: Paired to Mismatch
+--
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: CCtC
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+AGAAUUGAAGGAAAACAAAC
+|*||*|| |*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Pos8: Paired to Mismatch
+********************************************************************************
+--
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: CCTC
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+AGAAUUGAAGGAAAACAAAC
+|*||*|| |*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Pos8: Paired to Mismatch
+********************************************************************************
+--
+osa-miR2275c::LOC_Os02g52900	Ref_pattern: CCCC	Hap_pattern: CCCG
+Visualized Reference Pattern:
+AGAAUUGGAGGAAAACAAAC
+|*||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Visualized Haplotype Pattern:
+ACAAUUGGAGGAAAACAAAC
+| ||*||||*||||| ||||
+UUUUGACCUUCUUUUUUUUG
+Pos2: Mutated but Still Mismatch
+********************************************************************************
